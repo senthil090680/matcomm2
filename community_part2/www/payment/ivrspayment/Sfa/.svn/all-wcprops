@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/communitymatrimony/!svn/ver/7959/www/payment/ivrspayment/Sfa
+END
+AirLineTransaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/communitymatrimony/!svn/ver/7426/www/payment/ivrspayment/Sfa/AirLineTransaction.php
+END
+BillToAddress.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/communitymatrimony/!svn/ver/7426/www/payment/ivrspayment/Sfa/BillToAddress.php
+END
+PGSearchResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/communitymatrimony/!svn/ver/7426/www/payment/ivrspayment/Sfa/PGSearchResponse.php
+END
+PGReserveData.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/communitymatrimony/!svn/ver/7426/www/payment/ivrspayment/Sfa/PGReserveData.php
+END
+ShipToAddress.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/communitymatrimony/!svn/ver/7426/www/payment/ivrspayment/Sfa/ShipToAddress.php
+END
+MPIData.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/communitymatrimony/!svn/ver/7426/www/payment/ivrspayment/Sfa/MPIData.php
+END
+Merchant.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/communitymatrimony/!svn/ver/7426/www/payment/ivrspayment/Sfa/Merchant.php
+END
+MerchanDise.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/communitymatrimony/!svn/ver/7426/www/payment/ivrspayment/Sfa/MerchanDise.php
+END
+PostLibPHP.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/communitymatrimony/!svn/ver/7959/www/payment/ivrspayment/Sfa/PostLibPHP.php
+END
+Address.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/communitymatrimony/!svn/ver/7426/www/payment/ivrspayment/Sfa/Address.php
+END
+CardInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/communitymatrimony/!svn/ver/7426/www/payment/ivrspayment/Sfa/CardInfo.php
+END
+PGResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/communitymatrimony/!svn/ver/7426/www/payment/ivrspayment/Sfa/PGResponse.php
+END
+SessionDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/communitymatrimony/!svn/ver/7426/www/payment/ivrspayment/Sfa/SessionDetail.php
+END
+CustomerDetails.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/communitymatrimony/!svn/ver/7426/www/payment/ivrspayment/Sfa/CustomerDetails.php
+END

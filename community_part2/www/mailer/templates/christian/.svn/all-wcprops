@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/communitymatrimony/!svn/ver/8441/www/mailer/templates/christian
+END
+inboxbasic.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/communitymatrimony/!svn/ver/4783/www/mailer/templates/christian/inboxbasic.tpl
+END
+profileAdminModify.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/communitymatrimony/!svn/ver/4783/www/mailer/templates/christian/profileAdminModify.tpl
+END
+forgotPassword.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/communitymatrimony/!svn/ver/4783/www/mailer/templates/christian/forgotPassword.tpl
+END
+inactive1.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/communitymatrimony/!svn/ver/4802/www/mailer/templates/christian/inactive1.tpl
+END
+inactive2.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/communitymatrimony/!svn/ver/4802/www/mailer/templates/christian/inactive2.tpl
+END
+inactive3.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/communitymatrimony/!svn/ver/4802/www/mailer/templates/christian/inactive3.tpl
+END
+matchwatchbasic.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/communitymatrimony/!svn/ver/4783/www/mailer/templates/christian/matchwatchbasic.tpl
+END
+paymentConfirmation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/communitymatrimony/!svn/ver/5621/www/mailer/templates/christian/paymentConfirmation.tpl
+END
+profileModification.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/communitymatrimony/!svn/ver/4783/www/mailer/templates/christian/profileModification.tpl
+END
+tme_assuredcontact.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/communitymatrimony/!svn/ver/4783/www/mailer/templates/christian/tme_assuredcontact.tpl
+END
+profileDeleted.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/communitymatrimony/!svn/ver/4783/www/mailer/templates/christian/profileDeleted.tpl
+END
+request.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/communitymatrimony/!svn/ver/8080/www/mailer/templates/christian/request.tpl
+END
+registrationConfirm.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/communitymatrimony/!svn/ver/8078/www/mailer/templates/christian/registrationConfirm.tpl
+END
+partnerpref.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/communitymatrimony/!svn/ver/4783/www/mailer/templates/christian/partnerpref.tpl
+END
+modify_reject_request.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/communitymatrimony/!svn/ver/8441/www/mailer/templates/christian/modify_reject_request.tpl
+END
+troublewithUrProfile.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/communitymatrimony/!svn/ver/8441/www/mailer/templates/christian/troublewithUrProfile.tpl
+END
+phone_support.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/communitymatrimony/!svn/ver/5539/www/mailer/templates/christian/phone_support.tpl
+END
+dailymatchwatch.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/communitymatrimony/!svn/ver/6993/www/mailer/templates/christian/dailymatchwatch.tpl
+END
+messagemails.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/communitymatrimony/!svn/ver/8080/www/mailer/templates/christian/messagemails.tpl
+END
+requestadded.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/communitymatrimony/!svn/ver/4783/www/mailer/templates/christian/requestadded.tpl
+END
+profileValidation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/communitymatrimony/!svn/ver/4783/www/mailer/templates/christian/profileValidation.tpl
+END
+rsscommunity.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/communitymatrimony/!svn/ver/4783/www/mailer/templates/christian/rsscommunity.tpl
+END

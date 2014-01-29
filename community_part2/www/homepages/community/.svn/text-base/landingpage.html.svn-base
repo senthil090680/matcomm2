@@ -1,0 +1,723 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Matrimonials, Matrimonial, Community Brides &amp; Grooms - CommunityMatrimony</title>
+<meta name="description" content="CommunityMatrimony, Exclusive Matrimony Portal from CommunityMatrimony Click here to Register FREE &amp; get FREE Matches" />
+<meta name="keywords" content="Community Matrimonial, Community Matrimonials, Community Matrimony" />
+<meta name="Author" content="CommunityMatrimony.com Community Matrimonial Team" />
+<meta name="copyright" content="Communitymatrimony.com Matrimonials" />
+<meta name="Distribution" content="general" />
+  <link rel="stylesheet" href="http://imgs.communitymatrimony.com/styles/landstyle.css" />
+    <script language="javascript" src="http://imgs.communitymatrimony.com/scripts/common.js"></script>
+  <script language="javascript" src="http://imgs.communitymatrimony.com/scripts/global.js"></script>
+<script language="javascript" src="http://imgs.communitymatrimony.com/scripts/landing.js"></script>
+ </HEAD>
+
+ <BODY>
+ <center>
+<div id="maincontainer">
+	<div id="container">
+		<div class="padt5">
+			<div class="fleft"><img src="http://imgs.communitymatrimony.com/images/logo/community_logo.gif" width="380" height="40" alt="Community Matrimonials" border="0" vspace="10" /></div>
+		</div>
+		<div class="fleft lpanel1 tlleft padt7 padl10"><font class="headtxt clr4 bld">Find your lifepartner from your community</font></div>
+		<div class="fleft rpanel1 tlleft"><div class="fleft"><img src="http://imgs.communitymatrimony.com/images/regfree1.gif" /></div><div class="fleft padt12">&nbsp;&nbsp;&nbsp;<font class="smalltxt clr4">All fields are mandatory</font></div></div>
+		<div class="fleft lpanel2" style="padding-top:1px;">
+		   <a href="http://www.communitymatrimony.com/homepages/community/morelinks.html"><img src="http://imgs.communitymatrimony.com/images/community_land.gif" border="0" /></a>
+		</div>
+		<div class="fleft rpanel2">
+			<center>
+			<form name="landfrm" method="post" onSubmit="return validlandpage();">
+			<input type="hidden" name="partnerLanding" value="yes" />
+				<div style="width:310px;padding-top:15px;">
+					<div class="ltform formtxt fleft">Name</div>
+					<div class="rtform fleft"><input type="text" class="inputtext" name="name" /></div>
+					<div class="ltform formtxt fleft">Age</div>
+					<div class="rtform fleft"><select class="homeselect" style="width:40px;" name="dobMonth" onChange="document.landfrm.age.value='yrs';"><option value="0">MM</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option></select>
+					<select class="homeselect" style="width:40px;" name="dobDay" onChange="document.landfrm.age.value='yrs';"><option selected="" value="0">DD</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+					<select class="homeselect" style="width:55px;" name="dobYear" onChange="document.landfrm.age.value='yrs';"><option value="0">YYYY</option><option value="1938">1938</option><option value="1939">1939</option><option value="1940">1940</option><option value="1941">1941</option><option value="1942">1942</option><option value="1943">1943</option><option value="1944">1944</option><option value="1945">1945</option><option value="1946">1946</option><option value="1947">1947</option><option value="1948">1948</option><option value="1949">1949</option><option value="1950">1950</option><option value="1951">1951</option><option value="1952">1952</option><option value="1953">1953</option><option value="1954">1954</option><option value="1955">1955</option><option value="1956">1956</option><option value="1957">1957</option><option value="1958">1958</option><option value="1959">1959</option><option value="1960">1960</option><option value="1961">1961</option><option value="1962">1962</option><option value="1963">1963</option><option value="1964">1964</option><option value="1965">1965</option><option value="1966">1966</option><option value="1967">1967</option><option value="1968">1968</option><option value="1969">1969</option><option value="1970">1970</option><option value="1971">1971</option><option value="1972">1972</option><option value="1973">1973</option><option value="1974">1974</option><option value="1975">1975</option><option value="1976">1976</option><option value="1977">1977</option><option value="1978">1978</option><option value="1979">1979</option><option value="1980">1980</option><option value="1981">1981</option><option value="1982">1982</option><option value="1983">1983</option><option value="1984">1984</option><option value="1985">1985</option><option value="1986">1986</option><option value="1987">1987</option><option value="1988">1988</option><option value="1989">1989</option><option value="1990">1990</option><option value="1991">1991</option></select> (or) <input type="text" class="inputtext" style="width:25px;" maxlength="2" value="yrs" name="age" onclick="javascript:this.select();" onBlur="if(document.landfrm.age.value!='yrs'){document.landfrm.dobMonth.value='0';document.landfrm.dobDay.value='0';document.landfrm.dobYear.value='0';}" /></div>
+					<div class="ltform formtxt fleft">Gender</div>
+					<div class="rtform fleft formtxt"><input id="gendermale" type="radio" value="1" name="gender" />Male&nbsp;&nbsp;&nbsp;<input type="radio" value="2" name="gender" />Female</div>
+					<!-- <div class="ltform formtxt fleft">Religion</div>
+					<div class="rtform fleft"><select class="homeselect" name="religion"><option selected="" value="0">-------- Select your Religion --------</option><option value="1">Hindu</option>
+<option value="2">Muslim</option><option value="10">Muslim - Shia</option><option value="11">Muslim - Sunni</option><option value="3">Christian</option><option value="12">Christian - Catholic</option>
+<option value="13">Christian - Orthodox</option><option value="14">Christian - Protestant</option>
+<option value="4">Sikh</option><option value="5">Jain</option><option value="15">Jain - Digambar</option><option value="16">Jain - Shwetambar</option><option value="6">Parsi</option>
+<option value="7">Buddhist</option><option value="8">Inter-Religion</option><option value="9">No Religious Belief</option></select></div>
+					<div class="ltform formtxt fleft">Mother Tongue</div>
+					<div class="rtform fleft"><select class="homeselect" name="motherTongue"><option selected="" value="0">--- Select your Mother Tongue ---</option><option value="1">Arunachali</option><option value="2">Assamese</option><option value="3">Awadhi</option><option value="4">Bengali</option><option value="5">Bhojpuri</option><option value="6">Brij</option><option value="7">Bihari</option><option value="8">Chatisgarhi</option><option value="9">Dogri</option><option value="10">English</option><option value="11">French</option><option value="12">Garhwali</option><option value="13">Garo</option><option value="14">Gujarati</option><option value="15">Haryanvi</option><option value="16">Himachali/Pahari</option><option value="17">Hindi</option><option value="18">Kanauji</option><option value="19">Kannada</option><option value="20">Kashmiri</option><option value="21">Khandesi</option><option value="22">Khasi</option><option value="23">Konkani</option><option value="24">Koshali</option><option value="25">Kumoani</option><option value="26">Kutchi</option><option value="27">Lepcha</option><option value="28">Ladacki</option><option value="29">Magahi</option><option value="30">Maithili</option><option value="31">Malayalam</option><option value="32">Manipuri</option><option value="33">Marathi</option><option value="34">Marwari</option><option value="35">Miji</option><option value="36">Mizo</option><option value="37">Monpa</option><option value="38">Nicobarese</option><option value="39">Nepali</option><option value="40">Oriya</option><option value="41">Punjabi</option><option value="42">Rajasthani</option><option value="43">Sanskrit</option><option value="44">Santhali</option><option value="45">Sindhi</option><option value="46">Sourashtra</option><option value="47">Tamil</option><option value="48">Telugu</option><option value="49">Tripuri</option><option value="50">Tulu</option><option value="51">Urdu</option><option value="52">Bhutia</option><option value="53">Italian</option><option value="54">Kakbarak</option><option value="55">Persian</option><option value="56">Spanish</option><option value="57">Vietnamese</option><option value="58">Arabic</option><option value="59">Chinese</option><option value="60">Portuguese</option><option value="61">Russian</option><option value="62">Thai</option><option value="63">Bahasa indonesia</option><option value="64">Malay</option><option value="65">Sinhalese</option><option value="100">Turkish</option><option value="101">Kurdish</option><option value="102">Kiswahili</option><option value="103">Filipino</option><option value="104">German</option><option value="105">Albanian</option><option value="106">Chichewa</option><option value="107">Serbian</option><option value="108">Dutch</option><option value="109">Farsi</option><option value="110">Hausa</option><option value="111">Javanese</option><option value="112">Mandarin</option><option value="113">Pashtu</option><option value="114">Sundanese</option><option value="115">Turkmen</option></select></div> -->
+					<div class="ltform formtxt fleft">Select Community</div>
+					<div class="rtform fleft"><select class="homeselect" name="community"><option value="0">-------Select your Community-------</option>
+					<option value="addharmi">AddharmiMatrimony</option>
+				<option value="adidravidar">AdidravidarMatrimony</option>
+				<option value="agarwal">AgarwalMatrimony</option>
+				<option value="agri">AgriMatrimony</option>
+				<option value="ahom">AhomMatrimony</option>
+
+				<option value="ambalavasi">AmbalavasiMatrimony</option>
+				<option value="anavil">Anavilmatrimony</option>
+				<option value="arekatica">ArekaticaMatrimony</option>
+				<option value="arora">AroraMatrimony</option>
+				<option value="arunthathiyar">ArunthathiyarMatrimony</option>
+				<option value="aryavysya">AryavysyaMatrimony</option>
+
+				<option value="audichya">Audichyamatrimony</option>
+				<option value="badagar">BadagarMatrimony</option>
+				<option value="baidya">BaidyaMatrimony</option>
+				<option value="baishnab">BaishnabMatrimony</option>
+				<option value="baishya">BaishyaMatrimony</option>
+				<option value="balijanaidu">BalijanaiduMatrimony</option>
+
+				<option value="banik">BanikMatrimony</option>
+				<option value="baniya">BaniyaMatrimony</option>
+				<option value="banjara">BanjaraMatrimony</option>
+				<option value="barai">BaraiMatrimony</option>
+				<option value="barendra">Barendramatrimony</option>
+				<option value="bari">BariMatrimony</option>
+
+				<option value="barujibi">BarujibiMatrimony</option>
+				<option value="besta">BestaMatrimony</option>
+				<option value="bhandari">BhandariMatrimony</option>
+				<option value="bhatia">BhatiaMatrimony</option>
+				<option value="bhatraju">BhatrajuMatrimony</option>
+				<option value="bhatt">Bhattmatrimony</option>
+
+				<option value="bhavasarkshatriya">Bhavasarkshatriyamatrimony</option>
+				<option value="bhovi">BhoviMatrimony</option>
+				<option value="bhumihar">Bhumiharmatrimony</option>
+				<option value="billava">BillavaMatrimony</option>
+				<option value="boyer">BoyerMatrimony</option>
+				<option value="brahmbhatt">BrahmbhattMatrimony</option>
+
+				<option value="brahmin">BrahminMatrimony</option>
+				<option value="chambhar">ChambharMatrimony</option>
+				<option value="chandravanshikahar">ChandravanshikaharMatrimony</option>
+				<option value="chasa">ChasaMatrimony</option>
+				<option value="chattadasrivaishnava">ChattadasrivaishnavaMatrimony</option>
+				<option value="chaudary">ChaudaryMatrimony</option>
+
+				<option value="chaurasia">ChaurasiaMatrimony</option>
+				<option value="chettiyar">ChettiyarMatrimony</option>
+				<option value="chhetri">ChhetriMatrimony</option>
+				<option value="chippolu">ChippoluMatrimony</option>
+				<option value="ckp">CkpMatrimony</option>
+				<option value="coorg">CoorgMatrimony</option>
+
+				<option value="daivadnya">Daivadnyamatrimony</option>
+				<option value="danua">Danuamatrimony</option>
+				<option value="deshastha">Deshasthamatrimony</option>
+				<option value="devadiga">DevadigaMatrimony</option>
+				<option value="devandrar">Devandrarmatrimony</option>
+				<option value="devanga">DevangaMatrimony</option>
+
+				<option value="devangkoshthi">DevangkoshthiMatrimony</option>
+				<option value="dhanghar">DhangharMatrimony</option>
+				<option value="dheevara">DheevaraMatrimony</option>
+				<option value="dhiman">DhimanMatrimony</option>
+				<option value="dhoba">DhobaMatrimony</option>
+				<option value="dhobi">DhobiMatrimony</option>
+
+				<option value="dravida">Dravidamatrimony</option>
+				<option value="dumal">DumalMatrimony</option>
+				<option value="dusadh">DusadhMatrimony</option>
+				<option value="ediga">EdigaMatrimony</option>
+				<option value="ezhava">EzhavaMatrimony</option>
+				<option value="ezhuthachan">EzhuthachanMatrimony</option>
+
+				<option value="gabit">GabitMatrimony</option>
+				<option value="gandla">GandlaMatrimony</option>
+				<option value="ganiga">GanigaMatrimony</option>
+				<option value="garhwal">GarhwalMatrimony</option>
+				<option value="gaur">Gaurmatrimony</option>
+				<option value="gavaranaidu">GavaranaiduMatrimony</option>
+
+				<option value="gawali">GawaliMatrimony</option>
+				<option value="ghisadi">GhisadiMatrimony</option>
+				<option value="ghumar">GhumarMatrimony</option>
+				<option value="goala">GoalaMatrimony</option>
+				<option value="gomantak">GomantakMatrimony</option>
+				<option value="gondhali">GondhaliMatrimony</option>
+
+				<option value="goud">GoudMatrimony</option>
+				<option value="goundar">GoundarMatrimony</option>
+				<option value="gowda">GowdaMatrimony</option>
+				<option value="gramani">GramaniMatrimony</option>
+				<option value="gudia">GudiaMatrimony</option>
+				<option value="gujjar">GujjarMatrimony</option>
+
+				<option value="gupta">GuptaMatrimony</option>
+				<option value="guptan">GuptanMatrimony</option>
+				<option value="gurav">GuravMatrimony</option>
+				<option value="gurjar">GurjarMatrimony</option>
+				<option value="gurukkal">GurukkalMatrimony</option>
+				<option value="halua">Haluamatrimony</option>
+
+				<option value="havyaka">Havyakamatrimony</option>
+				<option value="hoysala">Hoysalamatrimony</option>
+				<option value="hugar">HugarMatrimony</option>
+				<option value="intercaste">Intercastematrimony</option>
+				<option value="irani">IraniMatrimony</option>
+				<option value="iyengar">IyengarMatrimony</option>
+
+				<option value="iyer">IyerMatrimony</option>
+				<option value="jaalari">JaalariMatrimony</option>
+				<option value="jaiswal">JaiswalMatrimony</option>
+				<option value="jandra">JandraMatrimony</option>
+				<option value="jangam">JangamMatrimony</option>
+				<option value="jangid">Jangidmatrimony</option>
+
+				<option value="jat">JatMatrimony</option>
+				<option value="jatav">JatavMatrimony</option>
+				<option value="jhadua">Jhaduamatrimony</option>
+				<option value="jogi">JogiMatrimony</option>
+				<option value="kachara">KacharaMatrimony</option>
+				<option value="kadavapatel">Kadavapatelmatrimony</option>
+
+				<option value="kaibarta">KaibartaMatrimony</option>
+				<option value="kalar">KalarMatrimony</option>
+				<option value="kalinga">KalingaMatrimony</option>
+				<option value="kalingavysya">Kalingavysyamatrimony</option>
+				<option value="kalita">KalitaMatrimony</option>
+				<option value="kalwar">KalwarMatrimony</option>
+
+				<option value="kamboj">KambojMatrimony</option>
+				<option value="kammanaidu">KammanaiduMatrimony</option>
+				<option value="kansari">KansariMatrimony</option>
+				<option value="kanyakubj">Kanyakubjmatrimony</option>
+				<option value="kapunaidu">KapunaiduMatrimony</option>
+				<option value="karana">KaranaMatrimony</option>
+
+				<option value="karhade">Karhadematrimony</option>
+				<option value="karmakar">KarmakarMatrimony</option>
+				<option value="karuneegar">KaruneegarMatrimony</option>
+				<option value="kasar">KasarMatrimony</option>
+				<option value="kashyap">KashyapMatrimony</option>
+				<option value="katiya">KatiyaMatrimony</option>
+
+				<option value="kayastha">KayasthaMatrimony</option>
+				<option value="khandayat">KhandayatMatrimony</option>
+				<option value="khandelwal">KhandelwalMatrimony</option>
+				<option value="kharwar">KharwarMatrimony</option>
+				<option value="khatri">KhatriMatrimony</option>
+				<option value="koiri">KoiriMatrimony</option>
+
+				<option value="kokanastha">Kokanasthamatrimony</option>
+				<option value="kokanasthamaratha">Kokanasthamarathamatrimony</option>
+				<option value="koli">KoliMatrimony</option>
+				<option value="konguvelalagounder">KonguvelalagounderMatrimony</option>
+				<option value="konkan">KonkanMatrimony</option>
+				<option value="kori">KoriMatrimony</option>
+
+				<option value="kota">Kotamatrimony</option>
+				<option value="kshatriya">KshatriyaMatrimony</option>
+				<option value="kudumbi">KudumbiMatrimony</option>
+				<option value="kulal">KulalMatrimony</option>
+				<option value="kulalar">KulalarMatrimony</option>
+				<option value="kulin">Kulinmatrimony</option>
+
+				<option value="kulita">KulitaMatrimony</option>
+				<option value="kumawat">KumawatMatrimony</option>
+				<option value="kumbhakar">KumbhakarMatrimony</option>
+				<option value="kumbhar">KumbharMatrimony</option>
+				<option value="kumhar">KumharMatrimony</option>
+				<option value="kummari">KummariMatrimony</option>
+
+				<option value="kumoani">Kumoanimatrimony</option>
+				<option value="kunbi">KunbiMatrimony</option>
+				<option value="kuravan">KuravanMatrimony</option>
+				<option value="kurmi">KurmiMatrimony</option>
+				<option value="kurmikshatriya">Kurmikshatriyamatrimony</option>
+				<option value="kuruba">KurubaMatrimony</option>
+
+				<option value="kuruhinashetty">KuruhinashettyMatrimony</option>
+				<option value="kurumbar">KurumbarMatrimony</option>
+				<option value="lambani">Lambanimatrimony</option>
+				<option value="levapatel">Levapatelmatrimony</option>
+				<option value="levapatil">Levapatilmatrimony</option>
+				<option value="lingayath">LingayathMatrimony</option>
+
+				<option value="lodhirajput">Lodhirajputmatrimony</option>
+				<option value="lohana">LohanaMatrimony</option>
+				<option value="lubana">LubanaMatrimony</option>
+				<option value="madhva">Madhvamatrimony</option>
+				<option value="madiga">MadigaMatrimony</option>
+				<option value="mahajan">MahajanMatrimony</option>
+
+				<option value="mahar">MaharMatrimony</option>
+				<option value="mahendra">MahendraMatrimony</option>
+				<option value="maheshwari">MaheshwariMatrimony</option>
+				<option value="mahishya">MahishyaMatrimony</option>
+				<option value="maithil">Maithilmatrimony</option>
+				<option value="majabi">MajabiMatrimony</option>
+
+				<option value="mala">MalaMatrimony</option>
+				<option value="mali">MaliMatrimony</option>
+				<option value="malla">MallaMatrimony</option>
+				<option value="mangalorean">MangaloreanMatrimony</option>
+				<option value="manipuri">ManipuriMatrimony</option>
+				<option value="mapila">MapilaMatrimony</option>
+
+				<option value="maratha">MarathaMatrimony</option>
+				<option value="maruthuvar">MaruthuvarMatrimony</option>
+				<option value="matang">MatangMatrimony</option>
+				<option value="mathur">MathurMatrimony</option>
+				<option value="meena">MeenaMatrimony</option>
+				<option value="meenavar">MeenavarMatrimony</option>
+
+				<option value="mehra">MehraMatrimony</option>
+				<option value="merudarji">MerudarjiMatrimony</option>
+				<option value="mochi">Mochimatrimony</option>
+				<option value="modak">ModakMatrimony</option>
+				<option value="modh">Modhmatrimony</option>
+				<option value="mogaveera">MogaveeraMatrimony</option>
+
+				<option value="mudaliyar">MudaliyarMatrimony</option>
+				<option value="mudiraj">MudirajMatrimony</option>
+				<option value="munnurukapu">Munnurukapumatrimony</option>
+				<option value="muthuraja">MuthurajaMatrimony</option>
+				<option value="naagavamsam">NaagavamsamMatrimony</option>
+				<option value="nadar">NadarMatrimony</option>
+
+				<option value="nagar">Nagarmatrimony</option>
+				<option value="nagaralu">NagaraluMatrimony</option>
+				<option value="nai">NaiMatrimony</option>
+				<option value="naicker">NaickerMatrimony</option>
+				<option value="naik">NaikMatrimony</option>
+				<option value="nair">NairMatrimony</option>
+
+				<option value="nambiar">NambiarMatrimony</option>
+				<option value="namboodiri">Namboodirimatrimony</option>
+				<option value="namosudra">NamosudraMatrimony</option>
+				<option value="napit">NapitMatrimony</option>
+				<option value="nayaka">NayakaMatrimony</option>
+				<option value="neeli">NeeliMatrimony</option>
+
+				<option value="nepali">NepaliMatrimony</option>
+				<option value="nhavi">NhaviMatrimony</option>
+				<option value="niyogi">Niyogimatrimony</option>
+				<option value="oswal">OswalMatrimony</option>
+				<option value="otari">OtariMatrimony</option>
+				<option value="padmasali">PadmasaliMatrimony</option>
+
+				<option value="pal">PalMatrimony</option>
+				<option value="panchal">PanchalMatrimony</option>
+				<option value="panda">Pandamatrimony</option>
+				<option value="pandit">Panditmatrimony</option>
+				<option value="panicker">PanickerMatrimony</option>
+				<option value="parkavakulam">ParkavakulamMatrimony</option>
+
+				<option value="partraj">PartrajMatrimony</option>
+				<option value="pasi">PasiMatrimony</option>
+				<option value="patel">PatelMatrimony</option>
+				<option value="patnaick">PatnaickMatrimony</option>
+				<option value="patra">PatraMatrimony</option>
+				<option value="perika">PerikaMatrimony</option>
+
+				<option value="pillai">PillaiMatrimony</option>
+				<option value="porwal">PorwalMatrimony</option>
+				<option value="prajapati">PrajapatiMatrimony</option>
+				<option value="pushkarna">Pushkarnamatrimony</option>
+				<option value="raigar">RaigarMatrimony</option>
+				<option value="rajaka">RajakaMatrimony</option>
+
+				<option value="rajastani">RajastaniMatrimony</option>
+				<option value="rajbonshi">RajbonshiMatrimony</option>
+				<option value="rajput">RajputMatrimony</option>
+				<option value="ramdasia">RamdasiaMatrimony</option>
+				<option value="ramgariah">RamgariahMatrimony</option>
+				<option value="rarhi">Rarhimatrimony</option>
+
+				<option value="ravidasia">RavidasiaMatrimony</option>
+				<option value="rawat">RawatMatrimony</option>
+				<option value="reddy">ReddyMatrimony</option>
+				<option value="relli">RelliMatrimony</option>
+				<option value="rigvedi">Rigvedimatrimony</option>
+				<option value="rudraj">Rudrajmatrimony</option>
+
+				<option value="sadgope">SadgopeMatrimony</option>
+				<option value="saha">SahaMatrimony</option>
+				<option value="sahu">SahuMatrimony</option>
+				<option value="saini">SainiMatrimony</option>
+				<option value="sakaldwipi">Sakaldwipimatrimony</option>
+				<option value="saliya">SaliyaMatrimony</option>
+
+				<option value="sanadya">Sanadyamatrimony</option>
+				<option value="sanketi">Sanketimatrimony</option>
+				<option value="saraswat">Saraswatmatrimony</option>
+				<option value="saryuparin">Saryuparinmatrimony</option>
+				<option value="savji">SavjiMatrimony</option>
+				<option value="sc">SCMatrimony</option>
+
+				<option value="senaithalaivar">SenaithalaivarMatrimony</option>
+				<option value="sengunthamudaliyar">Sengunthamudaliyarmatrimony</option>
+				<option value="settibalija">SettibalijaMatrimony</option>
+				<option value="shetty">ShettyMatrimony</option>
+				<option value="shimpi">ShimpiMatrimony</option>
+				<option value="shivhalli">Shivhallimatrimony</option>
+
+				<option value="shrimali">Shrimalimatrimony</option>
+				<option value="skp">SkpMatrimony</option>
+				<option value="smartha">Smarthamatrimony</option>
+				<option value="sonar">SonarMatrimony</option>
+				<option value="sourashtra">SourashtraMatrimony</option>
+				<option value="sozhiyavellalar">Sozhiyavellalarmatrimony</option>
+
+				<option value="st">STMatrimony</option>
+				<option value="stanika">Stanikamatrimony</option>
+				<option value="sugali">SugaliMatrimony</option>
+				<option value="sunari">SunariMatrimony</option>
+				<option value="sundhi">SundhiMatrimony</option>
+				<option value="suthar">SutharMatrimony</option>
+
+				<option value="swakulasali">SwakulasaliMatrimony</option>
+				<option value="tamboli">TamboliMatrimony</option>
+				<option value="tanti">TantiMatrimony</option>
+				<option value="tantubai">TantubaiMatrimony</option>
+				<option value="telaga">TelagaMatrimony</option>
+				<option value="teli">TeliMatrimony</option>
+
+				<option value="thakkar">ThakkarMatrimony</option>
+				<option value="thakur">ThakurMatrimony</option>
+				<option value="thevar">ThevarMatrimony</option>
+				<option value="thigala">ThigalaMatrimony</option>
+				<option value="thiyya">ThiyyaMatrimony</option>
+				<option value="tili">TiliMatrimony</option>
+
+				<option value="togata">TogataMatrimony</option>
+				<option value="tonkkshatriya">Tonkkshatriyamatrimony</option>
+				<option value="turupukapu">TurupukapuMatrimony</option>
+				<option value="tyagi">Tyagimatrimony</option>
+				<option value="uppara">UpparaMatrimony</option>
+				<option value="urs">Ursmatrimony</option>
+
+				<option value="vadabalija">VadabalijaMatrimony</option>
+				<option value="vaddera">VadderaMatrimony</option>
+				<option value="vaidiki">Vaidikimatrimony</option>
+				<option value="vaish">VaishMatrimony</option>
+				<option value="vaishnav">VaishnavMatrimony</option>
+				<option value="vaishnava">VaishnavaMatrimony</option>
+
+				<option value="vaishya">VaishyaMatrimony</option>
+				<option value="vaishyavani">VaishyavaniMatrimony</option>
+				<option value="valluvan">ValluvanMatrimony</option>
+				<option value="valmiki">ValmikiMatrimony</option>
+				<option value="vania">VaniaMatrimony</option>
+				<option value="vaniya">Vaniyamatrimony</option>
+
+				<option value="vanjara">VanjaraMatrimony</option>
+				<option value="vanjari">VanjariMatrimony</option>
+				<option value="vankar">VankarMatrimony</option>
+				<option value="vannar">VannarMatrimony</option>
+				<option value="vanniyar">VanniyarMatrimony</option>
+				<option value="variar">VariarMatrimony</option>
+
+				<option value="veerasaivam">VeerasaivamMatrimony</option>
+				<option value="velaan">VelaanMatrimony</option>
+				<option value="velamanaidu">Velamanaidumatrimony</option>
+				<option value="velanadu">Velanadumatrimony</option>
+				<option value="vellalar">VellalarMatrimony</option>
+				<option value="veluthedathunair">Veluthedathunairmatrimony</option>
+
+				<option value="vettuvagounder">VettuvagounderMatrimony</option>
+				<option value="vilakkithalanair">Vilakkithalanairmatrimony</option>
+				<option value="vishwakarma">VishwakarmaMatrimony</option>
+				<option value="viswabrahmin">ViswabrahminMatrimony</option>
+				<option value="vokkaliga">VokkaligaMatrimony</option>
+				<option value="vyas">Vyasmatrimony</option>
+
+				<option value="vysya">VysyaMatrimony</option>
+				<option value="yadav">YadavMatrimony</option>
+				<option value="yellapu">YellapuMatrimony</option><option value="">---------- Exclusive Site ----------</option><option value="40plus">40PlusMatrimony</option><option value="ability">AbilityMatrimony</option><option value="anycaste">AnycasteMatrimony</option><option value="divorcee">DivorceeMatrimony</option><option value="manglik">ManglikMatrimony</option><option value="">------ Other Matrimony Sites ------</option><option value="muslim">MuslimMatrimony</option><option value="christian">ChristianMatrimony</option><option value="sikh">SikhMatrimony</option><option value="jain">JainMatrimony</option><option value="buddhist">BuddhistMatrimony</option></select></div>
+					<div class="ltform formtxt fleft">Country living in</div>
+					<div class="rtform fleft"><select class="homeselect" name="country"><option value="0">-------- Select your Country --------</option>
+					<option value="98">India</option>
+					<option value="222">United States of America</option>
+					<option value="220">United Arab Emirates</option>
+					<option value="129">Malaysia</option>
+					<option value="221">United Kingdom</option>
+					<option value="13">Australia</option>
+					<option value="185">Saudi Arabia</option>
+					<option value="39">Canada</option>
+					<option value="189">Singapore</option>
+					<option value="114">Kuwait</option>
+					<option value="">-------------------------</option>
+					<option value="1">Afghanistan</option>
+					<option value="2">Albania</option>
+					<option value="3">Algeria</option>
+					<option value="4">American Samoa</option>
+					<option value="5">Andorra</option>
+					<option value="6">Angola</option>
+					<option value="7">Anguilla</option>
+					<option value="8">Antarctica</option>
+					<option value="9">Antigua and Barbuda</option>
+					<option value="10">Argentina</option>
+					<option value="11">Armenia</option>
+					<option value="12">Aruba</option>
+					<option value="237">Ashmore and Cartier Islands</option>
+					<option value="14">Austria</option>
+					<option value="15">Azerbaijan</option>
+					<option value="16">Bahamas</option>
+					<option value="17">Bahrain</option>
+					<option value="18">Bangladesh</option>
+					<option value="19">Barbados</option>
+					<option value="239">Bassas da India</option>
+					<option value="20">Belarus</option>
+					<option value="21">Belgium</option>
+					<option value="22">Belize</option>
+					<option value="23">Benin</option>
+					<option value="24">Bermuda</option>
+					<option value="25">Bhutan</option>
+					<option value="254">Bodies of water</option>
+					<option value="26">Bolivia</option>
+					<option value="27">Bosnia and Herzegovina</option>
+					<option value="28">Botswana</option>
+					<option value="29">Bouvet Island</option>
+					<option value="30">Brazil</option>
+					<option value="31">British Indian Ocean Territory</option>
+					<option value="32">British Virgin Islands</option>
+					<option value="33">Brunei</option>
+					<option value="34">Bulgaria</option>
+					<option value="35">Burkina Faso</option>
+					<option value="36">Burundi</option>
+					<option value="37">Cambodia</option>
+					<option value="38">Cameroon</option>
+					<option value="40">Cape Verde</option>
+					<option value="41">Cayman Islands</option>
+					<option value="42">Central African Republic</option>
+					<option value="43">Chad</option>
+					<option value="44">Chile</option>
+					<option value="45">China</option>
+					<option value="46">Christmas Island</option>
+					<option value="248">Clipperton Island</option>
+					<option value="47">Cocos Islands</option>
+					<option value="48">Colombia</option>
+					<option value="49">Comoros</option>
+					<option value="50">Congo</option>
+					<option value="240">Congo (Brazzaville)</option>
+					<option value="51">Cook Islands</option>
+					<option value="241">Coral Sea Islands</option>
+					<option value="52">Costa Rica</option>
+					<option value="249">Cote DIvoire</option>
+					<option value="53">Croatia</option>
+					<option value="54">Cuba</option>
+					<option value="55">Cyprus</option>
+					<option value="56">Czech Republic</option>
+					<option value="57">Denmark</option>
+					<option value="58">Djibouti</option>
+					<option value="59">Dominica</option>
+					<option value="60">Dominican Republic</option>
+					<option value="61">East Timor</option>
+					<option value="62">Ecuador</option>
+					<option value="63">Egypt</option>
+					<option value="64">El Salvador</option>
+					<option value="65">Equatorial Guinea</option>
+					<option value="66">Eritrea</option>
+					<option value="67">Estonia</option>
+					<option value="68">Ethiopia</option>
+					<option value="243">Europa Island</option>
+					<option value="69">Falkland Islands</option>
+					<option value="70">Faroe Islands</option>
+					<option value="71">Fiji</option>
+					<option value="72">Finland</option>
+					<option value="73">France</option>
+					<option value="74">French Guiana</option>
+					<option value="75">French Polynesia</option>
+					<option value="76">French Southern Territories</option>
+					<option value="77">Gabon</option>
+					<option value="78">Gambia</option>
+					<option value="246">Gaza Strip</option>
+					<option value="79">Georgia</option>
+					<option value="80">Germany</option>
+					<option value="81">Ghana</option>
+					<option value="82">Gibraltar</option>
+					<option value="245">Glorioso Islands</option>
+					<option value="83">Greece</option>
+					<option value="84">Greenland</option>
+					<option value="85">Grenada</option>
+					<option value="86">Guadeloupe</option>
+					<option value="87">Guam</option>
+					<option value="88">Guatemala</option>
+					<option value="244">Guernsey</option>
+					<option value="89">Guinea</option>
+					<option value="90">Guinea-Bissau</option>
+					<option value="91">Guyana</option>
+					<option value="92">Haiti</option>
+					<option value="93">Heard and McDonald Islands</option>
+					<option value="94">Honduras</option>
+					<option value="95">Hong Kong</option>
+					<option value="96">Hungary</option>
+					<option value="97">Iceland</option>
+					<option value="99">Indonesia</option>
+					<option value="100">Iran</option>
+					<option value="101">Iraq</option>
+					<option value="102">Ireland</option>
+					<option value="247">Isle of Man</option>
+					<option value="103">Israel</option>
+					<option value="104">Italy</option>
+					<option value="105">Ivory Coast</option>
+					<option value="106">Jamaica</option>
+					<option value="251">Jan Mayen</option>
+					<option value="107">Japan</option>
+					<option value="250">Jersey</option>
+					<option value="108">Jordan</option>
+					<option value="252">Juan de Nova Island</option>
+					<option value="109">Kazakhstan</option>
+					<option value="110">Kenya</option>
+					<option value="111">Kiribati</option>
+					<option value="112">Korea, North</option>
+					<option value="113">Korea, South</option>
+					<option value="115">Kyrgyzstan</option>
+					<option value="116">Laos</option>
+					<option value="117">Latvia</option>
+					<option value="118">Lebanon</option>
+					<option value="119">Lesotho</option>
+					<option value="120">Liberia</option>
+					<option value="121">Libya</option>
+					<option value="122">Liechtenstein</option>
+					<option value="123">Lithuania</option>
+					<option value="124">Luxembourg</option>
+					<option value="125">Macau</option>
+					<option value="253">Macedonia</option>
+					<option value="126">Macedonia, Former Yugoslav Republic of</option>
+					<option value="127">Madagascar</option>
+					<option value="128">Malawi</option>
+					<option value="130">Maldives</option>
+					<option value="131">Mali</option>
+					<option value="132">Malta</option>
+					<option value="133">Marshall Islands</option>
+					<option value="134">Martinique</option>
+					<option value="135">Mauritania</option>
+					<option value="136">Mauritius</option>
+					<option value="137">Mayotte</option>
+					<option value="138">Mexico</option>
+					<option value="139">Micronesia, Federated States of</option>
+					<option value="140">Moldova</option>
+					<option value="141">Monaco</option>
+					<option value="142">Mongolia</option>
+					<option value="143">Montserrat</option>
+					<option value="144">Morocco</option>
+					<option value="145">Mozambique</option>
+					<option value="146">Myanmar</option>
+					<option value="147">Namibia</option>
+					<option value="148">Nauru</option>
+					<option value="149">Nepal</option>
+					<option value="150">Netherlands</option>
+					<option value="151">Netherlands Antilles</option>
+					<option value="152">New Caledonia</option>
+					<option value="153">New Zealand</option>
+					<option value="154">Nicaragua</option>
+					<option value="155">Niger</option>
+					<option value="156">Nigeria</option>
+					<option value="157">Niue</option>
+					<option value="158">Norfolk Island</option>
+					<option value="159">Northern Mariana Islands</option>
+					<option value="160">Norway</option>
+					<option value="161">Oman</option>
+					<option value="162">Pakistan</option>
+					<option value="163">Palau</option>
+					<option value="164">Panama</option>
+					<option value="165">Papua New Guinea</option>
+					<option value="255">Paracel Islands</option>
+					<option value="166">Paraguay</option>
+					<option value="167">Peru</option>
+					<option value="168">Philippines</option>
+					<option value="169">Pitcairn Island</option>
+					<option value="170">Poland</option>
+					<option value="171">Portugal</option>
+					<option value="172">Puerto Rico</option>
+					<option value="173">Qatar</option>
+					<option value="174">Reunion</option>
+					<option value="175">Romania</option>
+					<option value="176">Russia</option>
+					<option value="177">Rwanda</option>
+					<option value="178">S. Georgia and S. Sandwich Isls.</option>
+					<option value="258">Saint Helena</option>
+					<option value="179">Saint Kitts & Nevis</option>
+					<option value="180">Saint Lucia</option>
+					<option value="257">Saint Pierre and Miquelon</option>
+					<option value="262">Saint Vincent & the Grenadines</option>
+					<option value="181">Saint Vincent and The Grenadines</option>
+					<option value="182">Samoa</option>
+					<option value="183">San Marino</option>
+					<option value="184">Sao Tome and Principe</option>
+					<option value="186">Senegal</option>
+					<option value="265">Serbia and Montenegro</option>
+					<option value="187">Seychelles</option>
+					<option value="188">Sierra Leone</option>
+					<option value="190">Slovakia</option>
+					<option value="191">Slovenia</option>
+					<option value="238">Solomon Islands</option>
+					<option value="192">Somalia</option>
+					<option value="193">South Africa</option>
+					<option value="194">Spain</option>
+					<option value="256">Spratly Islands</option>
+					<option value="195">Sri Lanka</option>
+					<option value="196">St. Helena</option>
+					<option value="197">St. Pierre and Miquelon</option>
+					<option value="198">Sudan</option>
+					<option value="199">Suriname</option>
+					<option value="259">Svalbard</option>
+					<option value="200">Svalbard and Jan Mayen Islands</option>
+					<option value="201">Swaziland</option>
+					<option value="202">Sweden</option>
+					<option value="203">Switzerland</option>
+					<option value="204">Syria</option>
+					<option value="205">Taiwan</option>
+					<option value="206">Tajikistan</option>
+					<option value="207">Tanzania</option>
+					<option value="208">Thailand</option>
+					<option value="209">Togo</option>
+					<option value="210">Tokelau</option>
+					<option value="211">Tonga</option>
+					<option value="212">Trinidad and Tobago</option>
+					<option value="260">Tromelin Island</option>
+					<option value="213">Tunisia</option>
+					<option value="214">Turkey</option>
+					<option value="215">Turkmenistan</option>
+					<option value="216">Turks and Caicos Islands</option>
+					<option value="217">Tuvalu</option>
+					<option value="218">Uganda</option>
+					<option value="219">Ukraine</option>
+					<option value="261">Undersea features</option>
+					<option value="223">Uruguay</option>
+					<option value="224">Uzbekistan</option>
+					<option value="225">Vanuatu</option>
+					<option value="226">Vatican City</option>
+					<option value="227">Venezuela</option>
+					<option value="228">Vietnam</option>
+					<option value="229">Virgin Islands</option>
+					<option value="264">Wallis and Futuna</option>
+					<option value="230">Wallis and Futuna Islands</option>
+					<option value="263">West Bank</option>
+					<option value="231">Western Sahara</option>
+					<option value="232">Yemen</option>
+					<option value="233">Yugoslavia (Former)</option>
+					<option value="234">Zaire</option>
+					<option value="235">Zambia</option>
+					<option value="236">Zimbabwe</option></select></div>
+					<div class="ltform formtxt fleft">Mobile No.<br>and/or</div>
+					<div class="rtform fleft"><input type="text" class="inputtext" style="width:50px;" value="91" name="countryCode" />&nbsp;<input type="text" class="inputtext" style="width:137px;" maxlength="10" name="mobileNo" /></div><br clear="all">
+					<div class="ltform formtxt fleft">Landline No.</div>
+					<div class="rtform fleft"><input type="text" class="inputtext" style="width:50px;" value="" name="areaCode" />&nbsp;<input type="text" class="inputtext" style="width:137px;" maxlength="12" name="phoneNo" /></div>
+					<div class="ltform formtxt fleft">E-mail</div>
+					<div class="rtform fleft"><input type="text" class="inputtext" name="email" /></div>
+					<div class="ltform formtxt fleft">Login Password</div>
+					<div class="rtform fleft"><input type="password" class="inputtext" name="password" /><br><img src="http://imgs.communitymatrimony.com/images/trans.gif" height="10" width="1" /><br><input type="submit" class="button" value="Submit" /></div>
+				</div>
+			</form>
+			</center>
+		</div><br clear="all"><img src="http://imgs.communitymatrimony.com/images/trans.gif" width="1" height="3" /><br clear="all">
+		<div class="tabdiv">
+			<div style="width:420px !important;width:470px;padding:25px;line-height:14px;" class="smalltxt fleft tljust"><font class="headtxt clr1 bld">CommunityMatrimony.com</font><br><br>CommunityMatrimony.com was created based on the novel idea and proven fact that marriages within the same community result in happier and stable marriages.<br><br>CommunityMatrimony.com owns <b>over 350 community matrimony portals</b> catering exclusively to various communities of Indian origin. If you're looking for a life partner from your community, then communitymatrimony.com is the perfect place to start your search. </div>
+			<div class="fright smalltxt tlleft" style="width:250px !important;width:300px;padding:60px 25px 0px 25px;">
+				<div class="bulletdiv headtxt">Single Largest Matrimony Group</div><img src="http://imgs.communitymatrimony.com/images/trans.gif" width="1" height="10" /><br clear="all">
+				<div class="bulletdiv headtxt">Over 350 Community Matrimony Portals</div><img src="http://imgs.communitymatrimony.com/images/trans.gif" width="1" height="10" /><br clear="all">
+				<div class="bulletdiv headtxt">And Over 5 Million Members</div>
+			</div>
+		</div><br clear="all">
+		<div class="footdiv smalltxt clr2 lh16"><a class="clr2" href="http://www.communitymatrimony.com/homepages/community/termsandconditions.html">Terms and Conditions</a>&nbsp;|&nbsp;<a href="http://www.communitymatrimony.com/homepages/community/privacypolicy.html" class="clr2">Privacy Policy</a><br>Copyright &copy; 2011 Consim Info Pvt Ltd. All rights reserved.</div><br>
+	</div>
+</div>
+</center>
+ </BODY>
+</HTML>

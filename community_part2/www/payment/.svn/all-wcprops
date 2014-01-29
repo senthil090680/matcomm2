@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/communitymatrimony/!svn/ver/8842/www/payment
+END
+ccpaymentdetails.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/communitymatrimony/!svn/ver/8832/www/payment/ccpaymentdetails.php
+END
+ivr_upgradation.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/communitymatrimony/!svn/ver/7426/www/payment/ivr_upgradation.php
+END
+ivr_payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/communitymatrimony/!svn/ver/8539/www/payment/ivr_payment.php
+END
+ivr_icicipaymentprocess.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/communitymatrimony/!svn/ver/8124/www/payment/ivr_icicipaymentprocess.php
+END
+paymentpagetracking.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/communitymatrimony/!svn/ver/8249/www/payment/paymentpagetracking.php
+END
+ivr_orderstatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/communitymatrimony/!svn/ver/8638/www/payment/ivr_orderstatus.php
+END
+doorstep.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/communitymatrimony/!svn/ver/8748/www/payment/doorstep.php
+END
+optimal_paymentprocess.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/communitymatrimony/!svn/ver/8249/www/payment/optimal_paymentprocess.php
+END
+getcountry.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/communitymatrimony/!svn/ver/3630/www/payment/getcountry.php
+END
+additionalpayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/communitymatrimony/!svn/ver/8539/www/payment/additionalpayment.php
+END
+cbscanceloptimalonlinepayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/communitymatrimony/!svn/ver/8312/www/payment/cbscanceloptimalonlinepayment.php
+END
+global_optimalgateway.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/communitymatrimony/!svn/ver/7953/www/payment/global_optimalgateway.php
+END
+migsgatewayredirect_INR.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/communitymatrimony/!svn/ver/8539/www/payment/migsgatewayredirect_INR.php
+END
+icgatewayredirect_VBV.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/communitymatrimony/!svn/ver/8539/www/payment/icgatewayredirect_VBV.php
+END
+profilehightlight.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/communitymatrimony/!svn/ver/8791/www/payment/profilehightlight.php
+END
+csetredirect.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/communitymatrimony/!svn/ver/8124/www/payment/csetredirect.php
+END
+global_optimal_paymentprocess.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/communitymatrimony/!svn/ver/7953/www/payment/global_optimal_paymentprocess.php
+END
+ccpaymentprocess.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/communitymatrimony/!svn/ver/8637/www/payment/ccpaymentprocess.php
+END
+safeonline.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/communitymatrimony/!svn/ver/1352/www/payment/safeonline.php
+END
+ip2location.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/communitymatrimony/!svn/ver/1/www/payment/ip2location.php
+END
+privilege-service.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/communitymatrimony/!svn/ver/3258/www/payment/privilege-service.php
+END
+ccgatwayredirect.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/communitymatrimony/!svn/ver/8557/www/payment/ccgatwayredirect.php
+END
+cbsoptimalpaymentfunctions.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/communitymatrimony/!svn/ver/8249/www/payment/cbsoptimalpaymentfunctions.php
+END
+ivr_autocall.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/communitymatrimony/!svn/ver/3873/www/payment/ivr_autocall.php
+END
+paythruphone.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/communitymatrimony/!svn/ver/3790/www/payment/paythruphone.php
+END
+optimal_do.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/communitymatrimony/!svn/ver/8249/www/payment/optimal_do.php
+END
+vpc_php_authenticate_and_pay_merchanthost_do.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/communitymatrimony/!svn/ver/8249/www/payment/vpc_php_authenticate_and_pay_merchanthost_do.php
+END
+vpc_php_authenticate_and_pay_merchanthost_dr.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/communitymatrimony/!svn/ver/8249/www/payment/vpc_php_authenticate_and_pay_merchanthost_dr.php
+END
+ivr_tm_payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/communitymatrimony/!svn/ver/8842/www/payment/ivr_tm_payment.php
+END
+migsgatewayredirect.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/communitymatrimony/!svn/ver/8539/www/payment/migsgatewayredirect.php
+END
+global_cbsoptimalpaymentfunctions.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/communitymatrimony/!svn/ver/7953/www/payment/global_cbsoptimalpaymentfunctions.php
+END
+onflyivr_icicipaymentprocess.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/communitymatrimony/!svn/ver/8249/www/payment/onflyivr_icicipaymentprocess.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/communitymatrimony/!svn/ver/8539/www/payment/index.php
+END
+global_optimal_do.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/communitymatrimony/!svn/ver/7953/www/payment/global_optimal_do.php
+END
+paymentprocess.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/communitymatrimony/!svn/ver/8539/www/payment/paymentprocess.php
+END
+offerinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/communitymatrimony/!svn/ver/8249/www/payment/offerinfo.php
+END
+payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/communitymatrimony/!svn/ver/8834/www/payment/payment.php
+END
+ivr_payment_chk.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/communitymatrimony/!svn/ver/8124/www/payment/ivr_payment_chk.php
+END
+optimal_ivr_payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/communitymatrimony/!svn/ver/8656/www/payment/optimal_ivr_payment.php
+END
+cbs_ivr_icicipaymentprocess.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/communitymatrimony/!svn/ver/8249/www/payment/cbs_ivr_icicipaymentprocess.php
+END
+cbs_ivr_payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/communitymatrimony/!svn/ver/8124/www/payment/cbs_ivr_payment.php
+END
+paidmember_benefits.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/communitymatrimony/!svn/ver/488/www/payment/paidmember_benefits.php
+END
+optimal_gateway.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/communitymatrimony/!svn/ver/8555/www/payment/optimal_gateway.php
+END

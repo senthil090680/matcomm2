@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Pakistani Matrimony, Matrimonial, Marriage, PakistaniMatrimony.com</title>
+	<meta name="description" content="Pakistani Matrimony, Find Lakhs of Pakistani Profiles on PakistaniMatrimony.com, the No.1 matrimony site for Pakistani. Register FREE" />
+	<meta name="keywords" content="Pakistani Matrimonial, Pakistani Matrimonials, Pakistani Matrimony" />
+	<meta name="Author" content="PakistaniMatrimony.com Pakistani Matrimonial Team" />
+	<meta name="copyright" content="Pakistanimatrimony.com Matrimonials" />
+	<meta name="Distribution" content="general" />
+	<link rel="stylesheet" href="http://img.Pakistanimatrimony.com/styles/pakistani/newhome.css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS Feeds" href="/feeds/" />
+	<script language="javascript" src="http://img.pakistanimatrimony.com/scripts/login.js" type="text/javascript"></script>
+	<script language="javascript" src="http://img.pakistanimatrimony.com/scripts/home.js" type="text/javascript"></script>
+</head>
+<body>
+	<div class="container"> <!-- Container Starts Here -->
+
+		<header> <!-- Header Starts Here -->
+		<div class="header">
+  <div class="fleft paddtb10">
+				<img src="http://img.pakistanimatrimony.com/images/logo/pakistani_logo.gif" alt="Pakistani Matrimonials" />
+			</div>
+			<div class="fright">
+                <div class="fright" style="margin-top:16px;">
+					<img src="http://img.pakistanimatrimony.com/images/globalimg_pak.gif" alt="Pakistani Matrimonials" />
+				</div>
+			</div>
+			<div class="clear"><!-- --></div>
+		</div>
+		</header> <!-- Header Ends Here -->
+
+		<div class="nav"> <!-- Navigation Section Starts Here -->
+			<div class="fleft menu">
+				<nav><a class="active" href="#">Home <img class="hover" src="http://img.pakistanimatrimony.com/images/new/pak_dn_arrow.gif" width="10" height="5" alt="hover" /></a><a href="/register/">Register</a><a href="/search/">Search</a><a href="/payment/">Pay Now</a></nav>
+			</div>
+			<div class="fright txtr clr1 login paddt10">
+                <form name="Login" method="post" action="/login/index.php?act=logincheck">
+				<div class="paddr10"><b>Already a member?</b> <input class="loginput" name="idEmail" type="text" value="Enter ID / E-mail" onblur="if (this.value == '') { this.value = 'Enter ID / E-mail'; }" onfocus="if (this.value == 'Enter ID / E-mail') { this.value = ''; }" onclick="if (this.value == 'Enter ID / E-mail') { this.value = ''; }" /> <input class="loginput" name="password" type="password" value="password" maxlength="12" onblur="if (this.value == '') { this.value = 'password'; }" onfocus="if (this.value == 'password') { this.value = ''; }" onclick="if (this.value == 'password') { this.value = ''; }" /> <input type="submit" onclick="return funLogin();" class="button" value="Login" /><input type="hidden" value="yes" name="frmLoginSubmit" /></div>
+				<div class="paddr10"><div class="paddt5"><a href="/login/index.php?act=forgotpwd" class="clr1 font11">Forgot Password?</a></div></div>
+				</form>
+			</div>
+			<div class="clear"><!-- --></div>
+		</div> <!-- Navigation Section Ends Here -->
+		<div class="dotted_pak" style="margin-top:8px;"><!-- --></div><div class="clear"><!-- --></div>
+		<div class="smalltxt clr7 pdl10" style="width:773px;"><font class="clr6 bld">Find profiles of </font>
+		&nbsp;&nbsp;<font class="clr">Punjabis, Sindhis, Balochis, Urdus, Pashtuns, Kashmiris, Mujahirs, Hindkowans, Seraikis & Chitralis</font>
+		</div>
+		<div class="dotted_pak"><!-- --></div><div class="clear"><!-- --></div>
+		<div class="smalltxt clr7 pdl10" style="width:773px;height:20px;">
+		<form name="hmsrchfrm" id="hmsrchfrm" method="post" action="/search/index.php">
+			<input type="hidden" name="act" value="">
+			<input type="hidden" name="gender" value="2">
+			<input type="hidden" name="ageFrom" value="18">
+			<input type="hidden" name="ageTo" value="30">
+			<input type="hidden" name="country" value="">
+			<input type="hidden" name="maritalStatus" value="1">
+		<font class="clr6 bld">Browse by Location: </font>
+		&nbsp;&nbsp;<a class="clr7" href="javascript:;" onclick="homesearchby('C',162);">Pakistan</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="clr7" href="javascript:;" onclick="homesearchby('C',222);">USA</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="clr7" href="javascript:;" onclick="homesearchby('C',221);">UK</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="clr7" href="javascript:;" onclick="homesearchby('C',39);">Canada</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="clr7" href="javascript:;" onclick="homesearchby('C',185);">Saudi Arabia</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="clr7" href="javascript:;" onclick="homesearchby('C',220);">UAE</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="clr7" href="javascript:;" onclick="homesearchby('C',114);">Kuwait</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="clr7" href="javascript:;" onclick="homesearchby('C',161);">Oman</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="clr7" href="javascript:;" onclick="homesearchby('C',173);">Qatar</a><!--&nbsp;&nbsp;|&nbsp;&nbsp;<a class="clr7" href="javascript:;" onclick="homesearchby('C',80);">Germany</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="clr7" href="javascript:;" onclick="homesearchby('C',73);">France</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="clr7" href="javascript:;" onclick="homesearchby('C',160);">Norway</a>-->
+		</form>
+		</div>
+		
+        <div class="banner" > <!-- Banner Starts Here -->
+			<div class="fleft" style="background:url(http://img.pakistanimatrimony.com/images/pakistani/pakistani-img1.jpg)">
+			
+			<div class="slideshow">
+			<img src="http://img.pakistanimatrimony.com/images/pakistani/pakistani-leftimg1.jpg" alt="banner" 
+			width="407" height="454" border="0"/></div>
+			</div>
+			<div class="fleft"><img src="http://img.pakistanimatrimony.com/images/pakistani/pakistani-rightimg.jpg" alt="banner" 
+			width="365" height="454" border="0"/></div>			
+			<div class="banner_cont">
+				<div style="padding-top:35px;">
+					<div class="padt25 clr1" style="text-align:right;padding-right:30px;"><font class="font19">An Exclusive Matrimony Portal</font><br /><font class="font28 btxt" style="line-height:40px;">For<font style="font-size:37px;"> Pakistanis</font> <br>Around the World</font></div>
+					<div style="text-align:left;padding-right:25px;"><img src="http://img.pakistanimatrimony.com/images/pakistani/paki-lang.gif" border="0" /></div>
+					<div class="paddtb10" style="text-align:right;padding-right:30px;"><a href="/register/"><img src="http://img.pakistanimatrimony.com/images/regbtn_hm_pak.gif" border="0" /></a></div>
+				</div>
+			</div>
+		</div> <!-- Banner Ends Here -->
+
+        <div class="clr2" style="margin-left:7px;width:759px;text-align:left;position:absolute;z-index:100;top:590px;background-color:#fff;height:108px;">
+		
+		<div class="form_fields quicksearch" style="margin-left:4px;width:751px;margin-top:4px;background-color:#A0EE8C;height:108px;">
+			<div class="pdt10 pdl20">
+			<form action="/search/index.php" method="post" name="RSearchForm">
+			<b class="fnt18 btxt bld">Quick Search: </b><br>
+			<div style="line-height: 20px;" class="fleft"><label for="Bride"><b>Looking for</b> <br><input type="radio" checked="checked" onclick="javascript:chkgender('f');" value="2" name="gender" id="Bride"> Bride</label>&nbsp; <label for="Groom"><input type="radio" onclick="javascript:chkgender('m');" value="1" name="gender" id="Groom"> Groom</label></div>
+			<div style="line-height: 20px;" class="fleft pdl10"><b>Age</b><br>
+			<input type="text" style="height: 18px;" value="18" onfocus="if ((this.value == '18')|| (this.value == '21')) { this.value = ''; }" onclick="if ((this.value == '18') || (this.value == '21')) { this.value = ''; }" size="2" class="inputsmall bttn-bg" id="ageFrom" name="ageFrom"> &nbsp; to &nbsp; <input type="text" value="30" style="height: 18px;" onfocus="if ((this.value == '30') ||(this.value == '33')) { this.value = ''; }" onclick="if ((this.value == '30') ||(this.value == '33')) { this.value = ''; }" size="2" class="bttn-bg inputsmall" id="ageTo" name="ageTo">
+			</div>
+			<div style="line-height: 20px;" class="fleft pdl10"><b>Religion</b><br>
+			<select style="width: 127px !important;width:124px;" class="bttn-bg" name="religion">
+<option value="0">--- Select ---</option><option value="10">Muslim - Shia</option><option value="11">Muslim - Sunnis</option><option value="20">Muslim - Braihis</option><option value="21">Muslim - Deobandi</option><option value="22">Muslim - Wahabi</option><option value="23">Muslim - Others</option><option value="1">Hindu</option><option value="3">Christian</option><option value="6">Parsi</option>
+</select>
+			</div>
+			<div style="line-height: 20px;" class="fleft pdl10"><b>Mother Tongue</b><br>
+			<select style="width: 137px !important;width:132px;" class="bttn-bg" name="motherTongue[]">
+<option value="0">--- Select ---</option><option value="20">Kashmiri</option><option value="41">Punjabi</option><option value="45">Sindhi</option><option value="51">Urdu</option><option value="113">Pashtu</option><option value="116">Balochi</option><option value="9997">Others</option>
+</select>
+			</div>
+			<div style="line-height: 20px;" class="fleft pdl10"><b>Country Living In</b><br>
+			<select style="width: 137px !important;width:132px;" class="bttn-bg" name="country[]">
+<option value="0">--- Select ---</option>
+					 						<option value="162">Pakistan</option>
+						<option value="222">United States of America</option>
+						<option value="221">United Kingdom</option>
+						<option value="39">Canada</option>
+						<option value="185">Saudi Arabia</option>
+						<option value="220">United Arab Emirates</option>
+						<option value="114">Kuwait</option>
+						<option value="161">Oman</option>
+						<option value="173">Qatar</option>
+						<option value="80">Germany</option>
+						<option value="73">France</option>
+						<option value="160">Norway</option>
+										<option value="">-------------------------</option>
+					<option value="1">Afghanistan</option><option value="2">Albania</option><option value="3">Algeria</option><option value="4">American Samoa</option><option value="5">Andorra</option><option value="6">Angola</option><option value="7">Anguilla</option><option value="8">Antarctica</option><option value="9">Antigua and Barbuda</option><option value="10">Argentina</option><option value="11">Armenia</option><option value="12">Aruba</option><option value="237">Ashmore and Cartier Islands</option><option value="13">Australia</option><option value="14">Austria</option><option value="15">Azerbaijan</option><option value="16">Bahamas</option><option value="17">Bahrain</option><option value="18">Bangladesh</option><option value="19">Barbados</option><option value="239">Bassas da India</option><option value="20">Belarus</option><option value="21">Belgium</option><option value="22">Belize</option><option value="23">Benin</option><option value="24">Bermuda</option><option value="25">Bhutan</option><option value="254">Bodies of water</option><option value="26">Bolivia</option><option value="27">Bosnia and Herzegovina</option><option value="28">Botswana</option><option value="29">Bouvet Island</option><option value="30">Brazil</option><option value="31">British Indian Ocean Territory</option><option value="32">British Virgin Islands</option><option value="33">Brunei</option><option value="34">Bulgaria</option><option value="35">Burkina Faso</option><option value="36">Burundi</option><option value="37">Cambodia</option><option value="38">Cameroon</option><option value="39">Canada</option><option value="40">Cape Verde</option><option value="41">Cayman Islands</option><option value="42">Central African Republic</option><option value="43">Chad</option><option value="44">Chile</option><option value="45">China</option><option value="46">Christmas Island</option><option value="248">Clipperton Island</option><option value="47">Cocos Islands</option><option value="48">Colombia</option><option value="49">Comoros</option><option value="50">Congo</option><option value="240">Congo (Brazzaville)</option><option value="51">Cook Islands</option><option value="241">Coral Sea Islands</option><option value="52">Costa Rica</option><option value="249">Cote DIvoire</option><option value="53">Croatia</option><option value="54">Cuba</option><option value="55">Cyprus</option><option value="56">Czech Republic</option><option value="57">Denmark</option><option value="58">Djibouti</option><option value="59">Dominica</option><option value="60">Dominican Republic</option><option value="61">East Timor</option><option value="62">Ecuador</option><option value="63">Egypt</option><option value="64">El Salvador</option><option value="65">Equatorial Guinea</option><option value="66">Eritrea</option><option value="67">Estonia</option><option value="68">Ethiopia</option><option value="243">Europa Island</option><option value="69">Falkland Islands</option><option value="70">Faroe Islands</option><option value="71">Fiji</option><option value="72">Finland</option><option value="73">France</option><option value="74">French Guiana</option><option value="75">French Polynesia</option><option value="76">French Southern Territories</option><option value="77">Gabon</option><option value="78">Gambia</option><option value="246">Gaza Strip</option><option value="79">Georgia</option><option value="80">Germany</option><option value="81">Ghana</option><option value="82">Gibraltar</option><option value="245">Glorioso Islands</option><option value="83">Greece</option><option value="84">Greenland</option><option value="85">Grenada</option><option value="86">Guadeloupe</option><option value="87">Guam</option><option value="88">Guatemala</option><option value="244">Guernsey</option><option value="89">Guinea</option><option value="90">Guinea-Bissau</option><option value="91">Guyana</option><option value="92">Haiti</option><option value="93">Heard and McDonald Islands</option><option value="94">Honduras</option><option value="95">Hong Kong</option><option value="96">Hungary</option><option value="97">Iceland</option><option value="98">India</option><option value="99">Indonesia</option><option value="100">Iran</option><option value="101">Iraq</option><option value="102">Ireland</option><option value="247">Isle of Man</option><option value="103">Israel</option><option value="104">Italy</option><option value="105">Ivory Coast</option><option value="106">Jamaica</option><option value="251">Jan Mayen</option><option value="107">Japan</option><option value="250">Jersey</option><option value="108">Jordan</option><option value="252">Juan de Nova Island</option><option value="109">Kazakhstan</option><option value="110">Kenya</option><option value="111">Kiribati</option><option value="112">Korea, North</option><option value="113">Korea, South</option><option value="114">Kuwait</option><option value="115">Kyrgyzstan</option><option value="116">Laos</option><option value="117">Latvia</option><option value="118">Lebanon</option><option value="119">Lesotho</option><option value="120">Liberia</option><option value="121">Libya</option><option value="122">Liechtenstein</option><option value="123">Lithuania</option><option value="124">Luxembourg</option><option value="125">Macau</option><option value="253">Macedonia</option><option value="126">Macedonia, Former Yugoslav Republic of</option><option value="127">Madagascar</option><option value="128">Malawi</option><option value="129">Malaysia</option><option value="130">Maldives</option><option value="131">Mali</option><option value="132">Malta</option><option value="133">Marshall Islands</option><option value="134">Martinique</option><option value="135">Mauritania</option><option value="136">Mauritius</option><option value="137">Mayotte</option><option value="138">Mexico</option><option value="139">Micronesia, Federated States of</option><option value="140">Moldova</option><option value="141">Monaco</option><option value="142">Mongolia</option><option value="143">Montserrat</option><option value="144">Morocco</option><option value="145">Mozambique</option><option value="146">Myanmar</option><option value="147">Namibia</option><option value="148">Nauru</option><option value="149">Nepal</option><option value="150">Netherlands</option><option value="151">Netherlands Antilles</option><option value="152">New Caledonia</option><option value="153">New Zealand</option><option value="154">Nicaragua</option><option value="155">Niger</option><option value="156">Nigeria</option><option value="157">Niue</option><option value="158">Norfolk Island</option><option value="159">Northern Mariana Islands</option><option value="160">Norway</option><option value="161">Oman</option><option value="162">Pakistan</option><option value="163">Palau</option><option value="164">Panama</option><option value="165">Papua New Guinea</option><option value="255">Paracel Islands</option><option value="166">Paraguay</option><option value="167">Peru</option><option value="168">Philippines</option><option value="169">Pitcairn Island</option><option value="170">Poland</option><option value="171">Portugal</option><option value="172">Puerto Rico</option><option value="173">Qatar</option><option value="174">Reunion</option><option value="175">Romania</option><option value="176">Russia</option><option value="177">Rwanda</option><option value="178">S. Georgia and S. Sandwich Isls.</option><option value="258">Saint Helena</option><option value="179">Saint Kitts &amp; Nevis</option><option value="180">Saint Lucia</option><option value="257">Saint Pierre and Miquelon</option><option value="262">Saint Vincent &amp; the Grenadines</option><option value="181">Saint Vincent and The Grenadines</option><option value="182">Samoa</option><option value="183">San Marino</option><option value="184">Sao Tome and Principe</option><option value="185">Saudi Arabia</option><option value="186">Senegal</option><option value="265">Serbia and Montenegro</option><option value="187">Seychelles</option><option value="188">Sierra Leone</option><option value="189">Singapore</option><option value="190">Slovakia</option><option value="191">Slovenia</option><option value="238">Solomon Islands</option><option value="192">Somalia</option><option value="193">South Africa</option><option value="194">Spain</option><option value="256">Spratly Islands</option><option value="195">Sri Lanka</option><option value="196">St. Helena</option><option value="197">St. Pierre and Miquelon</option><option value="198">Sudan</option><option value="199">Suriname</option><option value="259">Svalbard</option><option value="200">Svalbard and Jan Mayen Islands</option><option value="201">Swaziland</option><option value="202">Sweden</option><option value="203">Switzerland</option><option value="204">Syria</option><option value="205">Taiwan</option><option value="206">Tajikistan</option><option value="207">Tanzania</option><option value="208">Thailand</option><option value="209">Togo</option><option value="210">Tokelau</option><option value="211">Tonga</option><option value="212">Trinidad and Tobago</option><option value="260">Tromelin Island</option><option value="213">Tunisia</option><option value="214">Turkey</option><option value="215">Turkmenistan</option><option value="216">Turks and Caicos Islands</option><option value="217">Tuvalu</option><option value="218">Uganda</option><option value="219">Ukraine</option><option value="261">Undersea features</option><option value="220">United Arab Emirates</option><option value="221">United Kingdom</option><option value="222">United States of America</option><option value="223">Uruguay</option><option value="224">Uzbekistan</option><option value="225">Vanuatu</option><option value="226">Vatican City</option><option value="227">Venezuela</option><option value="228">Vietnam</option><option value="229">Virgin Islands</option><option value="264">Wallis and Futuna</option><option value="230">Wallis and Futuna Islands</option><option value="263">West Bank</option><option value="231">Western Sahara</option><option value="232">Yemen</option><option value="233">Yugoslavia (Former)</option><option value="234">Zaire</option><option value="235">Zambia</option><option value="236">Zimbabwe</option>
+</select>
+			</div>
+			<div style="padding-top: 18px;" class="fleft pdl10"><input type="hidden" value="srchresult" name="act"><input type="image" src="http://img.pakistanimatrimony.com/images/pakistani/search.gif">
+
+			</div>
+			
+
+			</form>
+			</div>
+		
+		</div>
+        
+		</div>
+
+		<div class="dotted" style="margin-top:58px;"><img src="http://img.pakistanimatrimony.com/images/trans.gif"></div>
+		<div style="width:773px;">
+			<div class="fleft fnt14 txtj" style="width:770px;">
+			<div style="width:770px;"><b>The Best Place for Pakistanis to Seek a Life Partner!</b><br><br>
+			<font class="normtxt line16" >PakistaniMatrimony is an exclusive matrimony portal for Pakistanis from around the world to find a life partner. PakistaniMatrimony bridges the distance between you and your life partner no matter where he or she is. Meet singles from all walks of life and discover the one who will be with you forever.    <br><br>Now you can simply sit back at home or even search for your life partner while you are at work. Enjoy a life full of joy in the special world of marital bliss. Create your profile now and begin your search right away!</font>
+			</div>
+			</div>			
+		 </div><div class="clear"><!-- --></div>
+		<div style="width:773px;margin-top:18px;float:left">
+			<div class="fleft" style="border:6px solid #C1E39D;width:485px;">
+				<div class="fnt15 bld hgt33 pdl20 padt10">Featured Brides & Grooms</div>
+				<div class="pdl20 wdt450">
+				<div class="font11 fleft wdt210">
+					<div class="wdt84 fleft">
+					<a href="http://www.pakistanimatrimony.com/profiledetail/index.php?act=fullprofilenew&id=PAK286294" target="_blank"><img height="75" width="75" alt="" src="http://img.pakistanimatrimony.com/membersphoto/pakistani/2/8/PAK286294_CPjJBP_NL_1.jpg" style="border:0px;">
+					</a>
+					</div>
+					<div class="fleft"><div><b>Fiza</b><br><a href="http://www.pakistanimatrimony.com/profiledetail/index.php?act=fullprofilenew&id=PAK286294" target="_blank" style="text-decoration:none;" class="clr">(PAK286294)</a><br>23 yrs, 5ft 4in / 163cm<br><br></div><div class="paddt5"><a href="http://www.pakistanimatrimony.com/profiledetail/index.php?act=fullprofilenew&id=PAK286294" target="_blank" class="clr3">Full Profile >> </a></div>
+					</div>
+				</div>
+				<div class="font11 fleft wdt210 pdl20">
+					<div class="wdt84 fleft">
+					<a href="http://www.pakistanimatrimony.com/profiledetail/index.php?act=fullprofilenew&id=PAK313257" target="_blank"><img height="75" width="75" alt="" src="http://img.pakistanimatrimony.com/membersphoto/pakistani/3/1/PAK313257_5TGAmY_NL_1.jpg" style="border:0px;">
+					</a></div>
+					<div class="fleft" style="width:126px;"><div><b>Asif Rahim</b><br><a href="http://www.pakistanimatrimony.com/profiledetail/index.php?act=fullprofilenew&id=PAK313257" target="_blank" style="text-decoration:none;" class="clr">(PAK313257)</a><br>22 yrs, 5ft 8in / 173cm<br><br></div><div class="paddt5"><a href="http://www.pakistanimatrimony.com/profiledetail/index.php?act=fullprofilenew&id=PAK313257" class="clr3" target="_blank">Full Profile >> </a></div>
+					</div>
+				</div>
+				<div class="font11 fleft wdt210 mgtb22">
+					<div class="wdt84 fleft">
+					<a href="http://www.pakistanimatrimony.com/profiledetail/index.php?act=fullprofilenew&id=PAK303718"target="_blank"><img height="75" width="75" alt="" src="http://img.pakistanimatrimony.com/membersphoto/pakistani/3/0/PAK303718_8e4jUh_NL_1.jpg" style="border:0px;">
+					</a></div>
+					<div class="fleft" style="width:126px;"><div><b>Irm Naz</b><br><a href="http://www.pakistanimatrimony.com/profiledetail/index.php?act=fullprofilenew&id=PAK303718" target="_blank" style="text-decoration:none;" class="clr">(PAK303718)</a><br>23 yrs, 5ft 3in / 160cm<br><br></div><div class="paddt5"><a href="http://www.pakistanimatrimony.com/profiledetail/index.php?act=fullprofilenew&id=PAK303718" class="clr3" target="_blank">Full Profile >> </a></div>
+					</div>
+				</div>
+				<div class="font11 fleft wdt210 mgtb22 pdl20">
+					<div class="wdt84 fleft">
+					<a href="http://www.pakistanimatrimony.com/profiledetail/index.php?act=fullprofilenew&id=PAK313045"target="_blank"><img height="75" width="75" alt="" src="http://img.pakistanimatrimony.com/membersphoto/pakistani/3/1/PAK313045_2EnajA_NL_1.jpg" style="border:0px;"></a></div>
+					<div class="fleft" style="width:126px;"><div><b>Mhdazhar</b><br><a href="http://www.pakistanimatrimony.com/profiledetail/index.php?act=fullprofilenew&id=PAK313045"target="_blank" style="text-decoration:none;" class="clr">(PAK313045)</a><br>27 yrs, 5ft 7in / 170cm<br><br></div><div class="paddt5"><a href="http://www.pakistanimatrimony.com/profiledetail/index.php?act=fullprofilenew&id=PAK313045" target="_blank" class="clr3">Full Profile >> </a></div>
+					</div>
+				</div>
+			</div>
+			</div>		
+			<div class="fleft" style="width:250px;padding-left:25px;"><a href="/register/"><img src="http://img.pakistanimatrimony.com/images/pakistani/pakistani-gift.jpg" style="border:0px;"></a></div>
+		 </div><div class="clear"><!-- --></div>	
+		
+
+		<footer> <!-- Footer Starts Here -->
+		<div align="center" style="width:773px;padding-bottom:10px;" class="nav mgt20 smalltxt clr8 pdt10">
+		<a class="clr1" href="/site/index.php?act=aboutus">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="clr1" href="/site/index.php?act=feedback">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="clr1" href="/site/index.php?act=privacypolicy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="clr1" href="/payment/">Pay Now</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="clr1" href="http://image.pakistanimatrimony.com/successstory/index.php?act=success">Post Success Story</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="clr1" href="/site/index.php?act=termsandconditions">Terms and Conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="clr1" href="/matrimonials/">Popular Matrimony Searches</a>
+		</div>
+		<div align="center" class="smalltxt clr paddt5">Copyright &copy; 2011 PakistaniMatrimony.com All rights reserved. </div><div style="width:100%;float:left;background:#D11014;padding-top:5px;padding-bottom:5px;">
+			<center>
+				<font class="smalltxt clr1">
+				<span class="clrw" style="font:bold 11px arial;color:#ffffff;">Our Networks :</span>&nbsp;&nbsp;
+				<a href="http://www.bharatmatrimony.com" target="_blank" class="smalltxt clr1">Matrimony</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.communitymatrimony.com" target="_blank" class="smalltxt clr1">CommunityMatrimony</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.clickjobs.com" target="_blank" class="smalltxt clr1">Jobs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.indiaproperty.com" target="_blank" class="smalltxt clr1">Property</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.indialist.com" target="_blank" class="smalltxt clr1">Classifieds</a></font>
+			</center>
+		</div>
+        </footer> <!-- Footer Ends Here -->
+
+	</div> <!-- Container Ends Here -->
+<div id="refertrack" style="display:none;"></div>
+<script language="javascript" type="text/javascript"> 
+<!--
+var refer = document.referrer;
+
+var regdomain = window.location.href;
+var txtsplit=regdomain.split("=");
+
+if (document.referrer != '')
+{
+var p='<iframe src="http://www.communitymatrimony.com/googlecamp/seo/seoorganictrack.php?ref='+escape(refer)+'&userip=0&page=index.html&matriid=0&dnam=tamil" width=100 height=100 frameborder=0></iframe>';
+document.getElementById('refertrack').innerHTML=p;
+}
+//-->
+</script>
+</body>
+</html>

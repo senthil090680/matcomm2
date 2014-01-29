@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Vanniakulakshatriya Matrimony, Vanniakulakshatriya Matrimonial, Vanniakulakshatriya Matrimonials : Brides &amp; Grooms</title>
+<meta name="description" content="VanniakulakshatriyaMatrimony, Exclusive Matrimony Portal from VanniakulakshatriyaMatrimony Click here to Register FREE &amp; get FREE Matches" />
+<meta name="keywords" content="Vanniakulakshatriya Matrimonial, Vanniakulakshatriya Matrimonials, Vanniakulakshatriya Matrimony" />
+<meta name="Author" content="VanniakulakshatriyaMatrimony.com Vanniakulakshatriya Matrimonial Team" />
+<meta name="copyright" content="Vanniakulakshatriyamatrimony.com Matrimonials" />
+<meta name="Distribution" content="general" />
+<link rel="stylesheet" href="http://imgs.communitymatrimony.com/styles/home.css" />
+<script language="javascript" src="http://imgs.communitymatrimony.com/scripts/login.js" type="text/javascript"></script>
+<script language="javascript" src="http://imgs.communitymatrimony.com/scripts/home.js" type="text/javascript"></script>
+</head>
+<body>
+<center>
+
+<div id="maincontainer">
+<div id="container">
+	<div class="padt5">
+		<div class="fleft"><img src="http://imgs.communitymatrimony.com/images/logo/vanniakulakshatriya_logo.gif" width="380" height="40" alt="Vanniakulakshatriya Matrimonials" border="0" vspace="10" /></div>
+		<div class="fright normtxt clr2" style="padding-bottom:10px !important;padding-bottom:5px;">
+			<div class="fleft">
+				<div class="fleft bld" style="padding:1px 5px 4px 0px;"><font class="clr smalltxt ">Already a member?</font></div>
+				<br clear="all" />
+				<form name="Login" method="post" action="/login/index.php?act=logincheck" style="margin:0px;">
+				<div class="fleft" style="padding-bottom:5px;">
+					<input type="text" name="idEmail" value="Enter ID / E-mail" class="inputtext" style="width:90px;color:#707070;" onclick="if (this.value == 'Enter ID / E-mail') { this.value = ''; }" onfocus="if (this.value == 'Enter ID / E-mail') { this.value = ''; }" onblur="if (this.value == '') { this.value = 'Enter ID / E-mail'; }"/>
+					<input type="password" name="password" id="PASSWORD" value="password" maxlength="12" style="width:90px;color:#707070;" class="inputtext" onclick="if (this.value == 'password') { this.value = ''; }" onfocus="if (this.value == 'password') { this.value = ''; }" onblur="if (this.value == '') { this.value = 'password'; }" />
+					<input type="submit" value="Login" class="button"  onclick="return funLogin();" /><input type="hidden" value="yes" name="frmLoginSubmit" />
+				</div>
+				<div class="fleft" style="text-align:left;width:56px !important;width:60px;margin:0px;padding:0px;line-height:10px;padding-left:5px; padding-bottom:5px;"><a href="/login/index.php?act=forgotpwd" class="smalltxt clr1">Forgot Password?</a>
+				</div>
+				</form>
+			</div>
+		</div>
+
+		<div class="fright normtxt clr2">
+			<div class="fleft tlright padt10"><font class="clr bld">Home</font>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="clr1" href="/register/">Register</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/search/" class="clr1">Search</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/payment/" class="clr1">Pay Now</a></div>
+            <div style="float:left;width:145px;" id="dive-pbg">
+                <div style="height:10px;"><a href="/site/index.php?act=LiveHelp"><img src="http://imgs.iyermatrimony.com/images/trans.gif" width="94" height="10" border="0" /></a></div>
+                <div style="padding-top:4px;padding-left:15px !important;padding-left:22px;height:19px;margin:0px;">
+					<iframe src="/site/livehelpnohome.php" style="height:18px;width:120px !important;width:127px;" frameborder="0"></iframe>
+				</div>
+            </div>
+
+		<div class="cleard"></div>
+	</div>
+	<div><img src="http://imgs.communitymatrimony.com/images/homeimg/vanniakula-kshatriya-matrimony-img.jpg" width="772" height="569" alt="Vanniakulakshatriya Matrimonials" border="0" /></div>
+	<div class="relposition">
+	<div class="abspositionmid">
+	<div class="hpmidmaindiv" style="height:155px;">
+		<div class="hpmidmatridiv">An Exclusive Matrimony<br />Service For The<br /><font class="bld">Vanniakulakshatriya Community</font><br />around the world</div>
+		<div class="namregfreelink">Not a member? <a href="/register/" class="bld"><span class="regfreespace">Register FREE</span></a></div>
+		</div><div class="cleard"></div>
+
+	<div class="hpmidmatrifrmdiv">
+		<div class="hpmidmatrifrmw tlleft">
+		<div class="fleft hpmidmatrifrmwpad">
+			<div class="hpqspad"><font class="hpqs bld">Quick Search</font></div>
+			<form name="RSearchForm" method="post" action="/search/index.php" class="marg0">
+			<div class="hpmidmatrifrmlabel1 fleft mediumtxt clr6">Looking for</div>
+			<div class="fleft mediumtxt clr6">
+				<div class="fleft form-field"><label for="Bride"><input type="radio" id="Bride" name="gender" value="2" onclick="javascript:chkgender('f');" checked="checked"/><span class="margt1">Bride</span></label></div>
+				<div class="fleft form-field"><label for="Groom"><input type="radio" id="Groom" name="gender" value="1" onclick="javascript:chkgender('m');"/><span class="margt1">Groom</span></label></div>
+			</div><div class="cleard"></div>
+			<div class="hpmidmatrifrmlabel clr6">in the age group&nbsp;&nbsp;<input type="text" name="ageFrom" id="ageFrom" class="inputtext hpagetxtbox" size="2" onclick="if ((this.value == '18') || (this.value == '21')) { this.value = ''; }" onfocus="if ((this.value == '18')|| (this.value == '21')) { this.value = ''; }"  value="18" />&nbsp;&nbsp;&nbsp;to&nbsp;&nbsp;&nbsp; <input type="text" name="ageTo" id="ageTo" class="inputtext hpagetxtbox" size="2" onclick="if ((this.value == '30') ||(this.value == '33')) { this.value = ''; }" onfocus="if ((this.value == '30') ||(this.value == '33')) { this.value = ''; }"  value="30" /></div>
+			<div class="fright hpmidmatrifrmlabel"><input type="hidden" value="1" name="photoOpt" /><input type="hidden" name="act" value="srchresult" /><input type="submit" class="button" value="Search" /></div>
+			</form>
+		</div>
+		</div>
+	</div><div class="cleard"></div>
+	</div>
+	</div><br />
+	<div class="fleft smalltxt lh20 tlleft"><font class="normtxt1 bld padlr5">The Celebrating Vanniakulakshatriya:</font><p class="margt5 tljust padlr5">The name of our community is derived from the Tamil word 'vanmai' which means strength. We have nearly 92 different names/sub-caste titles. They include names such as Vanne Kapur, Hebbar or Hebbe and Nayakar. In Andhra Pradesh, we are generally known as Pallis.</p></div>
+    <br clear="all"><br clear="all">
+    <iframe src="/site/priv_home_mat.php" frameborder="0" style="width:772px !important;width:772px;height:76px !important;height:76px;background: #7B0842;" align="left"></iframe>
+    <br clear="all"><br clear="all">
+	<div class="linesep"><img src="http://imgs.communitymatrimony.com/images/trans.gif" height="1" width="1" alt="" /></div>
+	<div class="footdiv">
+		<div class="footdiv1"><font class="smalltxt clr"><a href="/site/index.php?act=aboutus" class="smalltxt clr1">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/site/index.php?act=contactus" class="smalltxt clr1">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/site/index.php?act=privacypolicy" class="smalltxt clr1">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/site/index.php?act=termsandconditions" class="smalltxt clr1">Terms and Conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/payment/" class="smalltxt clr1">Pay Now</a>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/site/index.php?act=feedback" class="smalltxt clr1">Feedback</a>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://image.vanniakulakshatriyamatrimony.com/successstory/index.php?act=success" class="smalltxt clr1">Post Success Story</a>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/matrimonials/" class="smalltxt clr1">Popular Matrimony Searches</a></font></div>
+		<center><div class="fleft footdiv2"><font class="opttxt clr">Copyright &copy; 2009 Consim Info Pvt Ltd. All rights reserved.</font></div></center><div id="refertrack" style="display:none;"></div>
+<script language="javascript" type="text/javascript">
+<!--
+var refer = document.referrer;
+
+var regdomain = window.location.href;
+var txtsplit=regdomain.split("=");
+
+if (document.referrer != '')
+{
+var p='<iframe src="http://www.communitymatrimony.com/googlecamp/seo/seoorganictrack.php?ref='+escape(refer)+'&userip=0&page=index.html&matriid=0&dnam=tamil" width=100 height=100 frameborder=0></iframe>';
+document.getElementById('refertrack').innerHTML=p;
+}
+//-->
+</script>
+	</div>
+	</div>
+	</div>
+    </div>
+</center>
+</body>
+</html>

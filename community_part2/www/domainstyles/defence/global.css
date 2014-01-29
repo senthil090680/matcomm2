@@ -1,0 +1,17 @@
+.sclr{color:#EFD475;}
+.wclr{color:#ffffff;}
+
+.dlayer{border:1px solid #C45B4A;border-top:0px;border-right:0px;display: none;position: absolute;background-color: #8F2311;padding: 5px 10px 10px 10px;line-height:18px;font-family: Arial,sans-serif;font-size: 11px;color: #ffffff;z-index:1001;}
+.dlayer1{border:1px solid #C45B4A;border-top:0px;display: none;position: absolute;background-color: #8F2311;padding: 5px 10px 10px 10px;line-height:18px;font-family: Arial,sans-serif;font-size: 11px;color: #ffffff;z-index:1001;}
+
+.rbrdr {border-right:1px solid #C45B4A;border-top:1px solid #8F2311;}
+.mbrdr1 {border-top:1px solid #C45B4A;border-right:1px solid #C45B4A;}
+
+.deffoot{width:100%;background:url(http://img.defencematrimony.com/images/defence-ftbg.gif) left top repeat-x;height: 107px;float:left;margin-top:6px;}
+.deffooter{margin: 26px 0 0 105px;padding: 0px;width: 667px;}
+.deffooter ul{margin: 0px;padding: 0px;}
+.deffooter li{list-style: none;float: left;font: 11px Arial;color: #C51D24;background: url(http://img.defencematrimony.com/images/defencefootbg.gif) right 2px no-repeat;padding: 0 10px 0 10px;height: 20px;}
+.deffooter li a{text-decoration: none;color:#C51D24;}
+#defft{padding-left:250px;}
+#defma{width:722px;font:11px arial;color:#565656;float:left;}
+.fclr{color:#000000;}

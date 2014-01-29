@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/communitymatrimony/!svn/ver/8806/www/admin/paymentassistance
+END
+eprstatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/communitymatrimony/!svn/ver/8613/www/admin/paymentassistance/eprstatus.php
+END
+tmpasthistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/communitymatrimony/!svn/ver/8613/www/admin/paymentassistance/tmpasthistory.php
+END
+clsDB_PaymentAss.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/communitymatrimony/!svn/ver/8450/www/admin/paymentassistance/clsDB_PaymentAss.php
+END
+paymentoptionsupdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/communitymatrimony/!svn/ver/2131/www/admin/paymentassistance/paymentoptionsupdate.php
+END
+easypay_arrays.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/communitymatrimony/!svn/ver/2074/www/admin/paymentassistance/easypay_arrays.php
+END
+load.gif
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/communitymatrimony/!svn/ver/8613/www/admin/paymentassistance/load.gif
+END
+chkOfferDetails.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/communitymatrimony/!svn/ver/8450/www/admin/paymentassistance/chkOfferDetails.php
+END
+paidpageinsert.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/communitymatrimony/!svn/ver/8450/www/admin/paymentassistance/paidpageinsert.php
+END
+support_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/communitymatrimony/!svn/ver/8631/www/admin/paymentassistance/support_insert.php
+END
+paupdatecrmchat.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/communitymatrimony/!svn/ver/2403/www/admin/paymentassistance/paupdatecrmchat.php
+END
+ordergen.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/communitymatrimony/!svn/ver/8613/www/admin/paymentassistance/ordergen.php
+END
+successleadmsg.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/communitymatrimony/!svn/ver/8450/www/admin/paymentassistance/successleadmsg.php
+END
+indextest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/communitymatrimony/!svn/ver/7787/www/admin/paymentassistance/indextest.php
+END
+cbssupportdailyreceivedcount.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/communitymatrimony/!svn/ver/8631/www/admin/paymentassistance/cbssupportdailyreceivedcount.php
+END
+supportgetreport.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/communitymatrimony/!svn/ver/8613/www/admin/paymentassistance/supportgetreport.php
+END
+onlinepaymentfailerupdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/communitymatrimony/!svn/ver/2131/www/admin/paymentassistance/onlinepaymentfailerupdate.php
+END
+resultlog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/communitymatrimony/!svn/ver/8450/www/admin/paymentassistance/resultlog.txt
+END
+pavar.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/communitymatrimony/!svn/ver/7755/www/admin/paymentassistance/pavar.php
+END
+supportcbstmgetofferbycurrence.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/communitymatrimony/!svn/ver/8450/www/admin/paymentassistance/supportcbstmgetofferbycurrence.php
+END
+autosuggest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/communitymatrimony/!svn/ver/8613/www/admin/paymentassistance/autosuggest.php
+END
+cal.gif
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/communitymatrimony/!svn/ver/8450/www/admin/paymentassistance/cal.gif
+END
+supportcheckstatus_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/communitymatrimony/!svn/ver/8450/www/admin/paymentassistance/supportcheckstatus_test.php
+END
+supportcheckstatustest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/communitymatrimony/!svn/ver/7787/www/admin/paymentassistance/supportcheckstatustest.php
+END
+supportofflineupdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/communitymatrimony/!svn/ver/8450/www/admin/paymentassistance/supportofflineupdate.php
+END
+cbssupportcommonfunction.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/communitymatrimony/!svn/ver/8621/www/admin/paymentassistance/cbssupportcommonfunction.php
+END
+supportgetsta.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/communitymatrimony/!svn/ver/8631/www/admin/paymentassistance/supportgetsta.php
+END
+cbseasypayarrays.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/communitymatrimony/!svn/ver/8613/www/admin/paymentassistance/cbseasypayarrays.php
+END
+tmcomments.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/communitymatrimony/!svn/ver/8805/www/admin/paymentassistance/tmcomments.php
+END
+offerdisplay.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/communitymatrimony/!svn/ver/2213/www/admin/paymentassistance/offerdisplay.php
+END
+lvars.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/communitymatrimony/!svn/ver/8450/www/admin/paymentassistance/lvars.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/communitymatrimony/!svn/ver/8793/www/admin/paymentassistance/header.php
+END
+support_easypayapplication.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/communitymatrimony/!svn/ver/8631/www/admin/paymentassistance/support_easypayapplication.php
+END
+pendingepr.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/communitymatrimony/!svn/ver/8631/www/admin/paymentassistance/pendingepr.php
+END
+index_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/communitymatrimony/!svn/ver/8450/www/admin/paymentassistance/index_test.php
+END
+clsPaging.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/communitymatrimony/!svn/ver/3020/www/admin/paymentassistance/clsPaging.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/communitymatrimony/!svn/ver/8806/www/admin/paymentassistance/index.php
+END
+sendemailandsmstest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/communitymatrimony/!svn/ver/8450/www/admin/paymentassistance/sendemailandsmstest.php
+END
+supportofferPacakage.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/communitymatrimony/!svn/ver/8450/www/admin/paymentassistance/supportofferPacakage.php
+END
+pavars.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/communitymatrimony/!svn/ver/3852/www/admin/paymentassistance/pavars.inc
+END
+supportcheckstatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/communitymatrimony/!svn/ver/8796/www/admin/paymentassistance/supportcheckstatus.php
+END
+PageNav.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/communitymatrimony/!svn/ver/2132/www/admin/paymentassistance/PageNav.php
+END
+pacron.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/communitymatrimony/!svn/ver/2723/www/admin/paymentassistance/pacron.php
+END
+close.gif
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/communitymatrimony/!svn/ver/8613/www/admin/paymentassistance/close.gif
+END
+supportonlineupdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/communitymatrimony/!svn/ver/8450/www/admin/paymentassistance/supportonlineupdate.php
+END
+cbsprivilegepermission.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/communitymatrimony/!svn/ver/8687/www/admin/paymentassistance/cbsprivilegepermission.php
+END
+checkMatriId.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/communitymatrimony/!svn/ver/8613/www/admin/paymentassistance/checkMatriId.php
+END

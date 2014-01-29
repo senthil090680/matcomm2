@@ -1,0 +1,35 @@
+#useractivity{margin:0px;text-align:left;} 
+#useractivity .useractivityimgs {background-image:url(http://img.muslimmatrimony.com/images/user-activity-icons.gif);background-repeat:no-repeat;}
+#useractivityimgs .ua25{width:50px;height:50px;background-position:-3px -1px;}
+#useractivityimgs .ua30{width:50px;height:50px;background-position:-55px -1px;}
+#useractivityimgs .ua35{width:50px;height:50px;background-position:-108px -1px;}
+#useractivityimgs .ua40{width:50px;height:50px;background-position:-161px -1px;}
+#useractivityimgs .ua45{width:50px;height:50px;background-position:-213px -1px;}
+#useractivityimgs .ua50{width:50px;height:50px;background-position:-266px -1px;}
+#useractivityimgs .ua55{width:50px;height:50px;background-position:-320px -1px;}
+#useractivityimgs .ua60{width:50px;height:50px;background-position:-376px -1px;}
+#useractivityimgs .ua65{width:50px;height:50px;background-position:-2px -56px;}
+#useractivityimgs .ua70{width:50px;height:50px;background-position:-54px -54px;}
+#useractivityimgs .ua75{width:50px;height:50px;background-position:-110px -53px;}
+#useractivityimgs .ua80{width:50px;height:50px;background-position:-165px -53px;}
+#useractivityimgs .ua85{width:50px;height:50px;background-position:-223px -54px;}
+#useractivityimgs .ua90{width:50px;height:50px;background-position:-278px -55px;}
+#useractivityimgs .ua95{width:50px;height:50px;background-position:-331px -57px;}
+#useractivityimgs .ua100{width:50px;height:50px;background-position:-390px -57px;}
+
+#useractivityimgs .ua25s{width:37px;height:37px;background-position:-3px -132px;}
+#useractivityimgs .ua30s{width:37px;height:37px;background-position:-51px -132px;}
+#useractivityimgs .ua35s{width:37px;height:37px;background-position:-98px -132px;}
+#useractivityimgs .ua40s{width:37px;height:37px;background-position:-144px -132px;}
+#useractivityimgs .ua45s{width:37px;height:37px;background-position:-192px -132px;}
+#useractivityimgs .ua50s{width:37px;height:37px;background-position:-244px -132px;}
+#useractivityimgs .ua55s{width:37px;height:37px;background-position:-298px -129px;}
+#useractivityimgs .ua60s{width:37px;height:37px;background-position:-346px -129px;}
+#useractivityimgs .ua65s{width:37px;height:37px;background-position:-393px -129px;}
+#useractivityimgs .ua70s{width:37px;height:37px;background-position:-5px -192px;}
+#useractivityimgs .ua75s{width:37px;height:37px;background-position:-52px -192px;}
+#useractivityimgs .ua80s{width:37px;height:37px;background-position:-99px -193px;}
+#useractivityimgs .ua85s{width:37px;height:37px;background-position:-150px -194px;}
+#useractivityimgs .ua90s{width:37px;height:37px;background-position:-198px -194px;}
+#useractivityimgs .ua95s{width:37px;height:37px;background-position:-245px -194px;}
+#useractivityimgs .ua100s{width:37px;height:37px;background-position:-301px -192px;}

@@ -1,0 +1,55 @@
+
+
+//Email Id insert into the following details
+
+Database: classifiedmailer
+   Table: cbsclassfiedmaillist
+
+Structure : CREATE TABLE `cbsclassfiedmaillist` (
+  `Id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `EmailId` varchar(100) NOT NULL DEFAULT '',
+  `Status` tinyint(4) unsigned NOT NULL DEFAULT '0',
+  `Unsubscribe` tinyint(4) unsigned NOT NULL DEFAULT '0',
+  `Date` date NOT NULL DEFAULT '0000-00-00',
+  PRIMARY KEY (`Id`),
+  UNIQUE KEY `EmailId` (`EmailId`)
+)
+
+
+//COunt table insert into
+
+Database: communitymatrimony
+   Table: cbsmailer_report 
+Structure:
+
+ CREATE TABLE `cbsmailer_report` (
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
+  `MailerType` varchar(20) NOT NULL DEFAULT '',
+  `Count` int(11) NOT NULL DEFAULT '0',
+  `SentOn` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  PRIMARY KEY (`Id`)
+) 
+
+//File log Records
+
+/home/product/community/mailerapp
+
+1)cbsmailtracker.txt-->to track the finalrecord
+2)classified_orignal.txt->>input file
+3)classifed_orignal_final_date==>ouput emailId from table
+4)classified_original_old===>Old file
+
+
+Executing files
+
+1)createmaillist.php--->to insert the emailid intodatabase and fetch the record in to file
+2))sendclassifiedmail.php-->to send the mail 
+
+for unsubscribe
+/home/product/community/www/mailer/classified/
+1)unsubscribe.php
+
+
+for db log files
+
+/var/log/dberrorlog/currentdate_db_community_prod_error_log.txt

@@ -1,0 +1,659 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/communitymatrimony/!svn/ver/8806/www/admin
+END
+loadcurrency.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/communitymatrimony/!svn/ver/1087/www/admin/loadcurrency.php
+END
+statistics.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/communitymatrimony/!svn/ver/1/www/admin/statistics.php
+END
+view-filter-settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/communitymatrimony/!svn/ver/7264/www/admin/view-filter-settings.php
+END
+auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/communitymatrimony/!svn/ver/3138/www/admin/auth.php
+END
+view-photo.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/communitymatrimony/!svn/ver/1/www/admin/view-photo.php
+END
+offeravailable.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/communitymatrimony/!svn/ver/7373/www/admin/offeravailable.php
+END
+pmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/communitymatrimony/!svn/ver/5712/www/admin/pmail.php
+END
+adminshowphoto.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/communitymatrimony/!svn/ver/3231/www/admin/adminshowphoto.php
+END
+admin-story-valid.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/communitymatrimony/!svn/ver/1/www/admin/admin-story-valid.php
+END
+viewphone.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/communitymatrimony/!svn/ver/7264/www/admin/viewphone.php
+END
+phonesupport.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/communitymatrimony/!svn/ver/5582/www/admin/phonesupport.php
+END
+payment-reports.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/communitymatrimony/!svn/ver/1/www/admin/payment-reports.php
+END
+pending-count.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/communitymatrimony/!svn/ver/3726/www/admin/pending-count.php
+END
+message-view-log.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/communitymatrimony/!svn/ver/2431/www/admin/message-view-log.php
+END
+added-photos.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/communitymatrimony/!svn/ver/1/www/admin/added-photos.php
+END
+adminviewphone.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/communitymatrimony/!svn/ver/3587/www/admin/adminviewphone.php
+END
+requestmade.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/communitymatrimony/!svn/ver/7264/www/admin/requestmade.php
+END
+phonesupportres.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/communitymatrimony/!svn/ver/8044/www/admin/phonesupportres.php
+END
+adminhoroshow.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/communitymatrimony/!svn/ver/3185/www/admin/adminhoroshow.php
+END
+maxmind-upgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/communitymatrimony/!svn/ver/138/www/admin/maxmind-upgrade.php
+END
+edit-profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/communitymatrimony/!svn/ver/7821/www/admin/edit-profile.php
+END
+modify-profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/communitymatrimony/!svn/ver/1/www/admin/modify-profile.php
+END
+adminviewlog.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/communitymatrimony/!svn/ver/3184/www/admin/adminviewlog.php
+END
+upgrade-profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/communitymatrimony/!svn/ver/1/www/admin/upgrade-profile.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/communitymatrimony/!svn/ver/7425/www/admin/header.php
+END
+updated-validity-period.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/communitymatrimony/!svn/ver/2357/www/admin/updated-validity-period.php
+END
+view-profile1.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/communitymatrimony/!svn/ver/8472/www/admin/view-profile1.php
+END
+shuffled_profile_validation.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/communitymatrimony/!svn/ver/7821/www/admin/shuffled_profile_validation.php
+END
+maxmindpayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/communitymatrimony/!svn/ver/5923/www/admin/maxmindpayment.php
+END
+phonenotwork.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/communitymatrimony/!svn/ver/8044/www/admin/phonenotwork.php
+END
+view-profile-email.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/communitymatrimony/!svn/ver/4276/www/admin/view-profile-email.php
+END
+approve-reference-new.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/communitymatrimony/!svn/ver/1/www/admin/approve-reference-new.php
+END
+paymenthistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/communitymatrimony/!svn/ver/7452/www/admin/paymenthistory.php
+END
+uspaidmsgval.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/communitymatrimony/!svn/ver/3671/www/admin/uspaidmsgval.php
+END
+add-payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/communitymatrimony/!svn/ver/5924/www/admin/add-payment.php
+END
+view-matriid-byphone.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/communitymatrimony/!svn/ver/7370/www/admin/view-matriid-byphone.php
+END
+interest-sent.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/communitymatrimony/!svn/ver/1/www/admin/interest-sent.php
+END
+interest-view.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/communitymatrimony/!svn/ver/1/www/admin/interest-view.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/communitymatrimony/!svn/ver/7264/www/admin/index.php
+END
+message-received.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/communitymatrimony/!svn/ver/1/www/admin/message-received.php
+END
+approve-reference.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/communitymatrimony/!svn/ver/1/www/admin/approve-reference.php
+END
+upprotectpassword.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/communitymatrimony/!svn/ver/5458/www/admin/upprotectpassword.php
+END
+validation-log.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/communitymatrimony/!svn/ver/8076/www/admin/validation-log.php
+END
+profile_validation.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/communitymatrimony/!svn/ver/8445/www/admin/profile_validation.php
+END
+statistics-details.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/communitymatrimony/!svn/ver/7539/www/admin/statistics-details.php
+END
+admin-statistics.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/communitymatrimony/!svn/ver/1/www/admin/admin-statistics.php
+END
+added-references.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/communitymatrimony/!svn/ver/1/www/admin/added-references.php
+END
+gender-select.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/communitymatrimony/!svn/ver/1/www/admin/gender-select.php
+END
+profile-status.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/communitymatrimony/!svn/ver/2357/www/admin/profile-status.php
+END
+timeoutreport.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/communitymatrimony/!svn/ver/5759/www/admin/timeoutreport.php
+END
+message-popup.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/communitymatrimony/!svn/ver/1/www/admin/message-popup.php
+END
+autorenewal.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/communitymatrimony/!svn/ver/7464/www/admin/autorenewal.php
+END
+calendar.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/communitymatrimony/!svn/ver/1/www/admin/calendar.html
+END
+filesort.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/communitymatrimony/!svn/ver/1/www/admin/filesort.php
+END
+twitter_msg_valid.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/communitymatrimony/!svn/ver/2357/www/admin/twitter_msg_valid.php
+END
+ps_pagination.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/communitymatrimony/!svn/ver/3325/www/admin/ps_pagination.php
+END
+rightmenu-viewprofile.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/communitymatrimony/!svn/ver/7666/www/admin/rightmenu-viewprofile.php
+END
+Message-view.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/communitymatrimony/!svn/ver/1/www/admin/Message-view.php
+END
+users-edit-view.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/communitymatrimony/!svn/ver/8525/www/admin/users-edit-view.php
+END
+paymentauthorization.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/communitymatrimony/!svn/ver/7930/www/admin/paymentauthorization.php
+END
+footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/communitymatrimony/!svn/ver/7425/www/admin/footer.php
+END
+matchwatchinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/communitymatrimony/!svn/ver/7451/www/admin/matchwatchinfo.php
+END
+paymenttracking.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/communitymatrimony/!svn/ver/138/www/admin/paymenttracking.php
+END
+bulkmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/communitymatrimony/!svn/ver/3864/www/admin/bulkmail.php
+END
+getstates.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/communitymatrimony/!svn/ver/1334/www/admin/getstates.php
+END
+hide-profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/communitymatrimony/!svn/ver/8059/www/admin/hide-profile.php
+END
+cbstm_middetails.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/communitymatrimony/!svn/ver/8169/www/admin/cbstm_middetails.php
+END
+get_twitter_msg.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/communitymatrimony/!svn/ver/7264/www/admin/get_twitter_msg.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/communitymatrimony/!svn/ver/5466/www/admin/login.php
+END
+view-profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/communitymatrimony/!svn/ver/5305/www/admin/view-profile.php
+END
+logout.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/communitymatrimony/!svn/ver/5186/www/admin/logout.php
+END
+adminautologin.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/communitymatrimony/!svn/ver/7473/www/admin/adminautologin.php
+END
+spammsgval.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/communitymatrimony/!svn/ver/5647/www/admin/spammsgval.php
+END
+onilepaymentfailure.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/communitymatrimony/!svn/ver/1416/www/admin/onilepaymentfailure.php
+END
+ip.csv
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/communitymatrimony/!svn/ver/3436/www/admin/ip.csv
+END
+matriid-through-phone.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/communitymatrimony/!svn/ver/7370/www/admin/matriid-through-phone.php
+END
+update-profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/communitymatrimony/!svn/ver/8433/www/admin/update-profile.php
+END
+videovalidation.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/communitymatrimony/!svn/ver/1/www/admin/videovalidation.php
+END
+phonepackagedet.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/communitymatrimony/!svn/ver/5273/www/admin/phonepackagedet.php
+END
+reset-password.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/communitymatrimony/!svn/ver/1/www/admin/reset-password.php
+END
+interest-view-log.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/communitymatrimony/!svn/ver/1/www/admin/interest-view-log.php
+END
+update-validity-period.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/communitymatrimony/!svn/ver/1270/www/admin/update-validity-period.php
+END
+paymentfollowups.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/communitymatrimony/!svn/ver/138/www/admin/paymentfollowups.php
+END
+view-duplicate-emails.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/communitymatrimony/!svn/ver/3557/www/admin/view-duplicate-emails.php
+END
+viewdphones.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/communitymatrimony/!svn/ver/4994/www/admin/viewdphones.php
+END
+phoneverify.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/communitymatrimony/!svn/ver/7364/www/admin/phoneverify.php
+END
+phone-count.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/communitymatrimony/!svn/ver/7364/www/admin/phone-count.php
+END
+support-details.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/communitymatrimony/!svn/ver/1/www/admin/support-details.php
+END
+edit-payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/communitymatrimony/!svn/ver/2357/www/admin/edit-payment.php
+END
+profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/communitymatrimony/!svn/ver/7545/www/admin/profile.php
+END
+delete.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/communitymatrimony/!svn/ver/5924/www/admin/delete.php
+END
+deleted-profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/communitymatrimony/!svn/ver/7539/www/admin/deleted-profile.php
+END
+overallpendingreport.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/communitymatrimony/!svn/ver/5651/www/admin/overallpendingreport.php
+END
+modify-story.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/communitymatrimony/!svn/ver/1/www/admin/modify-story.php
+END
+shuffled_profile_modification.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/communitymatrimony/!svn/ver/7821/www/admin/shuffled_profile_modification.php
+END
+unprotectpassword.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/communitymatrimony/!svn/ver/7364/www/admin/unprotectpassword.php
+END
+swap.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/communitymatrimony/!svn/ver/1/www/admin/swap.php
+END
+single_profile_validation.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/communitymatrimony/!svn/ver/5705/www/admin/single_profile_validation.php
+END
+ldap.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/communitymatrimony/!svn/ver/8447/www/admin/ldap.php
+END
+interest-received.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/communitymatrimony/!svn/ver/1/www/admin/interest-received.php
+END
+added-profiles.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/communitymatrimony/!svn/ver/5648/www/admin/added-profiles.php
+END
+login-check.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/communitymatrimony/!svn/ver/5121/www/admin/login-check.php
+END
+admin-profile-valid.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/communitymatrimony/!svn/ver/5813/www/admin/admin-profile-valid.php
+END
+photoreport.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/communitymatrimony/!svn/ver/5760/www/admin/photoreport.php
+END
+profile_modification.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/communitymatrimony/!svn/ver/8444/www/admin/profile_modification.php
+END
+admin-exisiting-valid.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/communitymatrimony/!svn/ver/1/www/admin/admin-exisiting-valid.php
+END
+single_profile_modification.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/communitymatrimony/!svn/ver/7821/www/admin/single_profile_modification.php
+END
+manage-users.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/communitymatrimony/!svn/ver/8169/www/admin/manage-users.php
+END
+phoneverified.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/communitymatrimony/!svn/ver/8055/www/admin/phoneverified.php
+END

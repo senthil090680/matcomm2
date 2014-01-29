@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/communitymatrimony/!svn/ver/8671/www/mailer/remindermailer/msgpending
+END
+message_pending_smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/communitymatrimony/!svn/ver/5117/www/mailer/remindermailer/msgpending/message_pending_smtp.php
+END
+message_pending_tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/communitymatrimony/!svn/ver/4165/www/mailer/remindermailer/msgpending/message_pending_tpl.php
+END
+message_pending.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/communitymatrimony/!svn/ver/8671/www/mailer/remindermailer/msgpending/message_pending.php
+END

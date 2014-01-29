@@ -1,0 +1,48 @@
+.bgfadediv{
+	 display: none;
+	 position: absolute;
+	 top: 0;
+	 left: 0;
+	 width: 100%;
+	 padding: 0px;
+	 background-color: #000;
+	 z-index:1001;
+	 opacity:0.55;
+	 -moz-opacity: 0.55; 
+	 filter: alpha(opacity=55);
+   }
+
+ .frdispdiv{
+	 display: none;
+	 position: absolute;
+	 margin: 0px; 
+	 width: 90%;
+	 padding: 0px;
+	 border: 2px solid #999999;
+	 background-color: white;
+	 z-index:1002;
+	}
+	.bginnerfadediv{
+	 display: none;
+	 position: absolute;
+	 top: 0;
+	 left: 0;
+	 width: 100%;
+	 padding: 0px;
+	 background-color: #000;
+	 z-index:1003;
+	 -moz-opacity: 0.55; 
+	 opacity:0.55;
+	 filter: alpha(opacity=55);
+	}
+
+ .innerfrdispdiv{
+	 display: none;
+	 position: absolute;
+	 margin: 0px; 
+	 width: 90%;
+	 padding: 0px;
+	 border: 2px solid #cbcbcb;
+	 background-color: white;
+	 z-index:1004;
+	}

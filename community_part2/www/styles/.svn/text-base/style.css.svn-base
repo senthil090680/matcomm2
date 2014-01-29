@@ -1,0 +1,70 @@
+body{margin: 0px; padding: 0px;background:url(http://img.communitymatrimony.com/images/cmm_bg.jpg) left top repeat-x;height: 117px;}
+#main{width: 100%;}
+.mwdt{width:782px;}
+.head{margin-top:39px;height:61px;float:left;}
+.fleft{float:left;}
+.fright{float:right;}
+.hdmnu{margin:  27px 10px 0 0;padding: 0px;}
+.hdmnu ul{margin: 0px;padding:  0px;}
+.hdmnu li{list-style: none;float: right;font:bold 13px Arial;color: #FFB400;padding: 0 0 0 7px;}
+.hdmnu li a{text-decoration: none;color: #FFB400;}
+#red{color: #DB0303;}
+#innbg{background: url(http://img.communitymatrimony.com/images/cmm_innerbg.jpg) left top no-repeat;width:772px;height:523px;float: left;}
+.leftwdth{width:409px;}
+.rightwdth{width:344px;}
+.mrgn{margin-top:50px;}
+#mattxt{color:#E85524;font:28px Georgia;height:140px !important;height:148px;}
+.link a{text-decoration:none;color:#7D7D7D;}
+.link a:hover{color:#D71125;}
+.linkfnt{font:13px Georgia;}
+.linkfntbld{font:bold 16px Georgia;}
+ .slideshow { height: 386px; width: 332px; margin: auto }
+.selhd{float:left;margin-left:10px;display:inline;}
+.inpcmwdt{width:270px;}
+.brd{border:1px solid #8E8E8E;}
+.hgt23{height:23px;}
+.selt{width:20px;}
+.button{background:#D71125;width:43px;border:0px solid #D71125;color:#ffffff;height:25px;}
+.buttonl{background:#D71125;width:43px;color:#fff;border:0px;font:12px arial;height:20px;}
+.backgrd,.backgrd a{background-color:#8C0000;text-decoration:underline;color:#fff;font:bold 15px arial;padding-top:2px;height:20px;}
+.backwdt{width:180px;}
+
+
+.hgt32{height:28px;}
+.fntfmy{font:bold 13px arial;color:#1A1A1A;}
+.mgnlft10{margin-left:10px;}
+.clr{color:#ED7750;}
+.clr1{color:#C9001C;}
+.lnk a{text-decoration: none;}
+.fntfmy{font-family:arial;font-size:12px;}
+.fntfmy1{font-family:arial;font-size:13px;font-weight:bold}
+.clr2{color:#BABABA;}
+.heght25{height:25px;}
+.padtb10{padding:10px 0px 20px 0px;}
+.tlleft{text-align:left;}
+.disblk{display:block;}
+.hpsitesdiv {width:246px;line-height:18px;}
+a.rclr {color:#000000;}
+a.rclr:hover{color:#D11014;}
+.hpsitesdiv1 {width:16px;background:url('http://img.communitymatrimony.com/images/home-versep.gif') repeat-y;}
+.lnk a{text-decoration:none;color:#515151;font:12px arial;}
+.lnk a:hover{color:#D71125;}
+.site{color:#D71125;font: bold 12px arial;}
+.heght15{height:15px !important;height:5px;}
+.fntfmy2{font:12px arial;color:#1A1A1A;text-align:justify;line-height:15px;padding-top:5px;}
+.mgntxt{margin-top:0px !important;margin-top:10px;}
+.brdbtm{border-bottom:1px solid #ADADAD;padding-bottom:10px;}
+.footdiv, .footdiv2{width: 770px;}
+.footdiv1{padding-top: 7px; padding-bottom: 5px;}
+.smalltxt { font-size:11px;}
+.opttxt { font-size:10px;color:#ababab;}
+.smalltxtfnt{font-family:arial;}
+.txtdcr a{text-decoration:none;}
+.disnon{display:none;}
+.marglft{margin-left:8px;}
+.heght50{height: 40px;}
+
+.alrmem{color:#fff;font:12px arial;}
+.head1{margin-top:10px;}
+.reg{color:#FFB400;text-decoration:none;font:11px Arial;}
+.padrght10{padding-right:0px !important;padding-right:15px;}

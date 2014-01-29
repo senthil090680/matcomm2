@@ -1,0 +1,85 @@
+/* Common */
+*{margin:0;padding:0;outline:0;}
+body{background:#fff;font:12px "Arial",Helvetica,Tahoma; color:#000;margin:0px;}
+img{border:0 none;}
+a{text-decoration:none;}
+h1{font-size:18px;}
+/* Floating */
+.fleft{float:left;} .fright{float:right;} .clear{clear:both;}
+/* Padding */
+.padd10{padding:10px;} .paddtb10{padding:10px 0;} .paddt10{padding:10px 0 0;} .paddl10{padding:0 0 0 10px;} .paddr10{padding:0 10px 0 0;} .padd5{padding:5px;} .paddt5{padding-top:5px;} .paddtb5{padding:5px 0;} .paddb5{padding:0 0 5px;} .padd3{padding:3px;}
+/* Font Colors */
+.clr1{color:#fff;} .clr2{color:#000;} .clr3{color:#006DC1;} .clr4{color:#48460C;}
+.clr5{color:#0B89D9;}
+.bld {font-weight:bold;}
+/* Font Align */
+.txtr{text-align:right;} .txtc{text-align:center;} .txtj{text-align:justify;} .txtl{text-align:left;}
+/* Font Size */
+.font17{font-size:17px;} .font16{font-size:16px;} .font11{font-size:11px;} .btxt{font-weight:bold;}
+/* Background Colors */
+.bg1{background:#EDEDED;} .bg2{background:#fff;}
+/* Form */
+.form_fields  *{vertical-align:middle;} .inputsmall{width:17px; padding:0 4px; font-size:11px;}
+/* Border */
+.dotted{background:url(http://img.communitymatrimony.com/images/new/dots.gif) repeat-x left center ; padding:10px 0;}
+.vdotted{background:url(http://img.communitymatrimony.com/images/new/vdots.gif) no-repeat center 60% ; padding:0 10px; height:175px;}
+/* Width */
+.width228{width:228px;} .width200{width:200px;} .width350{width:350px;}
+/* Container */
+.container{width:775px;margin:0 auto;}
+/* Header */
+.topboxlc{background:url(http://img.communitymatrimony.com/images/new/toplinksbg.gif) no-repeat left 0; height:33px;width:400px;}
+.topboxrc{background:url(http://img.communitymatrimony.com/images/new/toplinksbg.gif) no-repeat right 0; height:33px;margin-left:4px;}
+.toplinks{padding:7px;}
+/* Menu */
+.nav{width:100%;background:#E12328;}
+.menu a{font:bold 15px "Arial",Helvetica,Tahoma; color:#fff; padding:18px 10px; display:block; float:left;}
+.menu a:hover{background:#F26A26;}
+
+
+.menu .active{position:relative;background:#F26A26;cursor:default;}
+.menu .hover{position:absolute;left:43%;bottom:-7px;}
+/*.menu a:hover{position:relative;background:#F26A26}
+*/.loginput{width:95px;font:11px "Arial",Helvetica,Tahoma; color:#000;}
+.button{background:#F26A26; border:0 none; padding:0 4px !important; color:#fff; font:bold 12px "Arial",Helvetica,Tahoma; vertical-align:absmiddle; cursor:pointer; overflow:visible;}
+/* Banner */
+.banner{padding:16px 0 0; width:775px; height:320px; position:relative;}
+.banner_cont{position:absolute; top:16px; right:16px; height:320px;padding:0px 33px;}
+.banner_video{background:#DBDAB3;}
+.regbutton{background:url(http://img.communitymatrimony.com/images/new/regbutton.jpg) no-repeat;width:130px; height:16px; display:block; padding:7px; color:#fff; font:bold 15px "Arial",Helvetica,Tahoma;}
+/* Quick Search */
+.quicksearch{background:#91312C;}
+/* Home - Content */
+.home_contbox{width:521px; height:195px; border:solid 7px #EDEDED;}
+.home_contboxn{width:521px; height:220px !important;height:220px; border:solid 7px #EDEDED;}
+.home_contbox1{border:solid 7px #EDEDED;}
+.home_ssbox{width:200px; height:195px; border:solid 7px #EDEDED;}
+.home_ssbox1{width:200px; height:220px; border:solid 7px #EDEDED;}
+/* Footer */
+.footer{float:left; width:745px; padding:15px; background:#E2E2E2; margin:8px 0 0; position:relative;}
+.footer1{float:left; width:745px; padding:15px; background:#E2E2E2; margin:8px 0 0;position:relative;}
+/*.footer1{float:left; width:750px; padding:15px 10px 15px 15px; background:#E2E2E2; margin:8px 0 0; border-bottom:solid 10px #D11014;position:relative;}*/
+.fboxtlc{background: url(http://img.communitymatrimony.com/images/new/fbox.gif) no-repeat top left; width:469px;}
+.fboxblc{background: url(http://img.communitymatrimony.com/images/new/fbox.gif) no-repeat bottom left; width:469px; margin-top:4px;}
+.fboxspacer{position:absolute;background:#E2E2E2;top:14px;left:50%;}
+.fboxspacer1{position:absolute;background:#E2E2E2;top:14px;left:55%;}
+
+.hgt33{height:33px !important;height:33px;}
+.wdth103{width:103px;}
+.normtxt{font-size:12px;}
+.pdl20{ padding-left:20px;}
+.pdr10{ padding-right:10px;}
+.mgt7{ margin-top:7px;border:1px solid #fff;}
+.fleft{float:left;}
+.pdt8{padding-top:8px;}
+.pdl10{ padding-left:10px;}
+.pdlr5{ padding-left:5px;padding-right:5px;}
+.clr{color:#000000;} /* text color */
+.smalltxt {font-size:11px;}
+.line16{line-height:16px;}
+.home_prdtxt{text-align:justify;width:170px;padding-left:10px;padding-top:5px;}
+.fnt15{font-size:15px;}
+.wdt70{width:70px;}
+.wdt120{width:120px;}
+.pdttr{padding-right:10px;padding-top:5px;}
+

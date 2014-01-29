@@ -1,0 +1,26 @@
+<div class="rpanel fleft">
+	<div class="normtxt1 clr2 padb5">
+		<font class="clr bld">Pride of the community</font>
+	</div>
+	<div class="linesep"><img src="images/trans.gif" height="1" width="1" /></div>
+	<center>
+		<div class="rpanelinner padt10">
+			<div class="normtxt clr lh16 tljust" style="padding-top:10px;">
+            <img src="http://img.iyengarmatrimony.com/images/Iyengar_pride.jpg" style="padding-right:12px;float:left;"/>The most decorated actor in Indian cinema!<br />
+            Kamal Haasan  is one of the most versatile actors in India today. He is a screenwriter and film-maker as well and considered to be one of the leading method actors of Indian cinema. He was born on November 7, 1954 in Paramakudi,  Ramanathapuram district of Tamil Nadu, to a criminal lawyer D. Srinivasan and his wife Rajalakshmi.<br /><br />
+            Kamal Haasan has won several Indian film awards, including the highest number of National Film Awards and Filmfare Awards, and also has the distinction of being the actor with the most number of films submitted by India for the Academy Award for Best Foreign Language Film. In addition to acting and directing, he is a songwriter, playback singer and choreographer.<br /><br />
+            He bagged his first National Film Award for his portrayal of a simple school teacher who tends a child-like amnesiac in 1982's Moondram Pirai. He was lauded for his performance in Mani Ratnam's Nayagan ( 1987) which was ranked by Time magazine as one of the best films of all time. He also bagged a National award for his performance in the film and Nayagan was nominated by India as its entry for the Best Foreign Language Film for the Academy Awards in 1987.<br /><br />
+            Kamal Haasan made his film debut as a 4-year-old child artiste, in Kalathur Kannamma which was directed by A. Bhimsingh. He was cast along with the veteran Tamil actor Gemini Ganesan and won the National Film Award for Best Child Artist.<br /><br />
+            Kamal Haasan first received a regional Filmfare Award for acting for his role in the Malayalam film Kanyakumari (1974).<br /><br />
+            In the next four years, he won six regional Best Actor Filmfare Awards, including four consecutive Best Tamil Actor Awards. <br /><br />
+            Kamal Haasan's 100th film appearance was in Raja Paarvai  (1981) which also marked his debut in film production..His portrayal of a blind violinist earned him a Filmfare Award.  Ek Duuje Ke Liye was his first Hindi language film as an actor. After a string of commercially-oriented films, Kamal Haasan won the first of three National Awards for Best Actor with his portrayal of a school teacher who looks after a mentally retarded girl in Balu Mahendra's Moondram Pirai. <br /><br />
+            In the early eighties, Kamal Haasan was very active in Bollywood. For his performance in Saagar he was awarded both the Filmfare Best Actor Award and the Best Supporting Actor Award, making him the first actor to win both awards for a single film.<br /><br />
+            In the mid-1980s, Kamal Haasan appeared in two Telugu films, Sagara Sangamam and Swathi Muthyam with director Kasinadhuni Viswanath. Swathi Muthyam was India's representative for the Academy Award for the Best Foreign Language Film in 1986. In 1988, Kamal Haasan appeared in his only silent film, appearing in the black comedy Pushpak.<br /><br />
+            In 1989, Kamal Haasan played a triple role in Apoorva Sagodharargal. It was the first Kamal film to gross Rs.100 million at the box office. Michael Madhana Kamarajan in 1991 saw him go one step further acting in four different roles as quadruplets.<br /><br />
+            In 1996, Haasan acted in the police story, Kuruthipunal which was followed by his third National Film Award for Best Actor in Indian.<br /><br />
+            Kamal Haasan appeared as a woman in Avvai Shanmughi inspired by the Hollywood production, Mrs. Doubtfire. He made his debut as director with a remake of Avvai Shanmughi in Hindi titled Chachi 420.  He filmed his second directorial venture, Hey Ram, a period drama told in flashback with a semi-fictional plot centering around India's Partition and the assassination of Mahatma Gandhi.<br /><br />
+            In 2008, Kamal Haasan appeared in K. S. Ravikumar's Dasavathaaram portraying ten distinct roles in the venture which remains one of the most successful Tamil films ever made.<br /><br />
+            Kamal Haasan is a Padma Shri holder and is the most decorated actor in terms of awards won in the history of Indian cinema. He holds the record for the most National Film Awards for an actor and holds a record 19 Filmfare Awards in five languages. After his latest award in 2000, he wrote to the organisation to exempt him from further awards. Other recognitions include a string of Tamil Nadu State Film Awards, Nandi Awards and Vijay Awards, in which Haasan won four separate awards for his performance in Dasavathaaram.<br /><br />            </div>
+        </div>
+	</center>
+</div>

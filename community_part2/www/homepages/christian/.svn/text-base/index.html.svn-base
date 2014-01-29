@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Christian Matrimony, Christian Matrimonial, ChristianMatrimony.com</title>
+<meta name="description" content="Christian Matrimony, Find lakhs of Christian Brides &amp; Grooms on the No. 1 Christian Matrimony Site for all denominations of Christians – Register FREE " />
+<meta name="keywords" content="Christian Matrimonial, Christian Matrimonials, Christian Matrimony" />
+<meta name="Author" content="ChristianMatrimony.com Christian Matrimonial Team" />
+<meta name="copyright" content="Christianmatrimony.com Matrimonials" />
+<meta name="Distribution" content="general" />
+<link rel="stylesheet" href="http://imgs.christianmatrimony.com/styles/christian/home.css" /><link rel="alternate" type="application/rss+xml" title="RSS Feeds" href="/feeds/" />
+<script language="javascript" src="http://imgs.christianmatrimony.com/scripts/login.js" type="text/javascript"></script>
+<script language="javascript" src="http://imgs.christianmatrimony.com/scripts/home.js" type="text/javascript"></script>
+</head>
+<body>
+<center>
+<div id="maincontainer">
+<div id="container">
+	<div style="height:120px;">
+        <div style="width:772px;height:75px;" class="topbgclr">
+		<div class="fleft logodiv" style="padding-left:15px;padding-top:17px;"><img src="http://imgs.christianmatrimony.com/images/logo/christianlogo.gif" alt="ChristianMatrimony" border="0" /></div>
+
+        <div style="padding-top: 20px; padding-right: 7px;" class="fright">
+			<div class="hgt33" style="background:url(http://img.communitymatrimony.com/images/livehelpnewbg.gif) no-repeat;width:379px;">
+				<div class="pdt8 pdl10 fleft" style="padding-left:10px;"><font style="font-size:14px;font-weight:bold;color:#000000;">24/7</font> &nbsp;<font style="color:#666666;">Toll Free:</font></div>
+				<div class="fleft" style="padding-left:3px;padding-top:9px;"><iframe src="/site/livehelpnohome.php" style="height:18px;width:110px !important;width:110px;text-align:left;" frameborder="0" scrolling="no"></iframe></div>
+				<div class="fleft clr normtxt" style="padding-top:9px;">|&nbsp;&nbsp;<a href="/site/index.php?act=LiveHelp" class="clr1 normtxt">Live Help</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/site/index.php?act=contactus" class="clr1 normtxt">Contact Us</a>
+				</div>
+			</div>
+		</div>
+	</div>
+    <div class="fleft" style="width:100%;height:53px;background:#7A0A46;">
+
+			<div class="fleft menu"><a class="active" href="#">Home <img class="hover" src="http://imgs.christianmatrimony.com/images/christian/chr_active.gif" width="14" height="7" /></a><a href="/register/">Register</a><a href="/search/">Search</a><a href="/payment/">Pay Now</a></div>
+			<div class="fright txtr clrwc login paddt10">
+            <form name="Login" method="post" action="/login/index.php?act=logincheck" style="margin:0px;">
+				<div style="width:382px !important;width:372px;" class="fright">
+                  <div class="fleft" style="width:120px;padding-top:5px;"><b>Already a member?</b></div>
+                  <div class="fleft"><input class="loginput" name="idEmail" type="text" value="Enter ID / E-mail" onblur="if (this.value == '') { this.value = 'Enter ID / E-mail'; }" onfocus="if (this.value == 'Enter ID / E-mail') { this.value = ''; }" onclick="if (this.value == 'Enter ID / E-mail') { this.value = ''; }" /></div>
+                  <div class="fleft" style="padding-left:5px;"><input class="loginput" name="password" type="password" value="password" maxlength="12" onblur="if (this.value == '') { this.value = 'password'; }" onfocus="if (this.value == 'password') { this.value = ''; }" onclick="if (this.value == 'password') { this.value = ''; }" /></div>
+                  <div class="fleft" style="padding-left:5px;"><input type="submit" onclick="return funLogin();" class="button1" value="Login" /><input type="hidden" value="yes" name="frmLoginSubmit" /></div>
+                  <div class="fright font11" style="padding-right:5px;padding-top:2px;"><a href="/login/index.php?act=forgotpwd" class="clrwc font11">Forgot Password?</a></div>
+                </div>
+             </form>
+			</div>
+			<div class="clear"></div>
+	</div>
+	</div>
+	<div style="background:url(http://imgs.christianmatrimony.com/images/christian/homeimg.jpg);height:509px;">
+		<div class="fright hclrw bld tlright lh16" style="margin-top:345px;padding-right:35px;"><a href="http://image.christianmatrimony.com/successstory/index.php?act=success" style=""><img src="http://imgs.christianmatrimony.com/images/trans.gif" width="128" height="20" border="0" /></a></div><br clear="all">
+		<div class="fright" style="margin-top:75px;padding-right:33px;"><input type="button" class="hombutton" value="REGISTER FREE" onclick="javascript:window.location.href='/register/';" /></div>
+	</div>
+	<div class="hclrw" style="background:url(http://imgs.christianmatrimony.com/images/christian/qspanel.jpg);height:53px;">
+		<form name="RSearchForm" method="post" action="/search/index.php" class="marg0">
+			<div class="fleft mediumtxt clr6" style="padding-top:20px;padding-left:165px;">Looking for &nbsp;</div>
+			<div class="fleft mediumtxt clr6" style="padding-top:20px !important;padding-top:16px;">
+				<div class="fleft form-field"><label for="Bride"><input type="radio" id="Bride" name="gender" value="2" onclick="javascript:chkgender('f');" checked="checked"/><span class="margt1">Bride</span></label></div>
+				<div class="fleft form-field"><label for="Groom"><input type="radio" id="Groom" name="gender" value="1" onclick="javascript:chkgender('m');"/><span class="margt1">Groom</span></label></div>
+			</div><div class="clr6 fleft" style="padding-top:20px !important;padding-top:16px;">&nbsp;&nbsp;in the age group&nbsp;&nbsp;<input type="text" name="ageFrom" id="ageFrom" class="inputtext hpagetxtbox" size="2" onclick="if ((this.value == '18') || (this.value == '21')) { this.value = ''; }" onfocus="if ((this.value == '18')|| (this.value == '21')) { this.value = ''; }"  value="18" />&nbsp;&nbsp;&nbsp;to&nbsp;&nbsp;&nbsp; <input type="text" name="ageTo" id="ageTo" class="inputtext hpagetxtbox" size="2" onclick="if ((this.value == '30') ||(this.value == '33')) { this.value = ''; }" onfocus="if ((this.value == '30') ||(this.value == '33')) { this.value = ''; }"  value="30" /></div>
+			<div class="fleft" style="padding-left:10px;padding-top:17px !important;padding-top:15px;"><input type="hidden" value="1" name="photoOpt" /><input type="hidden" name="act" value="srchresult" /><input type="image" src="http://imgs.christianmatrimony.com/images/christian/searchbut.gif" value="Search" /></div><div class="fleft" style="padding-left:15px;padding-top:20px !important;padding-top:16px;"><a class="smalltxt" href="/search/index.php?act=advsearch" style="color:#FFA1D3;">Advanced Search</a></div>
+			</form>
+	</div><div class="cleard"></div>
+	<div style="background:url(http://imgs.christianmatrimony.com/images/christian/wcurvetop.gif) no-repeat;height:3px;width:772px;"><img src="http://imgs.christianmatrimony.com/images/trans.gif" height="1" width="1" /></div>
+	<div style="background-color:#ffffff;height:60px;">
+		<div style="padding:15px;" class="smalltxt clr2 tlleft"><font class="clr bld">Browse profiles by :</font> <a href="matrimonials/denomination/catholic-matrimonials/" class="clr1">Catholic</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="matrimonials/denomination/pentecost-matrimonials/" class="clr1">Pentecost</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="matrimonials/denomination/Born+Again-matrimonials/" class="clr1">Born Again</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="matrimonials/denomination/Orthodox+Christian-matrimonials/" class="clr1">Orthodox Christian</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="matrimonials/denomination/Orthodox+Syrian-matrimonials/" class="clr1">Syrian Christian</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="matrimonials/denomination/Latter+Day+Saints/" class="clr1">Latter Day Saints</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="matrimonials/denomination/Brethren/" class="clr1">Brethren</a>&nbsp;&nbsp;|&nbsp; <a href="matrimonials/denomination/Methodist/" class="clr1">Methodist</a>&nbsp;&nbsp;|&nbsp; <a href="matrimonials/denomination/Jacobites/" class="clr1">Jacobites</a>&nbsp;&nbsp;|&nbsp; <a href="matrimonials/denomination/Protestant/" class="clr1">Protestant</a>
+		</div>
+	</div>
+	<div style="background:url(http://imgs.christianmatrimony.com/images/christian/wcurvebot.gif) no-repeat;height:3px;width:772px;"><img src="http://imgs.christianmatrimony.com/images/trans.gif" height="1" width="1" /></div>
+	<div class="cleard" style="height:2px;"><img src="http://imgs.christianmatrimony.com/images/trans.gif" height="2" width="1" /></div>
+	<div style="background:url(http://imgs.christianmatrimony.com/images/christian/wcurvetop.gif) no-repeat;height:3px;width:772px;"><img src="http://imgs.christianmatrimony.com/images/trans.gif" height="1" width="1" /></div>
+	<div style="padding-top:15px;background-color:#ffffff;overflow:auto;">
+		<div class="hpdescdiv tljust lh16 normtxt" style="background-color:#ffffff;"><div class="normtxt bld padb7">The Best Place for Christians to Seek a Life Partner!</div>ChristianMatrimony.com is the No.1 and most trusted online matrimonial site for Christians to connect and find their suitable life partners. Whether you are a Catholic or Born Again Christian or a Protestant, you can search for your right match from 30 denominations and all walks of life. Sign up and instantly search through lakhs of Christians who are looking for someone like you.<br><a href="/communityinfo/index.php?act=chris_prom" class="clr1 smalltxt">Click here to know more about Prominent Christian personalities >></a><br><br>
+		<div class="dotsep"><img src="/homeimg/trans.gif" height="1" width="1" alt="" /></div><br>
+		<font class="headtxt bld" style="font-size:16px;">Articles</font><br><br>
+		<div class="fleft" style="width:350px;"><b>All about marriage</b><br><img src="/homeimg/trans.gif" height="6" width="1" alt="" /><br>
+		Catholics are the followers of Christian Faith founded by Jesus and his Apostles, the chief being Simon Peter. The Vatican is the Head of the Roman Catholic Church who is vested with powers ordained by the Lord to preside over all matters pertaining to the Catholic faith.<br><br></div>
+		<div class="fright"><img src="http://imgs.christianmatrimony.com/images/christian/articleimg.jpg" /></div>
+		<div>In India, there are different sects of Catholic faith like the Syrian Christians of Malabar, Anglo Indians, Goan Christians they could be of different sects, affiliated to different parishes but they are essentially Catholics whose head is the Vatican. Unlike Hindu marriages where horoscopes are compared for a suitable match, in Catholic weddings, Church is the central point. There is a marriage registry in the Church where one can register for a bride or a groom. This registry is networked among other parishes affiliated to a Cathedral.  <a href="/communityinfo/index.php?act=chris_marcus" class="clr1">more</a><br><img src="/homeimg/trans.gif" height="87" width="1" alt="" /></br></div>
+		</div>
+		<div class="hpdescdiv1" style="background-color:#ffffff;">
+			<div class="hpsuccdiv brdr3 padtb10 bld"><center><font class="headtxt bld">Watch Our<br> TV Commercial</font> <br><img src="http://imgs.christianmatrimony.com/images/trans.gif" height="5" width="1" alt="" /><br><a href="/site/index.php?act=tv_commercial"><img src="http://imgs.christianmatrimony.com/images/christian/cmads.jpg" border="0" /></a><br></center></div><br clear="all">
+			<div class="hpsuccdiv brdr3 padtb10" style="border-color:#BE5F92;background:url(http://imgs.christianmatrimony.com/images/christian/pridebg.jpg) repeat;"><center><font class="headtxt bld" style="color:#FFFFFF;">Pride of the Community</font> <br><img src="http://imgs.christianmatrimony.com/images/trans.gif" height="5" width="1" alt="" /><br><img src="http://imgs.christianmatrimony.com/images/christian/prideimg.jpg" /><br><img src="http://imgs.christianmatrimony.com/images/trans.gif" height="5" width="1" alt="" /><br><div style="width:170px;" class="smalltxt tlleft hclrw"><b>Dr KM Cherian: Pioneering heart surgeon</b><br>Dr KM Cherian is an outstanding heart surgeon... <a href="/communityinfo/index.php?act=chris_pride" class="clrw">more</a></div></center></div><div class="cleard" style="height:7px;"><img src="/homeimg/trans.gif" height="7" width="1" alt="" /></div>
+		<div style="background:url(http://imgs.christianmatrimony.com/images/christian/followus.gif);width:200px;height:36px;"><div class="fleft clr bld" style="padding-left:20px;padding-top:10px;">Follow us:</div><div class="fleft" style="padding-top:5px;padding-left:15px;"><a href="http://www.facebook.com/pages/edit/?id=113112678734093#!/pages/Christian-community/113112678734093?v=wall" target="_blank"><img src="http://imgs.christianmatrimony.com/images/christian/followus1.gif" border="0" alt=""></a></div></div><br>
+		</div>
+	</div>
+	<div style="background:url(http://imgs.christianmatrimony.com/images/christian/wcurvebot.gif) no-repeat;height:3px;width:772px;"><img src="http://imgs.christianmatrimony.com/images/trans.gif" height="1" width="1" /></div><br clear="all">
+    <iframe src="/site/priv_home_mat_christian.php" frameborder="0" style="width:772px !important;width:772px;height:76px !important;height:76px;background: #7B0842;" align="left" scrolling="no"></iframe>
+    <br clear="all">
+	<div class="footdiv padtb10" style="overflow:auto;">
+		<div class="footdiv1"><font class="smalltxt" style="color:#D13C8B;"><a href="/site/index.php?act=aboutus" class="smalltxt clrw">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/site/index.php?act=contactus" class="smalltxt clrw">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/site/index.php?act=privacypolicy" class="smalltxt clrw">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/site/index.php?act=chris_terms" class="smalltxt clrw">Terms and Conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/payment/" class="smalltxt clrw">Pay Now</a>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/site/index.php?act=feedback" class="smalltxt clrw">Feedback</a>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://image.christianmatrimony.com/successstory/index.php?act=success" class="smalltxt clrw">Post Success Story</a>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/matrimonials/" class="smalltxt clrw">Popular Matrimony Searches</a></font></div>
+
+		<div class="normtxt"><font class="smalltxt" style="color:#D13C8B;">
+		<span class="clrw" style="font:bold 11px arial;color:#D13C8B;">Our Networks :</span>&nbsp;&nbsp;
+		<a href="http://www.bharatmatrimony.com" target="_blank" class="smalltxt" style="color:#D13C8B;">Matrimony</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.communitymatrimony.com" target="_blank" class="smalltxt" style="color:#D13C8B;">CommunityMatrimony</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.clickjobs.com" target="_blank" class="smalltxt" style="color:#D13C8B;">Jobs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.indiaproperty.com" target="_blank" class="smalltxt" style="color:#D13C8B;">Property</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.indialist.com" target="_blank" class="smalltxt" style="color:#D13C8B;">Classifieds</a></font></div>
+
+		<div style="width: 770px;padding-top:5px;" class="fleft"><center><font class="smalltxt" style="color:#D13C8B;">Copyright &copy; 2011 Consim Info Pvt Ltd. All rights reserved. </font></center></div><div id="refertrack" style="display:none;"></div>
+<script language="javascript" type="text/javascript"> 
+<!--
+var refer = document.referrer;
+
+var regdomain = window.location.href;
+var txtsplit=regdomain.split("=");
+
+if (document.referrer != '')
+{
+var p='<iframe src="http://www.communitymatrimony.com/googlecamp/seo/seoorganictrack.php?ref='+escape(refer)+'&userip=0&page=index.html&matriid=0&dnam=tamil" width=100 height=100 frameborder=0></iframe>';
+document.getElementById('refertrack').innerHTML=p;
+}
+//-->
+</script>
+	</div>
+	</div>
+	</div>
+</center>
+</body>
+</html>

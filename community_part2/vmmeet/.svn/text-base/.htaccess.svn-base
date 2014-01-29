@@ -1,0 +1,5 @@
+Options +FollowSymlinks
+RewriteEngine on
+
+RewriteRule ^http-bind1/ http://172.22.0.75:7070/http-bind/ [P]
+RewriteRule ^http-bind2/ http://172.22.0.103:7072/http-bind/ [P]

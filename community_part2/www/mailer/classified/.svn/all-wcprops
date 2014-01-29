@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/communitymatrimony/!svn/ver/8459/www/mailer/classified
+END
+getfilefromdb.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/communitymatrimony/!svn/ver/3179/www/mailer/classified/getfilefromdb.php
+END
+clsclassifiedmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/communitymatrimony/!svn/ver/3181/www/mailer/classified/clsclassifiedmailer.php
+END
+createmaillist.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/communitymatrimony/!svn/ver/3181/www/mailer/classified/createmaillist.php
+END
+sendclassifiedmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/communitymatrimony/!svn/ver/3181/www/mailer/classified/sendclassifiedmail.php
+END
+smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/communitymatrimony/!svn/ver/3180/www/mailer/classified/smtp.php
+END
+unsubscribe.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/communitymatrimony/!svn/ver/8459/www/mailer/classified/unsubscribe.php
+END
+updatestatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/communitymatrimony/!svn/ver/3042/www/mailer/classified/updatestatus.php
+END

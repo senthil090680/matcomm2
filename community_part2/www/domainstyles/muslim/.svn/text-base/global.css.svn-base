@@ -1,0 +1,49 @@
+.button{ background: #4D9613;padding:0px 4px 0px 4px !important;padding:1px 5px 0px 5px;border:1px solid #4D9613;color: #FFFFFF; font: bold 12px arial, helvetica, sans-serif; overflow: visible; vertical-align: middle;cursor:pointer;}
+
+.clr, .address {color:#000000;} /* text color */
+.clr1{color:#006DC1;} /* link color */
+.clr2{color:#ababab;} 
+.clr3{color:#90A200;} 
+.wclr{color:#FFFFFF;font-family:Arial;font-size:12px;}
+
+.bgclr2{background:#F5F4D6;}
+.bgclr4{background:#4A8C16;}
+.topbgclr{background:#4A8C16;}
+
+.menust1{padding-top:12px;height:28px !important;height:45px;background: url('http://img.communitymatrimony.com/images/musmenbg.gif') repeat-x;}
+.menust2{padding-top:12px;height:33px !important;height:45px;background: url('http://img.communitymatrimony.com/images/musmenhoverbg.gif') repeat-x;}
+.clract a{padding:12px 10px 10px 10px !important;padding:11px 10px 11px 10px;background: url('http://img.communitymatrimony.com/images/musmenhoverbg.gif') repeat-x;color:#FFFFFF; font-family:Arial;font-weight:bold; font-size:14px;}
+.clract{height:33px !important;height:45px;background: url('http://img.communitymatrimony.com/images/odownarrow.gif') no-repeat center bottom;color:#FFFFFF; font-family:Arial;font-weight:bold; font-size:14px;}
+
+.mrbrdr {border-right:1px solid #498C14;border-top:1px solid #6AB720;}
+.mmbrdr1 {border-top:1px solid #498C14;border-right:1px solid #498C14;}
+
+.layer{border:1px solid #E12328;border-top:0px solid #ffffff;display: none;position: absolute;background-color: #F29926;padding: 5px 10px 10px 10px;line-height:18px;font-family: Arial,sans-serif;font-size: 11px;color: #FFFFFF;z-index:1001;}
+
+.mlayer{border:1px solid #498C14;border-top:0px;display: none;position: absolute;background-color: #7BD308;padding: 5px 10px 10px 10px;line-height:18px;font-family: Arial,sans-serif;font-size: 11px;color: #000000;z-index:1001;top:96px;}
+.mlayer1{border:1px solid #498C14;border-top:0px;border-right:0px;display: none;position: absolute;background-color: #7BD308;padding: 5px 10px 10px 10px;line-height:18px;font-family: Arial,sans-serif;font-size: 11px;color: #000000;z-index:1001;top:96px;}
+.clrw1{color:#FFFFFF;font-family:Arial;font-size:11px;}
+
+
+.errortxt, .alerttxt {color:#90A200;}
+
+.pagingact{ color: #F26A26; float:left;}
+.prevact, .nextact{color: #006DC1; float:left;cursor:pointer;}
+.previnact, .nextinact, .nopaging{ color: #dbdbdb;}
+.paginginact{ color: #0B89D9;}
+.prevact, .nextact, .pagingact, .previnact, .nextinact, .nopaging, .paginginact{background: #FFFFFF;padding:0px 3px 0px 3px;border:1px solid #dbdbdb;font: bold 12px arial, helvetica, sans-serif; overflow: visible; vertical-align: middle;}
+#paging .prevact, .previnact, .nextact, .nextinact, .paginginact, .pagingact, .nopaging {float:left;}
+#paging .prevact, .nextact, .paginginact {cursor:pointer;}
+
+/* Admin */
+.heading{font-size:13px;color:#90A200;font-weight:bold;margin: 2px;padding:2px; }
+.adminformheader a{color:#006DC1;}
+.clr5{color:#F26A26;}
+.clr6{color:#21a414;}
+.fclr{color:#ffffff;}
+
+.bgclr7{background:#C88B3C;}
+.bgclr8{background:#F6ECE0;}
+.payimg{width:20px;padding-top:0px !important;padding-top:2px;background: url('http://img.communitymatrimony.com/images/muslim/mus_yes.gif') left no-repeat;}
+.paydot{width:150px !important;width:155px;height:1px;}
+.dotsep5{background:url(http://img.communitymatrimony.com/images/muslim/mus_bttn.gif) left top repeat-x;}

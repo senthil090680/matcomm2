@@ -1,0 +1,585 @@
+/* New CSS Changes done in this file */
+@import "http://imgs.bharatmatrimony.com/bmstyles/site-style.css";
+/* New CSS Changes done in this file */
+
+body { background: #fff; margin:0px; font-family: Arial, Helvetica, Tahoma; font-size: 12px; color:#393939; line-height:16px; text-decoration:none;text-align:left;align:center;}
+#maincontainer {padding-left:4px;padding-right:4px;}
+#container {width:772px;margin:0px 0px 0px 0px;text-align:left;}
+h1, h2, h3, h4, h5{margin: 0px;padding:0px;font-size:13px;color:#FE7313;font-weight:normal; display:inline; }
+h1{font-size:11px;margin: 2px;padding:2px;}
+h4, h5{font-size:11px;margin: 0px;padding:0px;}
+dl,dt,dd{margin:0px;padding:0px;}
+ul.inline, ul.inline li { list-style: none; display: inline; margin:0px; padding: 0px; }
+ol.inline, ol.inline li { list-style: none; margin:2px 0px 0px 0px; padding: 0px; }
+.bold{font-weight:bold;}
+.clr{color:#666666;}
+.clr1{color:#FE7313;}
+.clr2{color:#939393;}
+.clr3{color:#35A34C;}
+.clr4{color:#ffffff;}
+.clr5{color:#4D4D4D;}
+/*.clr5{color:#232323;}*/
+.clr6{color:#2C2C2C;}
+.clr7{color:#83945B;}
+.clr8{color:#9B9B9B;}
+.clr9{color:#7D7D7D;}
+.errortxt{font-size:11px;color:#ff0000;font-weight:normal;}
+img { border: 0px; }
+.rowcolor{background: #EDF5DE;}
+.topnavrowclr {background:#E0EDC2;}
+.normalrow{background: #FFF;}
+a { color:#666666;text-decoration:none;outline:none; }
+a:hover {  text-decoration: underline; }
+.nounderline {  text-decoration: none; }
+.pntr{cursor:pointer;}
+.biggertxt { font-size:22px;font-weight:bold;}
+.bigtxt { font-size:16px;font-weight:bold;}
+.mediumtxt { font-size:12px;font-weight:normal;}
+.mediumhdtxt { font-size:13px;font-weight:normal;}
+.smalltxt { font-size:11px;}
+.smalltxt1 { font-size:9px;line-height:13px;}
+.boldtxt{font-weight:bold;}
+.normaltxt{font-weight:normal;}
+
+
+div.dotline{background: url(http://imgs.bharatmatrimony.com/bmimages/dot-line.gif) repeat-y;width:1px;padding-left:1px;}
+div.vdotline {background:url(http://imgs.bharatmatrimony.com/bmimages/vdotline.gif) no-repeat;width:508px;height:32px;}
+div.vdotline1{background: url(http://imgs.bharatmatrimony.com/bmimages/vdot-line.gif) repeat-x;height:1px;margin-bottom:1px;}
+div.divborder {border:1px solid #CCC;}
+div.divborderbot {border-bottom:1px solid #ECECEC;}
+div.divcontspacing{text-align:justify;margin:5px 10px 7px 10px;}
+
+#topsubmenu dl{margin:0px 0px 0px 15px;padding:0px;list-style-type:none;text-align:center;}
+#topsubmenu dd{display:block;float:left;margin:0px 10px 0px 0px;}
+#topsubmenu dd a{display:block;float:left;text-decoration:none;padding: 6px 15px 0px 0px;text-align:center;}
+
+
+A.matriidlink:link {
+	COLOR: #666666; text-decoration:none;
+}
+
+A.matriidlink:hover{
+	COLOR: #FF7312; text-decoration:none; 
+}
+
+.rigpanel {font-family: Georgia, Arial, Helvetica, Tahoma; color: #339933;}
+.iconspan{ float: right; margin: 3px; cursor:hand; cursor:pointer; font-weight: bold;}
+.iconspan2{ float: left;margin: 3px; cursor:hand; cursor:pointer; font-weight: bold; }
+
+/*CSS used to style the examples. Remove if desired: */
+.eg-bar{background-color: #FAFAFA;border: 1px solid #CCCCCC; border-bottom:0px; padding-top:3px; padding-bottom: 3px; }
+div.eg-bar{ width: 180px;}
+.icongroup1{ width: 180px; border: 1px solid #CCCCCC; border-bottom:0px; border-top:0px; font: normal 11px arial; color: #666666; text-align:left; }
+div.upgrade1{background: url("http://imgs.bharatmatrimony.com/bmimages/rp-bgtop.gif") no-repeat; width:197px; height:13px;}
+div.upgrade2{background: url("http://imgs.bharatmatrimony.com/bmimages/rp-bgbottom.gif") no-repeat; width:197px; height:13px;}
+div.upgrade3{background-image: url("http://imgs.bharatmatrimony.com/bmimages/rp-bgmiddle.gif"); width:197px;}
+div.upgrade4{background: url("http://imgs.bharatmatrimony.com/bmimages/rp-row-bg.gif") repeat-x;} /*inner greadiant*/
+/* Right Panel }*/
+
+div.innertabnavsublink a { color:#2C2C2C; font-weight:normal; padding: 5px; }
+li.innertabnavsublinkon a { color:#289B40; font-weight:bold; padding: 5px; }
+
+#topmenu{position:relative;display:block;height:29px;font-size:16px;font-weight:bold;font-family:Arial,Verdana,Helvitica,sans-serif;width:764px;background:transparent url(http://imgs.bharatmatrimony.com/bmimages/topnav-bg-off.gif) repeat-x;}
+div.topmenucurleft {float:left;background-image: url('http://imgs.bharatmatrimony.com/bmimages/grn-lft-curve.gif'); width:4px; height:29px;}
+div.topmenucurright {float:left;background-image: url('http://imgs.bharatmatrimony.com/bmimages/grn-right-curve.gif'); width:4px; height:29px;}
+
+/* New Header June 2010*/
+.no1matritxt { position: absolute; width: 252px;margin:2px 0px 0px 20px; z-index:10px;text-align:right;font-weight:bold; }
+
+.logobg { background: transparent  url('http://imgs.bharatmatrimony.com/bmimages/logo-bg.gif') no-repeat bottom right; width: 196px;height:69px;border: 0px; margin: 0px;float:left; }
+.logobg p{margin:7px 0px 0px 2px;padding:0px;}
+.topnavlivehelp { float:left;width:576px;margin-top:8px; }
+
+#toplogin {float:left;margin-left:35px;margin-top:2px;}
+#toplogin dd {float:left;padding-right:5px;}
+.forgotwid {float:left;width: 50px; line-height: 9px;}
+
+.contactbg, .contactbg span { background:url(http://imgs.bharatmatrimony.com/bmimages/top-contbg.gif) no-repeat;list-style:none;}
+.contactbg{background-position:0 -40px;  background-repeat:repeat-x;overflow:hidden;zoom:1;}
+.contactbg span.left{width:5px; height:30px; float:left; background-position:left -0px;}
+.contactbg span.right{width:5px; height:30px; float:right; background-position:right -0px;}
+
+#topnavmenu{position:relative;height:31px;font-size:14px;font-weight:bold;font-family:Arial,Verdana,Helvitica,sans-serif;width:570px;background-color:#00A650;}
+#topnavmenu ul{margin:0px;padding:0px;list-style-type:none;text-align:center;display:block;margin-left:14px;}
+#topnavmenu ul li{display:block;float:left;margin:0px;}
+#topnavmenu ul li a{display:block;float:left;color:#fff;text-decoration:none;padding:7px 9px 0px 9px;}
+#topnavmenu ul li a.chat{display:block;float:left;color:#fff;text-decoration:none;padding:0px;background:transparent url(http://imgs.bharatmatrimony.com/bmimages/topmenu-chatnew-icon1.gif) no-repeat top left;width:50px;height:30px;}
+#topnavmenu ul li a.chat:hover{display:block;float:left;padding:0px;background:transparent url(http://imgs.bharatmatrimony.com/bmimages/topmenu-chatnew-icon2.gif) no-repeat top left;width:50px;height:30px;}
+#topnavmenu ul li a.arrow{display:block; background: url(http://imgs.bharatmatrimony.com/bmimages/topnav-arrow.gif) no-repeat 91% 14px; float:left;color:#fff;text-decoration:none;padding:7px 17px 0px 17px;height:24px;}
+#topnavmenu ul li a.arrow:hover{display:block; background: #FDFFF8 url(http://imgs.bharatmatrimony.com/bmimages/topnav-arrow-hover.gif) no-repeat 91% 14px; float:left;color:#2c2c2c;text-decoration:none;padding:7px 17px 0px 17px;height:23px;}
+#topnavmenu ul li a:hover{background-color:#FDFFF8;color:#2c2c2c;display:block;height:23px;margin-top:1px;}
+#topnavmenu ul li a.chosen{background-color:#FDFFF8;color:#2c2c2c;display:block;height:23px;margin-top:1px;}
+#topnavmenu ul li a.chosensearch{display:block; background: #FDFFF8 url(http://imgs.bharatmatrimony.com/bmimages/topnav-arrow-hover.gif) no-repeat 91% 14px; float:left;color:#2c2c2c;text-decoration:none;height:23px;margin-top:1px;}
+
+#topnavmenuvis{position:relative;height:31px;font-size:14px;font-weight:bold;font-family:Arial,Verdana,Helvitica,sans-serif;width:570px;background-color:#00A650;}
+#topnavmenuvis ul{margin:0px;padding:0px;list-style-type:none;text-align:center;display:block;margin-left:8px;}
+#topnavmenuvis ul li{display:block;float:left;margin:0px;}
+#topnavmenuvis ul li a{display:block;float:left;color:#fff;text-decoration:none;padding:7px 23px 0px 23px;}
+#topnavmenuvis ul li a.chat{display:block;float:left;color:#fff;text-decoration:none;padding:0px;background:transparent url(http://imgs.bharatmatrimony.com/bmimages/topmenu-chatnew-icon1.gif) no-repeat top left;width:50px;height:30px;}
+#topnavmenuvis ul li a.chat:hover{display:block;float:left;padding:0px;background:transparent url(http://imgs.bharatmatrimony.com/bmimages/topmenu-chatnew-icon2.gif) no-repeat top left;width:50px;height:30px;}
+#topnavmenuvis ul li a.arrow{display:block; background: url(http://imgs.bharatmatrimony.com/bmimages/topnav-arrow.gif) no-repeat 91% 14px; float:left;color:#fff;text-decoration:none;padding:7px 17px 0px 17px;height:24px;}
+#topnavmenuvis ul li a.arrow:hover{display:block; background: #FDFFF8 url(http://imgs.bharatmatrimony.com/bmimages/topnav-arrow-hover.gif) no-repeat 91% 14px; float:left;color:#2c2c2c;text-decoration:none;padding:7px 17px 0px 17px;height:23px;}
+#topnavmenuvis ul li a:hover{background-color:#FDFFF8;color:#2c2c2c;display:block;height:23px;margin-top:1px;}
+#topnavmenuvis ul li a.chosen{background-color:#FDFFF8;color:#2c2c2c;display:block;height:23px;margin-top:1px;}
+#topnavmenuvis ul li a.chosensearch{display:block; background: #FDFFF8 url(http://imgs.bharatmatrimony.com/bmimages/topnav-arrow-hover.gif) no-repeat 91% 14px; float:left;color:#2c2c2c;text-decoration:none;height:23px;margin-top:1px;}
+
+.main-menu{background:url(http://imgs.bharatmatrimony.com/bmimages/topbg-sprite.gif) no-repeat 1px -30px;padding-left:4px;}
+.main-menu a{text-decoration:none;}
+.main-menu a:hover{text-decoration:underline;}
+.main-menu .outer{background:url(http://imgs.bharatmatrimony.com/bmimages/topbg-sprite.gif) no-repeat right -30px;padding-right:4px;}
+.main-menu .inner{background:url(http://imgs.bharatmatrimony.com/bmimages/topbg-sprite.gif) repeat-x 0 -65px;height:30px;overflow:hidden;}
+.main-menu ul{float:left;zoom:1;width:764px;margin: 0px; padding: 0px; list-style: none; line-height: normal;}
+.main-menu li{background:url(http://imgs.bharatmatrimony.com/bmimages/topbg-sprite.gif) no-repeat right -100px;float:left;}
+.main-menu li a:link,.main-menu li a:visited{font-family: Arial, Helvetica, Tahoma;font-size:12px;color:#666;display: block; float: left; padding: 0px 5px 1px 5px; height:14px; margin:9px 0px 0px 0px; border-right:1px solid #CFD0CB; outline:none;}
+.main-menu li a:hover{text-decoration:underline;}
+.main-menu li.last a { border-right:0px; float: left; outline:none;}
+
+#toppart { margin:0px;margin:7px 0px 10px 20px; }
+#toppart h1 { display:inline;margin:0px;padding:0px;font-family: Arial, Helvetica, Tahoma; font-size: 12px;font-weight:bold; }
+
+.quicksrchfrm {float:left;margin:0px;padding:0px;width:235px;}
+.quicksrchfrm dl dt dd {margin:0px;padding:0px;}
+.quicksrchfrm dd {float:left;padding:5px 0px 5px 3px;margin:0px;}
+.quicksrchfrm dd input {margin:0px 5px;}
+.quicksrchfrm label{ margin:0px;}
+.quicksrchfrm input{ margin:0 4px -3px 0; _margin:0 2px -2px 0;}
+.quicksrchfrm .selectbox {padding-left:2px;border:1px solid #666;font-family:arial, tahoma, verdana;font-size:11px;color:#666;font-weight:normal;width:210px; }
+.quicksrchfrm .inputtext {padding-left:2px;border:1px solid #666;font-family:arial, tahoma, verdana;font-size:11px;color:#666;font-weight:normal;width:25px;}
+
+.quickregfrm {float:left;margin:0px;width:235px;}
+.quickregfrm dl dt dd {margin:0px;padding:0px;}
+.quickregfrm dd {float:left;padding:5px;margin:0px;}
+.quickregfrm dd input {margin:0px 5px;}
+.quickregfrm .selectbox {padding-left:2px;border:1px solid #666;font-family:arial, tahoma, verdana;font-size:11px;color:#666;font-weight:normal;width:210px; }
+.quickregfrm .inputtext {padding-left:2px;border:1px solid #666;font-family:arial, tahoma, verdana;font-size:11px;color:#666;font-weight:normal;}
+
+#othmatrilinks	 { color: #929292; padding: 4px 0px 0px 0px;}
+#othmatrilinks .links { font: 11px "Arial", sans-serif; padding: 5px 10px 3px 10px;}
+#othmatrilinks .links a { padding: 0px 5px; color: #929292;}
+#othmatrilinks span { font-size:11px;font-weight:bold;color: #929292;}
+#othmatrilinks .fhead { font: 16px "Arial", sans-serif; padding: 2px 0px; font-weight:bold;}
+
+#othfthlinks	 { width:750px;color: #929292; padding: 0px; }
+#othfthlinks .links { font: 11px "Arial", sans-serif; padding: 7px 10px 3px 0px;margin: 4px 0px 2px 0px;}
+#othfthlinks .links a { padding: 0px 5px; color: #929292;}
+#othfthlinks span { font-size:11px;font-weight:bold;color: #929292;}
+#othfthlinks .fhead { font: 16px "Arial", sans-serif; padding: 2px 0px; font-weight:bold;}
+
+#ftrcopy { background-color:#fff;width:752px; margin:0px; padding:0px;color:#939393;margin-top:5px;}
+#ftrcopy dir { font-family:arial;font-size:11px; float:left; margin:0px; padding-left:10px;}
+#ftrcopy dir.yahoo {width:180px;}
+#ftrcopy dir.copy { width:485px;text-align:center;font-size:10px;}
+#ftrcopy dir.rss { width:45px;}
+
+h5 {margin:0px 10px;padding:0px;font-family:arial,verdana;color:#d1d1d1;font-size:1em;font-weight:bold;line-height:30px;}
+.dot { border-bottom: none; padding: 1px; background: url(http://imgs.bharatmatrimony.com/bmimages/hor-dot.gif) repeat-x bottom;}
+.dottop { border-bottom: none; padding: 1px; background: url(http://imgs.bharatmatrimony.com/bmimages/hor-dot.gif) repeat-x top;}
+/* New Header June 2010*/
+
+.bl {background: url(http://imgs.bharatmatrimony.com/bmimages/bl-1.gif) 0 100% no-repeat #FFFFFF;}
+.br {background: url(http://imgs.bharatmatrimony.com/bmimages/br-1.gif) 100% 100% no-repeat}
+.tl {background: url(http://imgs.bharatmatrimony.com/bmimages/tl-1.gif) 0 0 no-repeat}
+.tr {background: url(http://imgs.bharatmatrimony.com/bmimages/tr-1.gif) 100% 0 no-repeat; padding:0px}
+.clear {font-size: 1px; height: 1px} 
+
+p {padding:10px;text-align:justify;line-height:16px;margin:0px;}
+.content {font-family: Arial, Helvetica, Tahoma; color:#393939; font-size:11px;font-weight:normal;text-align:justify;line-height:15px;margin:0px;}
+#content p {padding:12px 0px 0px 0px;text-align:justify;line-height:16px;margin:0px;}
+div#rndcorner{ margin: 0px 0%;background: #EEEEEE;z-index:1;}
+
+b.rtop {display:block;background: #FFF}
+b.rbottom{display:block;background: #fff}
+b.rtop b, b.rbottom b{display:block;height: 1px; overflow: hidden; background: #EEEEEE}
+b.r1{margin: 0px 5px}
+b.r2{margin: 0px 3px}
+b.r3{margin: 0px 2px}
+b.rtop b.r4, b.rbottom b.r4{margin: 0px 1px;height: 2px}
+
+/*{ pop container */
+div.popcontainer{width:543px;}
+div.popcontainerpadd {padding:10px 10px 0px 30px;}
+div.photow {width:100px;}
+div.phototalign {padding-top:33px; text-align:center;}
+div.poppadding {padding: 0px 15px 0px 15px;text-align:justify;}
+div.poppadding1 {margin: 10px 0px 10px 0px;}
+
+div.innertabpad {margin: 0px 10px 10px 10px;border:0px solid #FF0000;}
+
+div.innertabbr1 {background:url(http://imgs.bharatmatrimony.com/bmimages/inner-tab-border1.gif); width:1px; height:50px;}
+div.innertabbr2 {background:url(http://imgs.bharatmatrimony.com/bmimages/inner-tab-border2.gif);width:1px; height:33px;}
+div.innertabbg {width:506px; height:50px; background:url(http://imgs.bharatmatrimony.com/bmimages/inner-tab-bg.gif) repeat-x;}
+div.innermtabbg1 {background:url(http://imgs.bharatmatrimony.com/bmimages/inner-mtab-bg1.gif); width:5px; height:26px;}
+div.innermtabbg2 {background:url(http://imgs.bharatmatrimony.com/bmimages/inner-mtab-bg2.gif) no-repeat top right;height:26px;}
+
+/* pop container }*/
+/*{ middle area*/
+.middiv {width:565px;}
+.middiv1 {width:543px;}
+.middiv2 {width:506px;}
+.middiv3 {width:354px;}
+.middiv-pad {padding:5px 0px 5px 11px;}
+.middiv-pad1 {padding:0px 17px 10px 17px;}
+.middiv-pad2 {padding:15px 15px 0px 5px;}
+.tabcurbg {background:url(http://imgs.bharatmatrimony.com/bmimages/tab-curve-bg.gif) repeat-x;height:41px;width:533px;}
+.tableft {background:url(http://imgs.bharatmatrimony.com/bmimages/tab-lft.gif) no-repeat;width:6px;height:41px}
+.tableftsw {background:url(http://imgs.bharatmatrimony.com/bmimages/tab-lft-shw.gif) no-repeat;width:6px;height:41px}
+.tabright {background:url(http://imgs.bharatmatrimony.com/bmimages/tab-right.gif) no-repeat top right;height:41px}
+.tabrightsw {float:left;background:url(http://imgs.bharatmatrimony.com/bmimages/tab-right-shw.gif) no-repeat top right;height:41px;}
+.tabclrleft {background:url(http://imgs.bharatmatrimony.com/bmimages/tab-lft-curve.gif) no-repeat;width:6px;height:41px}
+.tabclrrtsw {background:url(http://imgs.bharatmatrimony.com/bmimages/tab-clr-right-shw.gif) no-repeat top right;height:41px;}
+.tabclrright {background:url(http://imgs.bharatmatrimony.com/bmimages/tab-clr-right.gif) no-repeat top right;height:41px;}
+.inntabbr1 {background:url(http://imgs.bharatmatrimony.com/bmimages/inner-tab-border1.gif); width:1px; height:50px;}
+.inntabbg {background:url(http://imgs.bharatmatrimony.com/bmimages/inner-tab-bg.gif) repeat-x;width:506px; height:50px; }
+.inntabbr2 {background:url(http://imgs.bharatmatrimony.com/bmimages/inner-tab-border2.gif);width:1px; height:33px;}
+.innvtablftbg {background:url(http://imgs.bharatmatrimony.com/bmimages/inner-vtab-left-bg.gif); width:5px; height:40px;}
+.innvtabrightbg {background:url(http://imgs.bharatmatrimony.com/bmimages/inner-vtab-right-bg.gif) no-repeat top right;height:40px;}
+.tr-3 {background:url(http://imgs.bharatmatrimony.com/bmimages/tr-3.gif) no-repeat;width:10px;height:41px;border:0px solid #000000;}
+div.borderline {background-color: #9A9A9A;height:1px;}
+
+.tabpadd {padding:5px 20px 0px 14px;}
+.viewtabpadd {padding:5px 15px 0px 10px;}
+/*  middle area }*/
+
+/*{ Icon menu area */
+.icon-menu1 {background:url(http://imgs.bharatmatrimony.com/bmimages/icon-mouse-menu1.gif) repeat-x;width:168px;padding-top:10px;}
+.icon-menu2 {background:url(http://imgs.bharatmatrimony.com/bmimages/icon-mouse-menu2.gif) no-repeat bottom right;width:168px;}
+/* Icon menu area }*/
+
+/*{ registration */
+.hobint-select1{float:left;background:url(http://imgs.bharatmatrimony.com/bmimages/hobint-select-bg1.gif) no-repeat;padding-left:5px;height:21px;}
+.hobint-select2{float:left;background:url(http://imgs.bharatmatrimony.com/bmimages/hobint-select-bg2.gif) no-repeat top right;height:21px;padding-right:55px;}
+/* registration }*/
+
+.payaddtab {width:91px !important; width:90px; text-align:center; background-color:#E0EDC2; border:1px solid #CAD6AE; padding:2px 0px 2px 0px;}
+
+/*{ search style */
+/*.vc {background: url(http://imgs.bharatmatrimony.com/bmimages/clasic-bg.gif) repeat-x; }*/
+.vc {background: url(http://imgs.bharatmatrimony.com/bmimages/clasic-bg-new.gif) repeat-x; }
+.vcp {background: url(http://imgs.bharatmatrimony.com/bmimages/clsplus-bg.gif) repeat-x; }
+.vcs {background: url(http://imgs.bharatmatrimony.com/bmimages/clssuper-bg.gif) repeat-x; }
+div.container {width:772px;}
+div.bheight{height:15px;}
+div.vc1 {width:508px;}
+div.vc2 {width:252px;}
+div.vc6 {width:166px;}
+div.vcpad {padding: 5px 0px 5px 11px;}
+div.vc-dl {float:left;width:456px;}
+div.vc2-dl {float:left;width:241px;}
+div.vc6-dl {float:left;width:155px;}
+div.vcpd-top {padding-top:7px;}
+div.vc6pd-top {padding-top:5px;}
+div.vc1-wt {width:350px;}
+div.vc2-wt {width:154px;}
+div.vc6-wt {width:77px;}
+div.vc-padl {padding:0px 0px 0px 11px;}
+div.vc4-padl {margin:0px 0px 0px 7px;}
+div.phnumpadd {padding: 0px 3px 2px 3px;}
+.phnextpadding {padding: 5px 0px 0px 11px;}
+.bdotline {height:105px;margin:3px 10px 0px 0px;}
+div.fleft{float:left;}
+div.fright{float:right;}
+/* search style }*/
+
+.button-padd {margin:5px;}
+.button{ background: #FE7314 url(http://imgs.bharatmatrimony.com/bmimages/button-bg.gif) no-repeat top left;padding: 1px 10px 1px 10px;border:none;color: #FFF; font: bold 11px arial, helvetica, sans-serif; overflow: visible; vertical-align: middle;}
+.divbutton {float:left;background:#AF4A06;padding-bottom:1px !important;padding:0px 1px 0px 0px;margin:0px;margin:0px;border:none;}
+.inputtext {padding-left:2px;border:1px solid #B3B3B3;font-family:arial, tahoma, verdana;font-size:11px;color:#666;font-weight:normal;}
+
+.fadediv{display: none;position: absolute;top: 0px;background-color: #FFF; z-index:1001;-moz-opacity: 0.80; opacity:0.80;filter: alpha(opacity=80);text-align:center;}
+.dispdiv{display: block;position: absolute;margin: 0px auto;padding: 5px; z-index:1002;}
+
+.iconclass{position: absolute;visibility:visible;-moz-opacity: 0.80; opacity:0.80;filter: alpha(opacity=80);}
+
+.rightnav-highres {background:url(http://imgs.bharatmatrimony.com/bmimages/bullet-1024.gif) left no-repeat; padding-left:10px;}
+.rightcls-highres { padding:1px 7px 1px 15px;}
+.rigpanel-highres {font-size:11px; font-family: Arial, Helvetica, Tahoma; color: #669933;text-decoration:none;}
+
+#hintbox{position:absolute;top:0;visibility:hidden;z-index:100;}
+
+/* Search Curve Part */
+.srch-container-border { border:1px solid #E4EBF1; width:auto; margin:0px 0px 5px 0px; padding:0px; }
+.corner-top, .corner-left, .corner-bottom { background-repeat:no-repeat; display:block; position:relative; font-size:0; line-height:0; margin:0px; height:3px; }
+.corner-top { background-position:100% 0; width:auto; top:-1px; right:-1px;}
+.corner-top .corner-left { background-position:0 -6px; width:3px; left:-2px; }
+.corner-bottom { background-position:100% -3px; clear:both; width:auto; bottom:-1px; right:-1px; }
+.corner-bottom .corner-left { background-position:0 -9px; width:3px; left:-2px; }
+.corner-top, .corner-left, .corner-bottom { background-image:url(http://imgs.bharatmatrimony.com/bmimages/srch-rnd-curve.gif); }
+div.srch-container-border { border-color:#CBCBCB; background-color:#fff; }
+.srch-width{width:508px !important;width:510px;}
+/* Search Curve Part */
+
+/* View Profile Part */
+.viewwidth { width:510px;}
+.viewinnerwidth { width:508px;}
+.viewinnercontwidth { width:505px; text-align:justify;}
+.viewinnercontpad { padding:12px 12px 0px 12px; }
+.viewtabspace { padding-left:10px;}
+.viewtabhdspace { padding:5px 10px 0px 5px; }
+.viewedithdspace { padding-top:10px;padding-right:5px; }
+.viewtabline    { width:1px; height:50px;background: url(http://imgs.bharatmatrimony.com/bmimages/viewtabbrd.gif) no-repeat; }
+.viewtabbg    { width:506px; background: url(http://imgs.bharatmatrimony.com/bmimages/viewtabbg.gif)  repeat-x; }
+.viewsepline     { width:508px;height:1px;background: url(http://imgs.bharatmatrimony.com/bmimages/view-prof-sepline.gif) no-repeat;}
+.viewinfsepline { width:482px;height:1px;background-image: url(http://imgs.bharatmatrimony.com/bmimages/view-prof-inf-sepline.gif); }
+.viewsepclr { width:482px;height:1px;background-color:#CBCBCB;color:#CBCBCB; }
+.viewinfwdth    {  width:100px; padding-top:3px; text-align:left;}
+.viewinfwdth1   {  width:355px; padding-top:3px; text-align:left;}
+.viewinfpadd    {  padding-top:3px; text-align:left;}
+.viewsubheadwdth1 { width:125px; padding-bottom:3px; padding-top:3px;}
+.viewsubheadwdth2 { margin-left:30px;width:125px; padding-top:3px;}
+/* View Profile Part */
+
+/* Photo Popup Part */
+.grn-top-lft{background-repeat:no-repeat;background-image: url('http://imgs.bharatmatrimony.com/bmimages/grn-top-lft.gif'); width:4px;height:12px;}
+.grn-top-right{background-repeat:no-repeat;background-image: url('http://imgs.bharatmatrimony.com/bmimages/grn-top-right.gif'); width:4px;height:12px;}
+.grn-bot-lft{background-repeat:no-repeat;background-image: url('http://imgs.bharatmatrimony.com/bmimages/grn-bot-lft.gif'); width:4px;height:12px;}
+.grn-bot-right{background-repeat:no-repeat;background-image: url('http://imgs.bharatmatrimony.com/bmimages/grn-bot-right.gif'); width:4px;height:12px;}
+.grn-top-tile{background-repeat:repeat-x;background-image: url('http://imgs.bharatmatrimony.com/bmimages/grn-top-tile.gif'); width:98%;height:12px;}
+.grn-bot-tile{background-repeat:repeat-x;background-image: url('http://imgs.bharatmatrimony.com/bmimages/grn-bot-tile.gif'); width:98%;height:12px;}
+/* Photo Popup Part */
+
+.exp_downarrow_icon{background:url("http://imgs.bharatmatrimony.com/bmimages/topnav-arrow-1.gif") no-repeat;width:8px;height:7px;margin:6px;}
+.frmelements {margin:0px 2px -3px 0px; _margin:0px 0px -1px 0px;}
+.frmchkbox {margin:0px 2px 0px 1px; _margin:0px 0px -2px 0px;}
+.frmlftpad{ padding:0px 0px 0px 5px; }
+
+#successmenu ul{margin:0px 15px 0px 0px;padding:0px;list-style-type:none;text-align:center;}
+#successmenu ul li{display:block;float:left;padding: 5px 10px 0px 0px;}
+#successmenu ul li a{display:block;float:left;text-decoration:none;text-align:center;}
+
+div#iframecontact
+{
+background-image: url("http://imgs.bharatmatrimony.com/bmimages/loading-icon.gif");
+background-repeat:no-repeat;
+background-position: top center;
+}
+
+iframe#iframename
+{visibility:hidden;overflow: auto;}
+.winpopborder {border:11px solid #EEEEEE;}
+.winpoppad {margin:20px;}
+
+
+/* Wedding Directory */
+ul#menulist {margin:0px;padding:0px;list-style-type:none;width:auto; display:block;}
+ul#menulist li{display:block; float:left; margin:0px; padding:0px 35px 0px 0px;}
+#menulist li a{ background: url('/bmimages/weddir/arrowbullet.gif') no-repeat center left; display: float; padding: 5px 5px 2px 8px; text-decoration: none;font: bold 16px arial;color:#ffffff;}
+
+ .wd-topmenulftcur {float:left;background: url('/bmimages/weddir/topmenu-left-curve.gif'); width:5px; height:91px;}
+ .wd-topmenurhtcur {float:left;background: url('/bmimages/weddir/topmenu-right-curve.gif'); width:5px; height:91px;}
+ .wd-topmenubg {float:left;background: url('/bmimages/weddir/topmenu-bg.gif'); width:760px; height:91px;}
+
+ .wd-innermenutop {background:url('/bmimages/weddir/inner-menu-top.gif') repeat-x;width:270px;height:28px;}
+ .wd-innermenubottom {background:url('/bmimages/weddir/inner-menu-bottom.gif') no-repeat bottom right;width:270px;}
+
+ .wd-rightnavetop {background:url('/bmimages/weddir/rightnave-top.gif') repeat-x;width:198px;padding-top:10px;}
+ .wd-rightnavebottom {background:url('/bmimages/weddir/rightnave-bottom.gif') no-repeat bottom right;width:198px;}
+
+.wd-appmenu{position:relative;display:block;height:21px;font-size:11px;font-weight:normal;font-family:Arial,Verdana,Helvitica,sans-serif;background:transparent url('/bmimages/weddir/app-menu-bg.gif') repeat-x;}
+.wd-appmenuon {text-align:center;padding:3px 0px 1px 0px !important;padding:3px 0px 3px 0px;border: 1px solid #D3D3D3;border-bottom:0px;background:#ffffff;}
+
+ .wd-silverbg {background: url(http://imgs.bharatmatrimony.com/bmimages/wd-silver-bg.gif) repeat-x; }
+
+/* Wedding Directory */
+
+/* Top - Messenger Dropdown */
+#dropmenudiv{position:absolute;border:1px solid #CAD6AE;border-bottom-width: 0;font:normal 11px arial;text-align:left;z-index:100;background-color:#E0EDC2;margin-top:1px;}
+#dropmenudiv a{display: block;text-indent: 3px;border-bottom: 1px solid #CAD6AE;background-color:#E0EDC2;color: #2c2c2c;text-align:left;padding: 3px 0px 3px 10px;}
+/* Top - Messenger Dropdown */
+
+
+/* Basic View - Changed - Nov 08 */
+.usricons.phonereq {background-position:0 -397px;padding-left:22px;}
+
+ul.usractions {text-align:left;margin:0px;padding:0px;}
+ul.usractions li{display:inline;}
+
+/*.usricons{padding:1px 0 0 16px;background:transparent url(http://imgs.bharatmatrimony.com/bmimages/user-icons-actions-new.gif) no-repeat;}*/
+.usricons{padding:2px 0px 0px 16px;background:transparent url(http://imgs.bharatmatrimony.com/bmimages/user-icons-actions-new.gif) no-repeat;}
+.usricons.clssupericon {background-position:0 -130px;padding-left:24px;height:18px;}
+
+.usricons.phoneicon {background-position:0 -22px;padding-left:24px;}
+.usricons.horoscopeicon {background-position:0 -172px;padding-left:24px;}
+.usricons.horoscopecompicon {background-position:0 -152px;padding-left:24px;}
+/*.usricons.reference {background-position:0 -330px;padding-left:24px;}*/
+.usricons.referenceicon {background-position:0 -1045px;padding-left:24px;height:18px;}
+.usricons.verifyicon {background-position:0 -371px;padding-left:24px;}
+.usricons.stampicon {background-position:0 -192px;padding-left:24px;height:17px;}
+.usricons.voiceicon {background-position:0 -4px;padding-left:24px;}
+.usricons.videoicon {background-position:0 -272px;padding-left:22px;}
+.usricons.healthicon {background-position:0 -915px;padding-left:22px;height:17px;}
+.usricons.bookmarkicon {background-position:0 -693px;padding-left:22px;}
+.usricons.ignoreicon {background-position:0 -721px;padding-left:22px;}
+.usricons.blockicon {background-position:0 -894px;padding-left:22px;height:16px;}
+.usricons.unread {background-position:0 -94px;padding-left:24px;}
+
+/* My Home - Changed - 07 Oct 09*/
+.usricons.matchviewedncont {background-position:0 -1673px;padding-left:24px;height:18px;}
+.usricons.matchviewed {background-position:0 -1701px;padding-left:24px;height:21px;}
+.usricons.matchviewedcont {background-position:0 -1728px;padding-left:24px;height:18px;}
+
+.usricons.matchviewedncontoff {background-position:0 -1758px;padding-left:24px;height:18px;}
+.usricons.matchviewedoff {background-position:0 -1785px;padding-left:24px;height:21px;}
+.usricons.matchviewedcontoff {background-position:0 -1813px;padding-left:24px;height:18px;}
+
+/* My Home - Changed - 07 Oct 09*/
+
+/* My Home - Changed - Nov 12 */
+#icons a { color:#FE7313;text-decoration:none;outline:none; }
+#icons a:hover {  text-decoration: underline; }
+
+#icons a.myhomegrey { color:#4D4D4D;text-decoration:none;outline:none; }
+#icons a:hover.myhomegrey { color:#4D4D4D;text-decoration:underline;outline:none; }
+
+.bigtext{font-size:31px;}
+
+ol.usractions {text-align:left;margin:0px;padding:0px;}
+ol.usractions li{list-style:none;display:block;}
+
+.usricons.msgnew {background-position:0 -833px;padding-left:25px;height:18px;}
+.usricons.msgrec {background-position:0 -410px;padding-left:25px;height:18px;}
+.usricons.msgnoreply {background-position:0 -431px;padding-left:25px;height:18px;}
+/*.usricons.msgreply {background-position:0 -454px;padding-left:25px;height:18px;}*/
+.usricons.msgreply {background-position:0 -453px;padding-left:25px;height:20px;}
+.usricons.msgnoreplypaid {background-position:2 -1190px;padding-left:25px;height:18px;}
+
+.usricons.msgsentmem {background-position:0 -410px;padding-left:25px;height:18px;}
+
+.usricons.msgdec {background-position:0 -475px;padding-left:25px;height:18px;}
+/*.usricons.msgfil {background-position:0 -497px;padding-left:25px;height:18px;}
+.usricons.intfil {background-position:0 -873px;padding-left:25px;height:18px;}
+*/
+/*.usricons.msgfil {background-position:0 -1067px;padding-left:25px;height:18px;}*/
+.usricons.msgfil {background-position:0 -1067px;padding-left:25px;height:18px;}
+.usricons.msgsenticon {background-position:0 -853px;padding-left:25px;height:18px;}
+.usricons.intfil {background-position:0 -1089px;padding-left:25px;height:18px;}
+
+.usricons.msgsentpaid {background-position:2 -1210px;padding-left:25px;height:18px;}
+
+.usricons.exprecd {background-position:0 -520px;padding-left:25px;height:15px;}
+.usricons.expacpt {background-position:0 -1253px;padding-left:25px;height:15px;}
+.usricons.expdec {background-position:0 -560px;padding-left:25px;height:15px;}
+.usricons.expfil {background-position:0 -582px;padding-left:25px;height:15px;}
+.usricons.expsent {background-position:0 -1110px;padding-left:25px;height:15px;}
+.usricons.expintpend {background-position:0 -1270px;padding-left:25px;height:15px;}
+
+.usricons.expnew {background-position:0 -1234px;padding-left:25px;height:15px;}
+
+.usricons.reqphoto {background-position:0 -670px;padding-left:25px;height:13px;}
+
+.usricons.msgsentmempaid {background-position:0 -1150px;padding-left:25px;height:20px;}
+.usricons.msgrecpaid {background-position:0 -937px;padding-left:25px;height:20px;}
+.usricons.msgreadpaid {background-position:0 -959px;padding-left:25px;height:20px;}
+
+.usricons.msgread {background-position:0 -853px;padding-left:25px;height:20px;}
+.usricons.msgnotread {background-position:0 -1130px;padding-left:25px;height:20px;}
+
+
+
+.usricons.msgnotreadpaid {background-position:0 -979px;padding-left:25px;height:20px;}
+.usricons.msgdecpaid {background-position:0 -999px;padding-left:25px;height:20px;}
+.usricons.msgnotreadpaidmem {background-position:0 -1290px;padding-left:25px;height:20px;}
+
+/*.usricons.phone {background-position:0 -22px;padding-left:25px;}
+.usricons.horoscope {background-position:0 -172px;padding-left:25px;}
+.usricons.reference {background-position:0 -350px;padding-left:25px;}
+.usricons.verify {background-position:0 -371px;padding-left:25px;height:15px;}
+.usricons.voice {background-position:0 -4px;padding-left:25px;}*/
+
+.usricons.listshort {background-position:0 -692px;padding-left:22px;height:15px;}
+.usricons.listignore {background-position:0 -721px;padding-left:22px;height:15px;}
+.usricons.listblock {background-position:0 -749px;padding-left:22px;height:17px;}
+
+.usricons.phoneiviewed {background-position:0 -774px;padding-left:22px;height:18px;}
+.usricons.phoneothviewed {background-position:0 -794px;padding-left:22px;height:18px;}
+.usricons.memviewedme {background-position:0 -815px;padding-left:22px;height:18px;}
+.usricons.phoneiviewedpaid {background-position:0 -1021px;padding-left:22px;height:18px;}
+
+/* Voice Profile */
+.usricons.voiceaccept {background-position:0 -2015px;padding-left:24px;height:18px;}
+.usricons.voicedecline {background-position:0 -1997px;padding-left:24px;height:21px;}
+.usricons.voicelistenednrep {background-position:0 -1978px;padding-left:24px;height:18px;}
+.usricons.voicelistenedrep {background-position:0 -1936px;padding-left:24px;height:18px;}
+.usricons.voicelistenednyet {background-position:0 -1958px;padding-left:24px;height:18px;}
+
+.usricons.voiceacceptoff {background-position:0 -1918px;padding-left:24px;height:18px;}
+.usricons.voicedeclineoff {background-position:0 -1903px;padding-left:24px;height:21px;}
+.usricons.voicelistenednrepoff {background-position:0 -1882px;padding-left:24px;height:18px;}
+.usricons.voicelistenedrepoff {background-position:0 -1832px;padding-left:24px;height:18px;}
+.usricons.voicelistenednyetoff {background-position:0 -1860px;padding-left:24px;height:18px;}
+/* Voice Profile */
+
+/* My Home - Changed - Nov 21 */
+
+#srchtag a.tag { color:#4D4D4D;text-decoration:underline;outline:none; }
+#srchtag a:hover.tag { color:#4D4D4D;text-decoration:none;outline:none; }
+
+.msgbg {background: url(http://imgs.bharatmatrimony.com/bmimages/basic-msg-bg.gif) top right; }
+.msgbgp {background: url(http://imgs.bharatmatrimony.com/bmimages/basic-msg-bgp.gif) top right; }
+.msgbgs {background: url(http://imgs.bharatmatrimony.com/bmimages/basic-msg-bgs.gif) top right; }
+
+
+/* My Profile */
+.phnotaddedicon, .horonotaddedicon, .voicenotaddedicon, .verifynotaddedicon, .stampnotaddedicon, .healthnotaddedicon, .videonotaddedicon, .refnotaddedicon, .referenceicon, .grnbullet, .reqphoto, .phoneicon, .horoscopeicon, .horoscopecompicon, .referenceicon, .verifyicon, .stampicon, .voiceicon, .videoicon, .healthicon, .phverifiedicon { background-image:url(http://imgs.bharatmatrimony.com/bmimages/user-icons-actions-new.gif); background-repeat:no-repeat; }
+
+.phnotaddedicon {background-position:0 -1345px;padding:0px 0px 0px 25px;}
+.horonotaddedicon {background-position:0 -1368px;padding:0px 0px 0px 25px;}
+.voicenotaddedicon {background-position:0 -1388px;padding:0px 0px 0px 25px;}
+.verifynotaddedicon {background-position:0 -1409px;padding:0px 0px 0px 25px;}
+.stampnotaddedicon {background-position:0 -1429px;padding:0px 0px 0px 25px;height:16px;}
+.healthnotaddedicon {background-position:0 -1450px;padding:0px 0px 0px 25px;height:16px;}
+.videonotaddedicon {background-position:0 -1470px;padding:0px 0px 0px 25px;}
+.refnotaddedicon {background-position:0 -1502px;padding:0px 0px 0px 25px;}
+.referenceicon {background-position:0 -1046px;padding:0px 0px 0px 25px;}
+.grnbullet {background-position:0 -1485px;padding:0px 0px 0px 15px;}
+.reqphoto {background-position:0 -671px;padding:0px 0px 0px 25px;}
+.phverifiedicon {background-position:0 -1525px;padding:0px 0px 0px 25px;}
+
+.phoneicon {background-position:0 -22px;padding-left:24px;}
+.horoscopeicon {background-position:0 -172px;padding-left:24px;}
+.horoscopecompicon {background-position:0 -152px;padding-left:24px;}
+.referenceicon {background-position:0 -1045px;padding-left:24px;height:18px;}
+.verifyicon {background-position:0 -372px;height:18px;padding-left:24px;}
+.stampicon {background-position:0 -192px;padding-left:24px;height:17px;}
+.voiceicon {background-position:0 -4px;padding-left:24px;}
+.videoicon {background-position:0 -272px;padding-left:22px;}
+.healthicon {background-position:0 -915px;padding-left:22px;height:17px;}
+
+.paidmembenicon1 {background-position:0 -1542px;padding-left:22px;}
+.paidmembenicon2 {background-position:0 -1571px;padding-left:22px;}
+.paidmembenicon3 {background-position:0 -1603px;padding-left:22px;}
+.paidmembenicon4 {background-position:0 -1633px;padding-left:22px;}
+
+/* My Profile */
+
+/* View profile - Border */
+.cssbox, .cssbox_body, .cssbox_head, .cssbox_head p { background: transparent url(http://imgs.bharatmatrimony.com/bmimages/view-tips-grn-bg.gif) no-repeat bottom right; margin: 0px; padding: 0px; } 
+.cssbox {padding-right: 15px; margin: 0px auto; }
+.cssbox_head { background-position: top right; margin-right: -15px; padding-right: 10px; }
+.cssbox_head p {background-position: top left; margin: 0px; border: 0px; padding: 1px 0px 15px 20px; }
+.cssbox_body { background-position: bottom left; margin-right: 0px; padding: 0px 0px 15px 20px; }
+/* View profile - Border */
+
+/* Success Photo - Small Border */
+.ssmallborder { border: 1px solid #C19B7A; }
+/* Success Photo - Small Border */
+
+#myhome-idealpp p.first {padding:15px 0px 3px 10px;text-align:justify;line-height:16px;margin:0px;}
+#myhome-idealpp p {padding:7px 0px 0px 10px;text-align:justify;margin:0px;}
+.myhome-idealpp {background: url(http://imgs.bharatmatrimony.com/bmimages/myh-arrow-1.gif) no-repeat top left; margin: 0px 0px 0px 35px; padding: 0px 0px 0px 17px;line-height:17px;}
+
+/* popup */
+.ashtokoottop {background:url(http://imgs.bharatmatrimony.com/bmimages/ashakoot-top.png) !important; background:url(http://imgs.bharatmatrimony.com/bmimages/ashakoot-top.gif); width:433px !important; width:433px; height:16px !important;   height:16px;}
+.ashtokootbot {background:url(http://imgs.bharatmatrimony.com/bmimages/ashakoot-bg.png) repeat-y bottom right !important; width:433px !important; background:url(http://imgs.bharatmatrimony.com/bmimages/ashakoot-bg.gif) repeat-y bottom right; width:433px;}
+.ashtokootbg {background:url(http://imgs.bharatmatrimony.com/bmimages/ashakoot-midbg.gif) repeat-x; height:295px;}
+.ashtokootTbl {width: 380px; background-color: #fafafa; border: 1px #B3CC79 solid; border-collapse: collapse; border-spacing: 0px; margin-top: 0px; }
+.ashtokootTbl td { border-bottom: 1px dotted #AAA; text-align: left; padding-left: 3px;}
+.ashtokootTbl td.padl8 { padding-left:8px; }
+.ashtokootTblBodl { border-left: 1px dotted #AAA; }
+/* popup */
+
+/* Text Tooltip */
+.ToolText{position:relative; }
+.ToolTextHover{position:relative;}
+.ToolText span{display: none;}
+.ToolTextHover span{ display:block; position:absolute; border:1px solid black; top:0em; left:20px; background-color:#FFF; color:#000; text-align: center; }
+/* Text Tooltip */

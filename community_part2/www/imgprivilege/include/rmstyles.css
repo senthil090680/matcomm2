@@ -1,0 +1,172 @@
+body {margin:0px;}
+
+p {line-height: 14px;margin:0px;}
+
+ul {margin-top:0;margin-bottom:0; padding-top:0;padding-bottom:0;}
+
+.topmenuText {font: normal 12px verdana;  padding-left: 1px;color:#0056A6;text-align:center;text-decoration:none;}
+.menuText {font: bold 11px verdana,tahoma; color:#00689D;padding-top:3px;padding-left:7px;padding-right:5px;text-align:left;text-decoration:none;line-height:20px;}
+
+.leftmenuText {font: bold 11px verdana,tahoma; color:#00689D;height:20px;padding-top:3px;text-align:left;text-decoration:none;line-height:20px;}
+
+.normaltext {font: normal 11px verdana,tahoma; color:#000000;text-align:justify;}
+.normalText1 {font-size: 11px;font-weight:none; font-family: Verdana,Tahoma,Arial; color:#000000;text-align:justify;}
+.normaltext2 {font: normal 11px verdana,tahoma; color:000000;text-align:justify;}
+.normaltext4 {font: bold 11px verdana,tahoma; color:000000;text-align:justify;}
+.normaltext3 {font: bold 11px verdana,tahoma; color:#00689D;padding-top:3px;padding-right:5px;text-align:left;text-decoration:none;line-height:20px;}
+.normaltext4 {font: bold 20px verdana,tahoma; color:#FE7313;padding-top:3px;padding-right:5px;text-align:center;text-decoration:none;line-height:20px;}
+.normaltext5 {font: bold 20px verdana,tahoma; color:#FE7313;padding-top:3px;padding-right:5px;text-decoration:none;line-height:20px;}
+.errortext4 {font: normal 11px verdana,tahoma; color:red;text-align:left;}
+.loginText {font-size: 11px;font-weight:none; font-family: Verdana,Tahoma,Arial; color:#000000;text-align:justify;text-transform: uppercase;}
+
+.normalboldtext {font: bold 11px verdana,tahoma; color:#000000;text-align:justify;}
+
+.smallText {font: normal 10px verdana,tahoma; color:#000000;text-align:justify;} 
+
+.headText {font: normal 12px verdana,tahoma; color:#000000;text-align:justify;}
+.headText1 {font: bold 15px verdana,tahoma;color:#FF7429;text-align:justify;}
+
+.adsText {font: normal 11px verdana,tahoma; color:#000000;text-align:justify;line-height:20px;}
+
+.linkText {font: normal 11px verdana,tahoma; color:#000000;text-align:justify;text-decoration:none;}
+.linkText1 {font: normal 11px verdana,tahoma; color:#0056A6;text-align:justify;text-decoration:none;}
+.linkText2 {font: bold 13px arial,verdana,tahoma; color:#ffffff;text-align:justify;text-decoration:none;padding-left:10px;}
+.linkText3 {font: bold 13px arial,verdana,tahoma; color:#ffffff;text-align:justify;text-decoration:none;}
+
+
+.footertxt {font: normal 11px verdana,tahoma; color:#00689D;text-decoration:none;text-align:justify;}
+
+.copyright {font: normal 11px verdana,tahoma, color:#666666;text-decoration:none;text-align:justify;padding-bottom:20px;}
+
+.normallinkText {font: normal 11px verdana,tahoma; color:#000080;text-align:justify;text-decoration:underline;}
+
+.TextBox {background-color:#FFFFFF;border: 1px solid #00689D;font: normal 11px verdana,tahoma; color:#000000;text-align:justify;width:250px;}
+
+.SubmitButton {background-color:#00689D;border: 1px solid #FFFFFF;font: bold 11px verdana,tahoma; color:#FFFFFF;text-align:center;width:70px;}
+
+.CalendarButton {background-color:#CFCFCF;border: 1px solid #00689D;font: normal 11px arial,verdana,tahoma; color:#000000;text-align:center;width:65px;height:17px}
+
+.memberdivborder {float:left;width:1px;background-color:#65BFE0;height:25px;}
+.memberdiv {float:left;width:60px;text-align:center;padding-top:5px;}
+
+.tborder {border-left:1px solid #A196BF;border-right:1px solid #A196BF;width:778px;height: 100%;background-image:url('/images/trans.gif');}
+
+ .tab1{float:left;background-color:#556D92;padding-left:10px;padding-right:10px;padding-top:8px;font: bold 11px verdana,tahoma;color:#FFFFFF;}
+
+ .tdleft{border-left:1px solid #A196BF;border-top:1px solid #A196BF;border-bottom:1px solid #A196BF;height:30px;padding-left:5px;}
+ .tdright{border-left:1px solid #A196BF;border-right:1px solid #A196BF;border-top:1px solid #A196BF;border-bottom:1px solid #A196BF;height:30px;padding-left:5px;}
+
+ .Rtdleft{border-left:1px solid #A196BF;border-bottom:1px solid #A196BF;height:30px;padding-left:5px;}
+ .Rtdright{border-left:1px solid #A196BF;border-right:1px solid #A196BF;border-bottom:1px solid #A196BF;height:30px;padding-left:5px;}
+
+.cpYearNavigation,.cpMonthNavigation { background-color:#C0C0C0; text-align:center; vertical-align:center; text-decoration:none; color:#000000; font-weight:bold; }
+.cpDayColumnHeader, .cpYearNavigation,.cpMonthNavigation,.cpCurrentMonthDate,.cpCurrentMonthDateDisabled,.cpOtherMonthDate,.cpOtherMonthDateDisabled,.cpCurrentDate,.cpCurrentDateDisabled,.cpTodayText,.cpTodayTextDisabled,.cpText { font-family:arial; font-size:8pt; }
+TD.cpDayColumnHeader { text-align:right; border:solid thin #C0C0C0;border-width:0px 0px 1px 0px; }
+.cpCurrentMonthDate, .cpOtherMonthDate, .cpCurrentDate  { text-align:right; text-decoration:none; }
+.cpCurrentMonthDateDisabled, .cpOtherMonthDateDisabled, .cpCurrentDateDisabled { color:#D0D0D0; text-align:right; text-decoration:line-through; }
+.cpCurrentMonthDate, .cpCurrentDate { color:#000000; }
+.cpOtherMonthDate { color:#808080; }
+TD.cpCurrentDate { color:white; background-color: #C0C0C0; border-width:1px; border:solid thin #800000; }
+TD.cpCurrentDateDisabled { border-width:1px; border:solid thin #FFAAAA; }
+TD.cpTodayText, TD.cpTodayTextDisabled { border:solid thin #C0C0C0; border-width:1px 0px 0px 0px;}
+A.cpTodayText, SPAN.cpTodayTextDisabled { height:20px; }
+A.cpTodayText { color:black; }
+.cpTodayTextDisabled { color:#D0D0D0; }
+.cpBorder { border:solid thin #808080; }
+.TESTcpYearNavigation,
+	.TESTcpMonthNavigation
+			{
+			background-color:#6677DD;
+			text-align:center;
+			vertical-align:center;
+			text-decoration:none;
+			color:#FFFFFF;
+			font-weight:bold;
+			}
+	.TESTcpDayColumnHeader,
+	.TESTcpYearNavigation,
+	.TESTcpMonthNavigation,
+	.TESTcpCurrentMonthDate,
+	.TESTcpCurrentMonthDateDisabled,
+	.TESTcpOtherMonthDate,
+	.TESTcpOtherMonthDateDisabled,
+	.TESTcpCurrentDate,
+	.TESTcpCurrentDateDisabled,
+	.TESTcpTodayText,
+	.TESTcpTodayTextDisabled,
+	.TESTcpText
+			{
+			font-family:arial;
+			font-size:8pt;
+			}
+	TD.TESTcpDayColumnHeader
+			{
+			text-align:right;
+			border:solid thin #6677DD;
+			border-width:0 0 1 0;
+			}
+	.TESTcpCurrentMonthDate,
+	.TESTcpOtherMonthDate,
+	.TESTcpCurrentDate
+			{
+			text-align:right;
+			text-decoration:none;
+			}
+	.TESTcpCurrentMonthDateDisabled,
+	.TESTcpOtherMonthDateDisabled,
+	.TESTcpCurrentDateDisabled
+			{
+			color:#D0D0D0;
+			text-align:right;
+			text-decoration:line-through;
+			}
+	.TESTcpCurrentMonthDate
+			{
+			color:#6677DD;
+			font-weight:bold;
+			}
+	.TESTcpCurrentDate
+			{
+			color: #FFFFFF;
+			font-weight:bold;
+			}
+	.TESTcpOtherMonthDate
+			{
+			color:#808080;
+			}
+	TD.TESTcpCurrentDate
+			{
+			color:#FFFFFF;
+			background-color: #6677DD;
+			border-width:1;
+			border:solid thin #000000;
+			}
+	TD.TESTcpCurrentDateDisabled
+			{
+			border-width:1;
+			border:solid thin #FFAAAA;
+			}
+	TD.TESTcpTodayText,
+	TD.TESTcpTodayTextDisabled
+			{
+			border:solid thin #6677DD;
+			border-width:1 0 0 0;
+			}
+	A.TESTcpTodayText,
+	SPAN.TESTcpTodayTextDisabled
+			{
+			height:20px;
+			}
+	A.TESTcpTodayText
+			{
+			color:#6677DD;
+			font-weight:bold;
+			}
+	SPAN.TESTcpTodayTextDisabled
+			{
+			color:#D0D0D0;
+			}
+	.TESTcpBorder
+			{
+			border:solid thin #6677DD;
+			}

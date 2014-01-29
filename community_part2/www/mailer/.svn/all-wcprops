@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/communitymatrimony/!svn/ver/8841/www/mailer
+END
+notLoggedIn.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/communitymatrimony/!svn/ver/121/www/mailer/notLoggedIn.php
+END
+photomatchwatchreport.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/communitymatrimony/!svn/ver/8533/www/mailer/photomatchwatchreport.php
+END
+payment-expire-reminder.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/communitymatrimony/!svn/ver/121/www/mailer/payment-expire-reminder.php
+END
+notreachable-mailer.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/communitymatrimony/!svn/ver/2136/www/mailer/notreachable-mailer.html
+END
+matchwatchreport.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/communitymatrimony/!svn/ver/8533/www/mailer/matchwatchreport.php
+END
+offerexpiremailer.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/communitymatrimony/!svn/ver/2778/www/mailer/offerexpiremailer.html
+END
+new-match-watch.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/communitymatrimony/!svn/ver/8841/www/mailer/new-match-watch.php
+END

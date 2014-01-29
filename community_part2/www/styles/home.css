@@ -1,0 +1,216 @@
+body { background: #fff; margin:0px; font-family: Arial, Helvetica, Tahoma; font-size: 12px; color:#000000; line-height:15px; text-decoration:none;text-align:left;align:center;}
+#maincontainer {padding-left:3px;padding-right:3px;}
+#container {width:772px;margin:0px 0px 0px 0px;}
+form{margin:0px;padding:0px;}
+
+/* heading color */
+.button{ background: #E01D01;padding:0px 4px 0px 4px !important;padding:1px 5px 0px 5px;border:1px solid #E22A10;color: #FFFFFF; font: bold 12px arial, helvetica, sans-serif; overflow: visible; vertical-align: middle;cursor:pointer;}
+.buttonm{ background: #ffffff;padding:0px 4px 0px 4px !important;padding:1px 5px 0px 5px;border:1px solid #ffffff;color: #E01D01; font: 11px arial, helvetica, sans-serif; overflow: visible; vertical-align: middle;cursor:pointer;}
+
+/* div styles */
+.fleft{float:left;}
+.fright{float:right;}
+.cleard{clear:both;}
+.footdiv, .footdiv2{width: 770px;}
+.footdiv1{padding-top: 7px; padding-bottom: 5px;}
+.hpdescdiv{width:380px;}
+.hpdescdivn{width:540px;}
+.hpsuccdiv{width:350px;}
+.hpsepdiv{width:40px;}
+.hpimgdiv{width:70px;}
+.hpsuccdiv1{width:280px;}
+
+.footdiv, .footdiv1, .footdiv2{text-align: center;}
+.linesep {height:1px;background-color:#cbcbcb;}
+.dotsep {background:url(http://img.communitymatrimony.com/images/dotbg.gif) repeat-x;}
+.dotsep2 {background:url(http://imgs.communitymatrimony.com/images/dotbg2.gif) repeat-x;}
+
+.disblk{display:block;}
+.disnon{display:none;}
+
+/* padding styles */
+.padt10{padding-top:10px;}
+.padb7{padding-bottom:7px;}
+.padt5{padding-top:5px;}
+.padtb10{padding:10px 0px 10px 0px;}
+.padr20{padding-right:20px;}
+.padlr5{padding:0px 5px;}
+
+/* color styles */
+.clr{color:#000000;} /* text color */
+.clr1{color:#D11014;} /* link color */
+.clr2{color:#ababab;}
+.clr3{color:#FF6000;}
+
+/* line height styles */
+.lh13 {line-height:13px;}
+.lh16 {line-height:16px;}
+.lh20 {line-height:20px;}
+
+/* text styles */
+.smalltxt { font-size:11px;}
+.normtxt { font-size:12px;}
+.normtxt1 { font-size:13px;}
+.headtxt { font-family: Times new roman;font-size:16px;}
+.opttxt { font-size:10px;color:#ababab;}
+a.disptxt1, a.disptxt2, a.disptxt3, a.disptxt4{font-family: Times new roman;}
+a.disptxt3, a.disptxt4{color:#858585;}
+a.disptxt1{font-size:15px;color:#a1a1a1;}
+a.disptxt2{font-size:18px;color:#909090;}
+a.disptxt3{font-size:20px;}
+a.disptxt4{font-size:23px;}
+
+a.disptxt1:hover, a.disptxt2:hover, a.disptxt3:hover, a.disptxt4:hover {color:#D11014;}
+.bld{font-weight:bold;}
+
+a{text-decoration:none;outline:none;}
+a{cursor:pointer;}
+
+img { border: 0px;}
+.pntr{cursor:pointer;}
+
+.tlright{text-align:right;}
+.tlleft{text-align:left;}
+.tljust{text-align:justify;}
+
+.inputtext {font-size:11px;font-weight:normal;}
+.homeselect {width:300px;height:24px;font-size:15px;font-weight:bold;}
+
+.inputtext, .homeselect{padding-left:2px;border:1px solid #B3B3B3;font-family:arial, tahoma, verdana;color:#333;}
+
+.abspositionmid1 { margin-left:360px !important;margin-left:-25px;top:-515px; }
+.hpmidmaindiv1 { width:390px;height:125px;}
+.hpmidmatridiv1 {width:384px;font-size:25px;}
+.hpmidmatrifrmdiv1 {width:388px;height:335px !important;height:320px;}
+.hpmidmatrifrmw1 { width:376px;text-align:justify; }
+.hpmidmatrifrmwpad1 { padding:10px 10px 5px 8px; }
+
+.abspositionmid, .abspositionmid1{position:absolute;left:0px;}
+
+.hpmidmaindiv, .hpmidmaindiv1{background-color:#e52028;}
+.hpmidmatridiv, .hpmidmatridiv1{padding-top:20px;text-align:center;font-family: Georgia, Verdana, Tahoma, Arial, Helvetica;font-weight:normal;color:#FFF;line-height:20px;}
+
+.hpmidmatrifrmdiv, .hpmidmatrifrmdiv1{background-color:#FFF;border:1px solid #dbdbdb;}
+
+.hpsitesdiv {width:246px;line-height:18px;}
+.hpsitesdiv1 {width:16px;background:url('http://img.communitymatrimony.com/images/home-versep.gif') repeat-y;}
+a.rclr {color:#000000;}
+a.rclr:hover{color:#D11014;}
+
+.hplink1{width:168px;}
+.hplink2{width:178px;}
+.hplink3{width:208px;}
+
+.hplink1, .hplink2, .hplink3 {background-color:#f2f2f2;height:22px;padding-top:3px;}
+
+.relposition { position:relative;}
+.abspositionmid { margin-left:465px !important;margin-left:80px;top:-415px; }
+.hpmidmaindiv { width:278px;height:145px;}
+.hpmidmatridiv {width:260px;font-size:18px;}
+.hpmidmatrifrmdiv {width:276px;height:140px;}
+.hpmidmatrifrmw { width:260px; }
+.hpmidmatrifrmwpad { padding:20px 20px 0px 25px; }
+.hpqs { font-family: Arial, Georgia, Verdana, Tahoma, Helvetica;font-size:16px;font-weight:bold;color:#333;line-height:20px; }
+
+.form-field * { vertical-align: middle; }
+.hpmidmatrifrmlabel1 { padding:1px 0px 0px 4px; }
+.hpmidmatrifrmlabel {padding:10px 0px 0px 4px;}
+.hpqspad { padding:0px 0px 7px 4px; }
+.margt1 { margin-top:1px; }
+.margt5 { margin-top:5px; }
+.hpagetxtbox { width:20px !important;width:25px; }
+.hpsel {border:1px solid #B3B3B3;font-family:arial, tahoma, verdana;font-size:11px;color:#333;font-weight:normal;width:200px;}
+
+#headPan{width:778px; position:relative; margin:0 auto;}
+#headPan ul{width:608px; height:20px; margin:0 auto; list-style: none; line-height: normal;}
+#headPan li{float:left;}
+#headPan a{padding:0 10px 0; color:#2F5958; background:#FFF; text-decoration:none; font-size:13px; border-right:1px solid #FF0000;vertical-align:middle;}
+#headPan .last a{padding:0 10px 0; color:#2F5958; background:#FFF; text-decoration:none; font-size:13px; border-right:0px solid #FF0000;vertical-align:middle;}
+/* #headPan ul li a:hover{text-decoration:underline;} */
+
+.lognborder {border:solid 1px #c4c4c4;}
+.lognborder2 {border-bottom:solid 1px #c4c4c4;}
+.lognbordercls {border:solid 1px #FFFFFF; border-bottom:0px;}
+
+.logintophdr { padding:5px 5px 5px 101px; }
+.pad5 { padding:5px; }
+.padl70 { padding-left:70px; }
+.loginmid {margin-top:20px; padding:0px 15px 0px 15px; overflow:hidden; display:none; }
+.loginfrmbg {background:url(http://img.communitymatrimony.com/images/form-bg-tile.gif);width:194px;position:absolute;overflow:hidden;background-color:#FFF;display:none;z-index:1;}
+.marg0 { margin:0px; }
+.logintxtbox {width:160px;}
+.margt4 {margin-top:4px;}
+.margt5tar {margin-top:5px;text-align:right;}
+.margt3tal {margin-top:3px;text-align:left;}
+.forgpasslnk {color:#e01d01; text-decoration:none;}
+.loginmidfpass {margin-top:5px;padding:0px 15px 0px 15px; overflow:hidden; display:none;}
+.loginmidfpassclose {margin:0px 5px 5px 0px;text-align:right;display:block;}
+.namregfreelink { color:#FFF;margin-top:15px; }
+.regfreespace { background-color:#FFF;color:#FF0000;margin-left:4px;padding:1px 5px;}
+
+.defence-menu{margin:22px 0 0 0px;padding:0px; width:390px;float:left;}
+.defence-menu ul{margin:0px;padding:0px;}
+.defence-menu li{list-style:none;float:left;font:12px arial;color:#FFFFFF;padding:0px 12px 0 12px;background: url(http://img.communitymatrimony.com/images/defencemenubg.jpg) right 2px no-repeat;}
+.defence-menu li a{text-decoration:none;color:#ffffff;}
+#defactive{font:bold 12px arial;color:#FFFFFF;}
+.definp{width:75px!important;width:77px;height:15px !important;height:20px;border:1px solid #C1C1C1;}
+.defpass{width:77px !important;width:80px;height:15px !important;height:20px;border:1px solid #C1C1C1}
+.deffor{margin: 0px;padding: 0px;font:11px Arial;color: #FFD200;float: left;}
+.deffor a{text-decoration: none;color: #FFD200;}
+.defpag p{margin: 0px;padding: 0px;font: 11px Arial;color: #000000;text-align: justify;line-height: 18px;width: 778px;}
+.defpag p span{margin: 0px;padding: 0px;font:bold 13px Arial;color: #000000;width: 778px;float:left;height: 25px;}
+.def-sucess{background: #E2010A;font: bold 11px Arial;color: #ffffff;width: 174px;padding: 5px 0 5px 10px;text-transform: uppercase;}
+.defimgbg{background: #E76324;width: 97px;height: 91px;}
+.defmor a{font: 11px Arial;color: #D11014;text-decoration: none;padding-right: 20px;float: left;padding-top: 5px;}
+.deffoot{width:100%;background:url(http://img.communitymatrimony.com/images/defence-ftbg.gif) left top repeat-x;height: 107px;float:left;margin-top:6px;}
+.deffooter{margin: 26px 0 0 105px;padding: 0px;width: 667px;}
+.deffooter ul{margin: 0px;padding: 0px;}
+.deffooter li{list-style: none;float: left;font: 11px Arial;color: #C51D24;background: url(http://img.communitymatrimony.com/images/defencefootbg.gif) right 2px no-repeat;padding: 0 10px 0 10px;height: 20px;}
+.deffooter li a{text-decoration: none;color:#C51D24;}
+#defma{width:722px;font:11px arial;color:#565656;float:left;}
+#defimghead{width:772px;margin-top:20px;float:left;}
+#defheadbr{border:1px solid #D0D0D0;height:130px;}
+#defhd{padding-left:19px;padding-top:19px;width:753px;}
+#deffet{height:26px;font:bold 13px arial;color:#555555;}
+.defprd{width:188px;float:left;border: 0px solid red;}
+.defprdin{width:62px;float:left;}
+.defprdpf{float:left;font:11px arial;color:#555555}
+.prdvw{font:11px arial;color:#D11014;text-decoration:none;}
+#defss{height:59px;font:11px arial;color:#555555;}
+#defprdin{width:212px;float:left;}
+#defpag{width:433px;float:left;font:11px arial;color:#555555;}
+.defwd{width:772px;}
+#defreg{float:left;padding-left:10px;padding-top:25px;}
+#defself{float:left;padding-left:59px;padding-top:15px;}
+#deflogo{padding-left:12px;padding-top:13px;}
+#defban{padding-top:25px;}
+#defmain{background-color:#8F2311;height:77px;}
+#defct{width:778px;height:46px;}
+#definp{width:81px;float:left;}
+#defpass{width:83px;float:left;}
+#deflogn{float:left;width:55px;}
+#defmn{float:left;width:294px;padding-top:12px;}
+#defimg{width:26px;float:left;}
+#prdsucess{width:312px;float:left;}
+#defsearchbg{background: url(http://img.communitymatrimony.com/images/defence-seachbg.jpg) left top no-repeat;height:173px;width: 242px;}
+.defsear a{text-decoration: none;font: 11px arial;color:#E2010A;padding-right:22px !important;padding-right:25px;}
+#defpos{position:absolute;margin-top:10px;margin-left:492px;}
+#defhead{padding-top:22px;padding-left:35px;}
+#deflkk{font:12px arial;color:#000000;height:30px;}
+#deflkkfr{width:71px;float:left;}
+#defmale{float:left;width:51px;}
+#deffemale{float:left;}
+#defage{font:12px arial;color:#000000;height:32px;}
+#defagef{width:101px;float:left;padding-top:4px;}
+#defageinp{float:left;width:34px;}
+#defageto{float:left;width:20px;padding-top:4px;}
+#defagetxt{float:left;width:34px;}
+#defflogo{width:386px;float:left;padding-top: 24px;}
+#dive-pbg{background: url(http://img.communitymatrimony.com/images/divorcee-phonebg.jpg) 12px top no-repeat;width: 133px;font:bold 12px arial;color:#000000;}
+.dsr{width:206px;float:left;height:30px;}
+/**************************************************/
+.bgclr1{background:#E12328;}
+.bgclr2{background:#F5F4D6;}
+.bgclr3{background:#E2E2E2;}
+.bgclr4{background:#D11014;}
+

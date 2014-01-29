@@ -1,0 +1,25 @@
+<div class="rpanel fleft">
+	<div class="normtxt1 clr2 padb5">
+		<font class="clr bld">Pride of the community</font>
+	</div>
+	<div class="linesep"><img src="images/trans.gif" height="1" width="1" /></div>
+	<center>
+		<div class="rpanelinner padt10">
+			<div class="normtxt clr lh16 tljust" style="padding-top:10px;">
+           <img src="http://img.balijanaidumatrimony.com/images/Balija_pride.jpg" style="padding-right:12px;float:left;"/>Chiranjeevi is the mega star of Andhra Pradesh. During the height of his career, Chiranjeevi was the highest paid actor in India. He is a Padma Bhushan holder who has received three Nandi awards and seven Filmfare best actor awards. He announced his formal entry into politics on August 2008 by launching the Praja Rajyam Party. He is a member of the Andhra Pradesh legislative assembly from Tirupati.<br /><br />
+           Chiranjeevi, whose real name is 'Shiva Shankara Vara Prasad Konidela', was born on 22 August 1955, in Narsapur on the banks of River Godavari in the West Godavari district in Andhra Pradesh. His fans call him "Mega Star". Vara Prasad is the eldest son of Venkat Rao and Anjana Devi. He has two sisters and two brothers; younger brother, Nagendra Babu, is a film producer and an actor and his youngest brother, Pawan Kalyan is also a Telugu actor.<br /><br />
+           Vara Prasad did his schooling in Nidadavolu, Gurajala, Ponnuru, Mangalagiri and Mogalturu. He finished his B.Com from Y.N. College in Narasapur, after which he moved to Chennai to seek a career in acting. Chiranjeevi was a student at the Madras Film Institute and an amateur stage actor. Before completing his training at the film institute, he attended auditions and got selected for the film Punaadi Raallu (1978). However, Pranam Khareedu was his first film that was released in theaters. <br /><br />
+           In the film Paleru Narsayya, he acted without makeup and impressed the industry veterans. Noted directors Bapu and K Balachandar, who had attended the preview of this film, offered roles in their new movies. In Balachander's Idi Katha Kaadu he essayed a negative role but got to play an important role in Bapu's Manavoori Pandavulu. It is said that for this movie, he received a fee of Rs 1116. Towards the start of the 80s, Chirajeevi started gaining attention in the industry with eight releases in a year. In Kothala Rayudu, a film released during this period, he played the title role for the first time. In 1980, a record 14 films starring Chiranjeevi hit the theaters, establishing a solid base for him in the state. In the next two years Chiranjeevi acted in several films.<br /><br />
+           The 1985 released film, 'Adavi Donga', was another important movie in his career. It also marked the beginning of his association with senior director K Raghavendra Rao. In the 1987 released 'Pasivadi Pranam', Chiranjeevi is said to have introduced 'break dance' to Telugu cinema. Break dance ruled the silver screen for several years in the state.<br /><br />
+           The title 'Megastar' was used for the first time while publicizing K.S. Rama Rao's movie, 'Marana Mrudangam', which was released in August 1988. 'Rudraveena', directed by K.Balachander, was released in the same year and this bagged him the 'Nargis Dutt' award. Chiranjeevi's career graph soared during the 90s. 'Gang Leader, Rowdi Alludu, Jagadeka Veerudu Athiloka Sundari and Gharana Mogudu' were the hits of Chiranjeevi during this golden period.<br /><br />
+           Veteran Tamil director Balachandar once said that Chiranjeevi's acting is a combination of Rajni's mass appeal and Kamal Hassan's acting and dancing acumen. Famous Ad guru, 'Prahlad Kakkad', has said that the ideas of Chiranjeevi helped him in creating the ads of Thumps Up in Andhra Pradesh. Sales rose by  55 per cent after he started promoting the brand. Later, Chiranjeevi gave up its promotion following the pesticide controversy.<br /><br />
+           Chiranjeevi has acted in Hindi movies also; his performance was appreciated in movies like Prathibandh (1990), Aaj Ka Goonda Raj (1992), and The Gentleman (1994). Some of his Telugu films were dubbed in Hindi like Indra-the tiger, Coolie, Himmatwala, Bajrang-The He man and Aadmi Aur Apsara. His dubbed film Indra-The Tiger is one of the best sellers in the Hindi DVD market.<br /><br />
+           'Indra' released in 2002 in more than 200 screens in Andhra Pradesh went on to become one of the biggest hits in Chiranjeevi's career. He also won the 'Nandi Award' for the best actor that year.<br /><br />
+           Amitabh Bachchan had once hailed Chiranjeevi as the, 'King of Indian cinema' and added that he has followers across the globe and is one of the greatest stars of all time. Over two million people attended the launch meeting of his party in 2008 at the Avilala grounds, Tirupathi.  It is a testimony to his influence and popularity in the state.<br /><br />
+
+
+            </div>
+
+		</div>
+	</center>
+</div>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/communitymatrimony/!svn/ver/2429/twitterintegration/twitterv2/lib
+END
+clsTwitterServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/communitymatrimony/!svn/ver/2429/twitterintegration/twitterv2/lib/clsTwitterServer.php
+END
+clsTwitterExtention.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/communitymatrimony/!svn/ver/2429/twitterintegration/twitterv2/lib/clsTwitterExtention.php
+END
+clsExceptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/communitymatrimony/!svn/ver/2282/twitterintegration/twitterv2/lib/clsExceptions.php
+END
+clsTwitter.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/communitymatrimony/!svn/ver/2282/twitterintegration/twitterv2/lib/clsTwitter.php
+END
+clsDB.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/communitymatrimony/!svn/ver/2264/twitterintegration/twitterv2/lib/clsDB.php
+END

@@ -1,0 +1,28 @@
+<div class="rpanel fleft">
+	<div class="normtxt1 clr2 padb5">
+		<font class="clr bld">Pride of the community </font>
+	</div>
+	<div class="rpanel" style="background:url(<?=$confValues['IMGSURL']?>/infopg_bg.gif) no-repeat;">
+	<center>
+		<div class="rpanelinner padt10">
+			<div class="normtxt clr lh16 tljust" style="padding-top:30px;">
+				<b>A source of inspiration to millions - Dr. APJ Abdul Kalam</b><br><br>
+				<img src="http://img.muslimmatrimony.com/images/muslim/prideimg.jpg" style="padding-right:12px;float:left;"/>Dr. APJ Abdul Kalam is an icon among Indians today and was the 11th president of India. He has been called the inspiration machine of India. His books and life have been a source of inspiration to millions of ordinary Indians.<br><br>
+				During his term as president, he was popularly known as the People's President.
+				The Government of India has honoured him with the nation's highest civilian honours: the Padma Bhushan in 1981; Padma Vibhushan in 1990 and the Bharat Ratna in 1997 for his work with ISRO and DRDO and his role as a scientific advisor to the Indian government.<br><br>
+				Kalam is the third President of India to have been honoured with a Bharat Ratna before being elected to the highest office, the other two being Sarvepalli Radhakrishnan and Zakir Hussain. He is also the first scientist and first bachelor to occupy Rashtrapati Bhavan.<br><br>
+				Born on 15th October 1931 at Rameswaram in Tamil Nadu, Dr Kalam specialised in Aeronautical Engineering from Madras Institute of Technology. Dr. Kalam made significant contribution as Project Director to develop India's first indigenous Satellite Launch Vehicle (SLV-III), which successfully injected the Rohini satellite in the near earth orbit in July 1980 and made India an exclusive member of Space Club.<br><br>
+				He was responsible for the evolution of ISRO's launch vehicle programme, particularly the PSLV configuration. After working for two decades in ISRO and mastering launch vehicle technologies, Dr. Kalam took up the responsibility of developing Indigenous Guided Missiles at Defence Research and Development Organisation as the Chief Executive of Integrated Guided Missile Development Programme (IGMDP). He was responsible for the development and operationalisation of AGNI and PRITHVI Missiles and for building indigenous capability in critical technologies through networking of multiple institutions. He was the Scientific Adviser to Defence Minister and Secretary, Department of Defence Research & Development from July 1992 to December 1999.<br><br>
+				During this period, he led the weaponisation of strategic missile systems and the Pokhran-II nuclear tests in collaboration with Department of Atomic Energy, which made India a nuclear weapon state. He also gave thrust to self-reliance in defence systems by progressing multiple development tasks and mission projects such as Light Combat Aircraft.<br><br>
+				As Chairman of Technology Information, Forecasting and Assessment Council (TIFAC) and as an eminent scientist, he led the country with the help of 500 experts to arrive at Technology Vision 2020 giving a road map for transforming India from the present developing status to a developed nation. Dr. Kalam has served as the Principal Scientific Advisor to the Government of India, in the rank of Cabinet Minister, from November 1999 to November 2001 and was responsible for evolving policies, strategies and missions for many development applications. Dr. Kalam was also the Chairman, Ex-officio, of the Scientific Advisory Committee to the Cabinet (SAC-C) and piloted India Millennium Mission 2020.<br><br>
+				Dr. Kalam took up academic pursuit as Professor, Technology & Societal Transformation at Anna University, Chennai from November 2001 and was involved in teaching and research tasks. Above all he took up a mission to ignite the young minds for national development by meeting high school students across the country.<br><br>
+				In his literary pursuit four of Dr. Kalam's books - "Wings of Fire", "India 2020 - A Vision for the New Millennium", "My journey" and "Ignited Minds - Unleashing the power within India" have become household names in India and among the Indian nationals abroad. These books have been translated in many Indian languages.<br><br>
+				In his book India 2020 APJ Abdul Kalam strongly advocates an action plan to develop India into a knowledge superpower and into a developed nation by the year 2020. He regards his work on India's nuclear weapons program as a way to assert India's place as a future superpower.<br><br>
+				Dr. Kalam is one of the most distinguished scientists of India with the unique honour of receiving honorary doctorates from 30 universities and institutions. On April 29, 2009, he became the first Asian to be bestowed the Hoover Medal, America's top engineering prize, for his outstanding contribution to public service.<br><br>
+				The citation said that he is being recognized for making state-of-the-art healthcare available to the common man at affordable prices, bringing quality medical care to rural areas by establishing a link between doctors and technocrats, using spin-offs of defence technology to create state-of-the-art medical equipment and launching tele-medicine projects connecting remote rural-based hospitals to the super-specialty hospital<br><br>
+				Dr. Kalam became the 11th President of India on 25th July 2002.<br><br>
+			</div>
+		</div>
+	</center>
+	</div>
+</div>

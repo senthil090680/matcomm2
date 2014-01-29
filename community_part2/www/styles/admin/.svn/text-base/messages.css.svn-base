@@ -1,0 +1,4 @@
+/*.button {background: #FF7413 url(http://imgs.bharatmatrimony.com/bmimages/button.gif) no-repeat; border: 1px solid #FF7413; padding: 2px 10px 1px; color: #FFF; font: bold 11px arial, helvetica, sans-serif; overflow: visible; vertical-align: middle;}*/
+#msgtab ul{margin:0px;padding:0;list-style-type:none;text-align:center;}
+#msgtab ul li{display:block;float:left;margin:0 0px 0 0;}
+#msgtab ul li a{display:block;float:left;text-decoration:none;padding: 0px 0px 0px 12px;}  

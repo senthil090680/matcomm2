@@ -1,0 +1,96 @@
+/* Common */
+*{margin:0;padding:0;outline:0;}
+body{background:#fff;font:12px "Arial",Helvetica,Tahoma; color:#000;margin:0px;}
+img{border:0 none;}
+a{text-decoration:none;}
+h1{font-size:18px;}
+/* Floating */
+.fleft{float:left;} .fright{float:right;} .clear{clear:both;}
+/* Padding */
+.padd10{padding:10px;}.padd15{padding:15px;} .paddtb10{padding:10px 0;} .paddt10{padding:10px 0 0;} .paddl10{padding:0 0 0 10px;} .paddr10{padding:0 10px 0 0;} .padd5{padding:5px;} .paddt5{padding-top:5px;} .paddtb5{padding:5px 0;} .paddb5{padding:0 0 5px;} .padd3{padding:3px;}
+.padt25{padding-top:45px;}
+/* Font Colors */
+.clr1{color:#fff;} .clr2{color:#000;} .clr3{color:#006DC1;} .clr4{color:#48460C;}
+.clr5{color:#0B89D9;}
+.clr6{color:#555555;}
+.bld {font-weight:bold;}
+/* Font Align */
+.txtr{text-align:right;} .txtc{text-align:center;} .txtj{text-align:justify;} .txtl{text-align:left;}
+/* Font Size */
+.font17{font-size:17px;} .font16{font-size:16px;} .font11{font-size:11px;} .btxt{font-weight:bold;}
+.font19{font-size:19px;font-family:Georgia;} .font28{font-size:28px;font-family:Georgia;}
+/* Background Colors */
+.bg1{background:#EDEDED;} .bg2{background:#fff;}
+/* Form */
+.form_fields  *{vertical-align:middle;} .inputsmall{width:17px; padding:0 4px; font-size:11px;}
+/* Border */
+.dotted{background:url(http://imgs.srilankanmatrimony.com/images/new/dots.gif) repeat-x left center ; padding:10px 0;}
+.vdotted{background:url(http://imgs.srilankanmatrimony.com/images/new/vdots.gif) no-repeat center 60% ; padding:0 10px; height:175px;}
+/* Width */
+.width228{width:228px;} .width200{width:200px;} .width350{width:350px;}
+/* Container */
+.container{width:775px;margin:0 auto;}
+/* Header */
+.topboxlc{background:url(http://imgs.srilankanmatrimony.com/images/new/toplinksbg.gif) no-repeat left 0; height:33px;width:400px;}
+.topboxrc{background:url(http://imgs.srilankanmatrimony.com/images/new/toplinksbg.gif) no-repeat right 0; height:33px;margin-left:4px;}
+.toplinks{padding:7px;}
+/* Menu */
+.nav{width:100%;background:#08113C;}
+.menu a{font:bold 15px "Arial",Helvetica,Tahoma; color:#fff; padding:18px 10px; display:block; float:left;}
+.menu a:hover{background:#0286DA;}
+
+
+.menu .active{position:relative;background:#0286DA;cursor:default;}
+.menu .hover{position:absolute;left:43%;bottom:-7px;}
+/*.menu a:hover{position:relative;background:#0286DA}
+*/.loginput{width:95px;font:11px "Arial",Helvetica,Tahoma; color:#000;}
+.button{background:#E70353; border:0 none; padding:0 4px !important; color:#fff; font:bold 12px "Arial",Helvetica,Tahoma; vertical-align:absmiddle; cursor:pointer; overflow:visible;}
+/* Banner */
+.banner{padding:0px; width:775px; height:298px;position:relative;}
+.banner_cont{position:absolute; top:30px; right:83px; padding:0px 0px 0 0px;}
+.banner_video{background:#DBDAB3;}
+/* Quick Search */
+.quicksearch{background:#DADADA;height:60px;}
+/* Home - Content */
+.home_contbox{width:521px; height:195px; border:solid 7px #EDEDED;}
+.home_contboxn{width:521px; height:220px !important;height:220px; border:solid 7px #EDEDED;}
+.home_contbox1{border:solid 7px #EDEDED;}
+.home_ssbox{width:200px; height:195px; border:solid 7px #EDEDED;}
+.home_ssbox1{width:200px; height:220px; border:solid 7px #EDEDED;}
+/* Footer */
+
+.hgt33{height:33px !important;height:33px;}
+.wdth103{width:103px;}
+.normtxt{font-size:12px;}
+.pdl20{ padding-left:20px;}
+.pdr10{ padding-right:10px;}
+.mgt7{ margin-top:7px;border:1px solid #fff;}
+.mgl8{margin-left:8px;}
+.fleft{float:left;}
+.pdt8{padding-top:8px;}
+.pdl10{ padding-left:10px;}
+.clr{color:#000000;} /* text color */
+.smalltxt {font-size:11px;}
+.line16{line-height:16px;}
+.home_prdtxt{text-align:justify;width:170px;padding-left:10px;padding-top:5px;}
+.fnt15{font-size:15px;}
+.fnt14{font-size:14px;}
+.fnt13{font-size:13px;}
+.wdt70{width:70px;}
+.wdt120{width:120px;}
+.wdt360{width:360px;}
+.wdt450{width:450px;}
+.wdt210{width:210px;}
+.wdt158{width:158px;}
+.wdt84{width:84px;}
+.pdttr{padding-right:10px;padding-top:5px;}
+.brdr{border:1px solid #E1E1E1;}
+.padt10{padding-top:10px;}
+.mgtb22{margin-top:22px;padding-bottom:20px;}
+.dtrs{width:773px;padding-top:10px !important;padding-top:20px;}
+
+.footer-bg{background:url(http://imgs.srilankanmatrimony.com/images/srilankan/frep-bg.jpg) left top repeat-x;height:37px;}
+.foot,.foot ul{margin:0px;padding:0px 0 0 10px;}
+.foot li{list-style:none;float:left;font:11px arial;color:#006DC1;padding:12px 10px 0 0px;}
+.foot li a{text-decoration:none;color:#006DC1;}
+.bttn-bg{background:url(http://imgs.srilankanmatrimony.com/images/srilankan/bttn-bg.gif) no-repeat;height:23px;}

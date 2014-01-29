@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Mudaliyar Matrimony, Matrimonial, CommunityMatrimony.com</title>
+	<meta name="description" content="Mudaliyar Matrimony, Find Lakhs of Mudaliyar Brides &amp; Grooms on MudaliyarMatrimony.com, a part of CommunityMatrimony – Join FREE" />
+	<meta name="keywords" content="Mudaliyar Matrimonial, Mudaliyar Matrimonials, Mudaliyar Matrimony" />
+	<meta name="Author" content="MudaliyarMatrimony.com Mudaliyar Matrimonial Team" />
+	<meta name="copyright" content="Mudaliyarmatrimony.com Matrimonials" />
+	<meta name="Distribution" content="general" />
+	<link rel="stylesheet" href="http://imgs.mudaliyarmatrimony.com/styles/newhome.css" /><link rel="alternate" type="application/rss+xml" title="RSS Feeds" href="/feeds/" />
+	<script language="javascript" src="http://imgs.mudaliyarmatrimony.com/scripts/login.js" type="text/javascript"></script>
+	<script language="javascript" src="http://imgs.mudaliyarmatrimony.com/scripts/home.js" type="text/javascript"></script>
+</head>
+<body>
+	<div class="container"> <!-- Container Starts Here -->
+
+		<header> <!-- Header Starts Here -->
+		
+		
+		
+<div class="header">
+  <div class="fleft paddtb10">
+				<img src="http://imgs.mudaliyarmatrimony.com/images/logo/mudaliyar_logo.gif" width="380" height="40" alt="mudaliyar_logo" />
+			</div>
+            <div class="fright">
+                <div class="fright" style="margin-top:16px;">
+					<div class="hgt33" style="background:url(http://imgs.communitymatrimony.com/images/livehelpnewbg.gif) no-repeat;width:379px;">
+						<div class="pdt8 pdl10 fleft"><font style="font-size:14px;font-weight:bold;">24/7</font> &nbsp;<font style="color:#666666;">Toll Free:</font></div>
+						<div class="fleft" style="padding-left:3px;padding-top:9px;"><iframe src="/site/livehelpnohome.php" style="height:18px;width:110px !important;width:110px;text-align:left;" frameborder="0" scrolling="no"></iframe></div>
+						<div class="fleft clr normtxt" style="padding-top:9px;">|&nbsp;&nbsp;<a href="/site/index.php?act=LiveHelp" class="clr3 normtxt">Live Help</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/site/index.php?act=contactus" class="clr3 normtxt">Contact Us</a>
+                </div>
+					</div>
+              </div>
+			</div>
+			<div class="clear"><!-- --></div>
+		</div>
+		</header> <!-- Header Ends Here -->
+
+		<div class="nav"> <!-- Navigation Section Starts Here -->
+			<div class="fleft menu">
+				<nav><a class="active" href="#">Home <img class="hover" src="http://imgs.mudaliyarmatrimony.com/images/new/hover.jpg" width="14" height="7" alt="hover" /></a><a href="/register/">Register</a><a href="/search/">Search</a><a href="/payment/">Pay Now</a></nav>
+			</div>
+			<div class="fright txtr clr1 login paddt10">
+                <form name="Login" method="post" action="/login/index.php?act=logincheck">
+				<div class="paddr10"><b>Already a member?</b> <input class="loginput" name="idEmail" type="text" value="Enter ID / E-mail" onblur="if (this.value == '') { this.value = 'Enter ID / E-mail'; }" onfocus="if (this.value == 'Enter ID / E-mail') { this.value = ''; }" onclick="if (this.value == 'Enter ID / E-mail') { this.value = ''; }" /> <input class="loginput" name="password" type="password" value="password" maxlength="12" onblur="if (this.value == '') { this.value = 'password'; }" onfocus="if (this.value == 'password') { this.value = ''; }" onclick="if (this.value == 'password') { this.value = ''; }" /> <input type="submit" onclick="return funLogin();" class="button" value="Login" /><input type="hidden" value="yes" name="frmLoginSubmit" /></div>
+				<div class="paddr10"><div class="paddt5"><a href="/login/index.php?act=forgotpwd" class="clr1 font11">Forgot Password?</a></div></div>
+				</form>
+			</div>
+			<div class="clear"><!-- --></div>
+		</div> <!-- Navigation Section Ends Here -->
+
+		<div class="banner"> <!-- Banner Starts Here -->
+			<img src="http://imgs.mudaliyarmatrimony.com/images/new/mudaliyar-matrimony-img.jpg" alt="banner" width="775" height="320" border="0"/><div class="banner_cont">
+				<div class="padd10">
+					<div class="font17 clr4 paddt10 btxt">An Exclusive Matrimony<br />Service For The<h1 class="clr4">Mudaliyar Community</h1>Around The World</div>
+					<div class="paddtb10"><b>Not a member?</b><br /><a href="/register/" class="regbutton txtc">Register FREE</a></div>
+				</div>
+				<div><a href="/site/index.php?act=tv_commercial"><img src="http://imgs.mudaliyarmatrimony.com/images/new/tvads.jpg"  /></a></div>
+			</div>
+		</div> <!-- Banner Ends Here -->
+
+		<div class="quicksearch padd10 txtc form_fields clr1"> <!-- Quick Search Starts Here -->
+            <form name="RSearchForm" method="post" action="/search/index.php">
+			<b class="font17">Quick Search : &nbsp;&nbsp;</b><label for="Bride"> Looking for &nbsp;<input type="radio" id="Bride" name="gender" value="2" onclick="javascript:chkgender('f');" checked="checked"/> Bride</label>&nbsp; <label for="Groom"><input type="radio" id="Groom" name="gender" value="1" onclick="javascript:chkgender('m');"/> Groom</label>&nbsp; in the age group &nbsp;<input type="text" name="ageFrom" id="ageFrom" class="inputsmall" size="2" onclick="if ((this.value == '18') || (this.value == '21')) { this.value = ''; }" onfocus="if ((this.value == '18')|| (this.value == '21')) { this.value = ''; }"  value="18" /> &nbsp; to &nbsp; <input type="text" name="ageTo" id="ageTo" class="inputsmall" size="2" onclick="if ((this.value == '30') ||(this.value == '33')) { this.value = ''; }" onfocus="if ((this.value == '30') ||(this.value == '33')) { this.value = ''; }"  value="30" /> &nbsp; <input type="hidden" name="act" value="srchresult" /><input type="submit" value="Search" class="button" /> &nbsp;&nbsp; <a class="clr1" href="/search/index.php?act=advsearch">Advanced Search</a>
+			</form>
+		</div> <!-- Quick Search Ends Here -->
+
+		<div class="paddtb10" style="display:none;"> <!-- Category Links Starts Here -->
+			<b>Browse Profiles By :</b>
+			<div class="paddt5"><a class="clr3" href="">Aheer/Ahir</a>&nbsp; | &nbsp;<a class="clr3" href="">Dadhor</a>&nbsp; | &nbsp;<a class="clr3" href="">Das</a>&nbsp; | &nbsp;<a class="clr3" href="">Doddi</a>&nbsp; | &nbsp;<a class="clr3" href="">Erragolla</a>&nbsp; | &nbsp;<a class="clr3" href="">Gadri / Gadariya</a>&nbsp; | &nbsp;<a class="clr3" href="">Gawli</a>&nbsp; | &nbsp;<a class="clr3" href="">Goala/Gola/Golla</a>&nbsp; | &nbsp;<a class="clr3" href="">Gop/Gopal/Gopala</a>&nbsp; | &nbsp;<a class="clr3" href="">Goriya</a>&nbsp; | &nbsp;<a class="clr3" href="">Gouda</a>&nbsp; | &nbsp;<a class="clr3" href="">Gwala</a>&nbsp; | &nbsp;<a class="clr3" href="">Gwalvanshi</a>&nbsp; | &nbsp;<a class="clr3" href="">Jadav</a>&nbsp; | &nbsp;<a class="clr3" href="">Karna</a>&nbsp; | &nbsp;<a class="clr3" href="">More >></a></div>
+		</div> <!-- Category Links Ends Here -->
+
+		<div class="dotted"><!-- --></div>
+
+		<div class="paddtb10"> <!-- Content Box Starts Here -->
+			<div class="fleft home_contbox">
+				<div class="fleft width228 padd10">
+					<div class="padd10">
+						<div class="font16 btxt paddtb5">The Celebrating Mudaliyars:</div>
+						<div class="txtj">Our community got the name Mudaliar from the honorary title Mudali conferred upon top-ranking bureaucratic officials and army officers in medieval South India. It means a person of first rank and is ...</div>
+						<div class="txtr"><a href="/communityinfo/index.php?act=mudaliyar_prom" class="clr3 font11">More >></a></div>
+					</div>
+				</div>
+				<div class="fleft vdotted"><!-- --></div>
+				<div class="fleft width228 padd10">
+					<div class="padd10">
+						<div class="font16 btxt paddtb5">Wedding Customs</div>
+						<div class="txtj">In our community, the alliance is confirmed through a memorandum where the father of the boy and that of the girl sign the contract. In this engagement ceremony, the groom's family hands over gifts, which include sarees, jewelry, and 21 platters of fruits and dried nuts and fruits.</div>
+						<div class="txtr"><a href="/communityinfo/index.php?act=mudaliyar_marcus" class="clr3 font11">More >></a></div>
+					</div>
+				</div>
+				<div class="clear"><!-- --></div>
+			</div>
+			<div class="fright home_ssbox">
+				<div class="font16 btxt padd5 txtc bg1">Success Stories</div>
+                <div class="padd5 txtc" style="margin-top:5px;">
+                    <div class="padd5 btxt">Suchitra A & Ramakrishnan R</div>
+                    <center><img src="http://image.mudaliyarmatrimony.com/success/mudaliyar/smallphotos/MDA122473_s.jpg" /></center>
+					<div align="left" class="home_prdtxt">Through Mudaliyar Matrimony we got to know of each other ..</div>
+                    <div class="txtr" style="padding-right:10px;"><a href="http://image.mudaliyarmatrimony.com/successstory/index.php?act=successgallery" class="clr3 font11">More >></a></div>
+				</div>
+			</div>
+			<div class="clear"><!-- --></div>
+		</div> <!-- Content Box Ends Here -->
+
+        <div class="paddtb10"> <!-- Content Box1 Starts Here -->
+			<div class="fleft home_contbox1">
+                <div class="padd10">
+						<div class="font16 btxt paddtb5">Pride of Community</div>
+						<div class="fleft paddr10"><img src="http://imgs.mudaliyarmatrimony.com/images/Mudaliyar_pride.jpg" width="84" height="82" /></div>
+						<div class="txtj"><b>C. Sivasankaran</b>C. Sivasankaran, better known as Siva in close circles, is a serial entrepreneur as well as the chairman of Sterling group now renamed as the Siva group. He has a net worth of more than $4 billion and is one of the richest Indians.Sivasankaran is known for his audacious business plans, ability to think ahead of the times, business acumen and knack of spotting opportunities early. He is regarded as having pioneered the broadband and wi-fi technology in the sub-continent. He regularly hits the headlines for buying and selling companies.</div>
+						<div class="clear"><!-- --></div>
+						<div class="txtr"><a href="/communityinfo/index.php?act=mudaliyar_pride" class="clr3 font11">More >></a></div>
+					</div>
+			</div><div class="clear"><!-- --></div>
+		</div> <!-- Content Box1 Ends Here -->
+
+		<div class="paddtb10 txtc"> <!-- Adv Banner Starts Here -->
+			<iframe src="http://www.mudaliyarmatrimony.com/site/priv_home_mat.php" frameborder="0" style="width:772px !important;width:772px;height:76px !important;height:76px;background: #7B0842;" scrolling="no"></iframe>
+		</div> <!-- Adv Banner Ends Here -->
+
+		<footer> <!-- Footer Starts Here -->
+		<div class="footer1">
+			<div class="fleft fboxtlc">
+				<div class="fboxblc">
+					<div class="fleft padd5 font11">
+						<div class="fleft padd5 wdt70"><a href="/site/index.php?act=aboutus" class="clr3">About Us</a><br /><a href="/site/index.php?act=contactus" class="clr3">Contact Us</a><br /><a href="/site/index.php?act=feedback" class="clr3">Feedback</a></div>
+						<div class="fleft padd5 wdt120"><a href="/payment/" class="clr3">Pay Now</a><br /><a href="/site/index.php?act=termsandconditions" class="clr3">Terms and Conditions</a><br /><a href="/site/index.php?act=privacypolicy" class="clr3">Privacy Policy</a></div>
+						<div class="fleft padd5"><a href="http://image.mudaliyarmatrimony.com/successstory/index.php?act=success" class="clr3">Post Success Story</a><br /><a href="/matrimonials/" class="clr3">Popular Matrimony Searches </a></div><div class="clear"><!-- --></div>
+					</div>
+					<div class="fleft fboxspacer"><img src="http://imgs.mudaliyarmatrimony.com/images/new/spacer.gif" width="5" height="73" /></div>
+					<div class="fright padd5 font11">
+						<div class="fleft padd5 txtc"><a href="/feeds/" style="color:#B55F12;"><img src="http://imgs.mudaliyarmatrimony.com/images/new/rss.jpg" width="21" height="22" vspace="5" /><br />RSS</a></div>
+						<div class="fleft padd5 txtc"><a href="http://www.facebook.com/pages/Mudhaliyar-Community/143610842322082?created#!/pages/Mudhaliyar-Community/143610842322082?v=wall" target="_blank" class="clr3"><img src="http://imgs.mudaliyarmatrimony.com/images/new/fb.jpg" width="21" height="22" vspace="5" /><br />Follow</a></div>
+					</div><div class="clear"><!-- --></div>
+				</div>
+			</div>
+			<div class="fright txtc font11 paddtb10" style="width:276px;">
+				Copyright &copy; 2011 Consim Info Pvt Ltd.<br />All rights reserved.<br />Mudaliyarmatrimony is part of <a href="http://www.communitymatrimony.com" target="_blank" class="clr">CommunityMatrimony.com</a>
+			</div>
+		</div><div style="width:100%;float:left;background:#D11014;padding-top:5px;padding-bottom:5px;">
+			<center>
+				<font class="smalltxt clr1">
+				<span class="clrw" style="font:bold 11px arial;color:#ffffff;">Our Networks :</span>&nbsp;&nbsp;
+				<a href="http://www.bharatmatrimony.com" target="_blank" class="smalltxt clr1">Matrimony</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.communitymatrimony.com" target="_blank" class="smalltxt clr1">CommunityMatrimony</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.clickjobs.com" target="_blank" class="smalltxt clr1">Jobs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.indiaproperty.com" target="_blank" class="smalltxt clr1">Property</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.indialist.com" target="_blank" class="smalltxt clr1">Classifieds</a></font>
+			</center>
+		</div>
+        </footer> <!-- Footer Ends Here -->
+
+	</div> <!-- Container Ends Here -->
+<div id="refertrack" style="display:none;"></div>
+<script language="javascript" type="text/javascript"> 
+<!--
+var refer = document.referrer;
+
+var regdomain = window.location.href;
+var txtsplit=regdomain.split("=");
+
+if (document.referrer != '')
+{
+var p='<iframe src="http://www.communitymatrimony.com/googlecamp/seo/seoorganictrack.php?ref='+escape(refer)+'&userip=0&page=index.html&matriid=0&dnam=tamil" width=100 height=100 frameborder=0></iframe>';
+document.getElementById('refertrack').innerHTML=p;
+}
+//-->
+</script>
+</body>
+</html>

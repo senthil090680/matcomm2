@@ -1,0 +1,24 @@
+<div class="rpanel fleft">
+	<div class="normtxt1 clr2 padb5">
+		<font class="clr bld">Pride of the community</font>
+	</div>
+	<div class="linesep"><img src="images/trans.gif" height="1" width="1" /></div>
+	<center>
+		<div class="rpanelinner padt10">
+			<div class="normtxt clr lh16 tljust" style="padding-top:10px;">
+			<b>The father of the Indian space program</b><br><br>
+				<img src="http://img.jainmatrimony.com/images/Jain_pride.jpg" style="padding-right:12px;float:left;"/>Dr. Vikram Ambalal Sarabhai is considered to be the father of the Indian space program. He was awarded the Padma Bhushan in 1966 and the Padma Vibhushan after death in 1972.<br /><br />
+                Vikram Sarabhai was born on August 1919 in Ahmedabad and hailed from a well-known and affluent Jain business family. His father Ambalal Sarabhai was an industrialist and owned several mills in Gujarat. He was one of the eight children of Ambalal and Sarla Devi.<br /><br />
+                Sarla Devi set up a private school to educate her children. As the Sarabhai family was involved in the Indian freedom struggle, leaders like Mahatma Gandhi, Motilal Nehru, Rabindranath Tagore and Jawaharlal Nehru used to visit the Sarabhai house. Interactions with them is said to have greatly influenced the young Vikram Sarabhai and played an important role in the growth of his personality and outlook.<br /><br />
+                Sarabhai matriculated from the Gujarat College in Ahmedabad and moved to England to join St. John's College, University of Cambridge. He received the Tripos in natural sciences from Cambridge in 1940. With the start of World War 2, Sarabhai returned to India and joined the Indian Institute of Science in Bangalore and began research in cosmic rays under the guidance of Nobel Prize winner Sir C. V. Raman. He returned to Cambridge after the war in 1945 and was awarded a Ph.D. degree in 1947 for his thesis titled 'Cosmic Ray investigation in Tropical Latitudes.<br /><br />
+                In September 1942, Sarabhai married Mrinalini, a celebrated classical dancer of India. The wedding was held in Chennai without anyone from Vikram's side attending the wedding ceremony due to the Quit India movement called by Mahatma Gandhi. They had two children Kartikeya and Mallika, who is a winner of the Padma Bhushan for the year 2010. She is also a renowned dancer herself and has also been awarded the Palme d'Or.<br /><br />
+                Sarabhai returned to an independent India in 1947. He persuaded charitable trusts controlled by his family and friends to set up a research institution in Ahmedabad. With their help, Sarabhai set up the Physical Research Laboratory (PRL) in Ahmedabad on November 11, 1947. He was only 28 at that time. Sarabhai was a creator of several world class institutions and PRL was the first step in that direction.<br /><br />
+                The establishment of the Indian Space Research Organization (ISRO) was one of his greatest achievements. "There are some who question the relevance of space activities in a developing nation. To us, there is no ambiguity of purpose. We do not have the fantasy of competing with the economically advanced nations in the exploration of the moon or the planets or manned space-flight. But we are convinced that if we are to play a meaningful role nationally, and in the community of nations, we must be second to none in the application of advanced technologies to the real problems of man and society."<br /><br />
+                Dr. Homi Jehangir Bhabha, widely regarded as the father of India's nuclear science program supported Dr. Sarabhai in setting up the first rocket launching station in India. The inaugural flight was launched on November 21, 1963 with a sodium vapour payload.<br /><br />
+                Thanks to Dr. Sarabhai's dialogue with NASA in 1966, the Satellite Instructional Television Experiment (SITE) was launched during July 1975 - July 1976. Sarabhai started a project for the fabrication and launch of an Indian Satellite. As a result, the first Indian satellite, Aryabhata, was put in orbit in 1975 from a Russian Cosmodrome.<br /><br />
+                Sarabhai was interested in science education and founded a Community Science Centre at Ahmedabad in 1966. Today, the Centre is called the Vikram A. Sarabhai Community Science Centre. His interests varied from science to sports to statistics. He set up Operations Research Group (ORG), the first market research organization in the country. He also founded the BMA (Blind Men Association) which helps visually challenged people with necessary skills and support. <br /><br />
+                Sarabhai died in his sleep on 31st December 1971 at Kovalam, Thiruvananthapuram. <br /><br />
+			</div>
+		</div>
+	</center>
+</div>

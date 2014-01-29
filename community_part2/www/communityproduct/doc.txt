@@ -1,0 +1,31 @@
+CONF DIR - 0777
+domainslist  - 0777
+
+
+
+ALTER TABLE communityproduct.domaininfo ADD COLUMN Religion tinyint(1) UNSIGNED DEFAULT 0 AFTER DomainFolder;
+
+
+ALTER TABLE communityproduct.domaininfo ADD COLUMN Subcaste tinyint(1) UNSIGNED DEFAULT 0 AFTER DomainFolder;
+
+ALTER TABLE communityproduct.domaininfo ADD COLUMN SubcasteTxt tinyint(1) UNSIGNED DEFAULT 0 AFTER Subcaste;
+
+
+
+ALTER TABLE communityproduct.domaininfo ADD COLUMN Gothram tinyint(1) UNSIGNED DEFAULT 0 AFTER DomainFolder;
+
+ALTER TABLE communityproduct.domaininfo ADD COLUMN Star tinyint(1) UNSIGNED DEFAULT 0 AFTER Gothram;
+
+ALTER TABLE communityproduct.domaininfo ADD COLUMN Raasi tinyint(1) UNSIGNED DEFAULT 0 AFTER Star;
+
+
+ALTER TABLE communityproduct.domaininfo ADD COLUMN Dosham tinyint(1) UNSIGNED DEFAULT 0 AFTER Raasi;
+
+
+ALTER TABLE communityproduct.domaininfo ADD COLUMN RPSuccessStory tinyint(1) UNSIGNED DEFAULT 0 AFTER Dosham;
+
+
+ALTER TABLE communityproduct.domaininfo ADD COLUMN RPZedo tinyint(1) UNSIGNED DEFAULT 0 AFTER RPSuccessStory;
+
+
+ALTER TABLE communityproduct.domaininfo ADD COLUMN RPAdsense tinyint(1) UNSIGNED DEFAULT 0 AFTER RPZedo;

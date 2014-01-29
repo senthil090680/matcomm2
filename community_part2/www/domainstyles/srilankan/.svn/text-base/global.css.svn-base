@@ -1,0 +1,57 @@
+.button{ background: #E70353;padding:0px 4px 0px 4px !important;padding:1px 5px 0px 5px;border:1px solid #E70353;color: #FFFFFF; font: bold 12px arial, helvetica, sans-serif; overflow: visible; vertical-align: middle;cursor:pointer;}
+
+.clr, .address {color:#000000;} /* text color */
+.clr1{color:#006DC1;} /* link color */
+.clr2{color:#807F7F;} 
+.clr3{color:#820762;}
+.clr3{color:#08113C;}
+.clr4{color:#FFA1D3;}
+.wclr{color:#FFFFFF;font-family:Arial;font-size:12px;}
+
+.bgclr2{background:#DCEEFA;}
+.bgclr4{background:#08113C;}
+.topbgclr{background:#5F0133;}
+
+.menust1{padding-top:12px;height:28px !important;height:45px;background: url('http://imgs.srilankanmatrimony.com/images/srilankan/srimenbg.gif') repeat-x;}
+.menust2{padding-top:12px;height:33px !important;height:45px;background: url('http://imgs.srilankanmatrimony.com/images/srilankan/srimenhoverbg.gif') repeat-x;}
+.clract a{padding:12px 10px 10px 10px !important;padding:11px 10px 11px 10px;background: url('http://imgs.srilankanmatrimony.com/images/srilankan/srimenhoverbg.gif') repeat-x;color:#FFFFFF; font-family:Arial;font-weight:bold; font-size:14px;}
+.clract{height:33px !important;height:45px;background: url('http://imgs.srilankanmatrimony.com/images/srilankan/sri_dn_arrow.gif') no-repeat center bottom;color:#FFFFFF; font-family:Arial;font-weight:bold; font-size:14px;}
+
+.mrbrdr {border-right:1px solid #A81C68;border-top:1px solid #670238;}
+.mmbrdr1 {border-top:1px solid #A81C68;border-right:1px solid #A81C68;}
+
+.layer{border:1px solid #0286DA;border-top:0px solid #ffffff;display: none;position: absolute;background-color: #0286DA;padding: 5px 10px 10px 10px;line-height:18px;font-family: Arial,sans-serif;font-size: 11px;color: #FFFFFF;z-index:1001;}
+
+.mlayer{border:1px solid #A81C68;border-top:0px;border-right:0px;display: none;position: absolute;background-color: #820649;padding: 5px 10px 10px 10px;line-height:18px;font-family: Arial,sans-serif;font-size: 11px;color: #000000;z-index:1001;top:92px;}
+.mlayer1{border:1px solid #A81C68;border-top:0px;display: none;position: absolute;background-color: #820649;padding: 5px 10px 10px 10px;line-height:18px;font-family: Arial,sans-serif;font-size: 11px;color: #000000;z-index:1001;top:92px;}
+
+.errortxt, .alerttxt {color:#ff0000;}
+
+.clrw1{color:#FFFFFF;font-family:Arial;font-size:11px;}
+
+.pagingact{ color: #F26A26; float:left;}
+.prevact, .nextact{color: #006DC1; float:left;cursor:pointer;}
+.previnact, .nextinact, .nopaging{ color: #dbdbdb;}
+.paginginact{ color: #0B89D9;}
+.prevact, .nextact, .pagingact, .previnact, .nextinact, .nopaging, .paginginact{background: #FFFFFF;padding:0px 3px 0px 3px;border:1px solid #dbdbdb;font: bold 12px arial, helvetica, sans-serif; overflow: visible; vertical-align: middle;}
+#paging .prevact, .previnact, .nextact, .nextinact, .paginginact, .pagingact, .nopaging {float:left;}
+#paging .prevact, .nextact, .paginginact {cursor:pointer;}
+
+/* Admin */
+.heading{font-size:13px;color:#08113C;font-weight:bold;margin: 2px;padding:2px; }
+.adminformheader a{color:#9F3A86;}
+.clr5{color:#F26A26;}
+.clr6{color:#BF1693;}
+.clr7{color:#555555;}
+
+.bgclr7{background:#A63986;}
+.bgclr8{background:#F4DBED;}
+.payimg{width:20px;padding-top:0px !important;padding-top:2px;background: url('http://imgs.srilankanmatrimony.com/images/srilankan/chr_yes.gif') left no-repeat;}
+.paydot{width:150px !important;width:155px;height:1px;}
+.dotsep5{background:url(http://imgs.srilankanmatrimony.com/images/srilankan/chr_bttn.gif) left top repeat-x;}
+
+.viewoutbg{background:url(http://imgs.srilankanmatrimony.com/images/srilankan/viewouterbg.gif) repeat-y;}
+.footer-bg{background:url(http://imgs.srilankanmatrimony.com/images/srilankan/frep-bg.jpg) left top repeat-x;height:37px;}
+.foot,.foot ul{margin:0px;padding:0px 0 0 10px;}
+.foot li{list-style:none;float:left;font:11px arial;color:#006DC1;padding:12px 10px 0 0px;}
+.foot li a{text-decoration:none;color:#006DC1;}

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/communitymatrimony/!svn/ver/8442/www/mailer/templates/muslim
+END
+inboxbasic.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/communitymatrimony/!svn/ver/4702/www/mailer/templates/muslim/inboxbasic.tpl
+END
+profileAdminModify.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/communitymatrimony/!svn/ver/4304/www/mailer/templates/muslim/profileAdminModify.tpl
+END
+forgotPassword.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/communitymatrimony/!svn/ver/4304/www/mailer/templates/muslim/forgotPassword.tpl
+END
+inactive1.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/communitymatrimony/!svn/ver/4800/www/mailer/templates/muslim/inactive1.tpl
+END
+inactive2.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/communitymatrimony/!svn/ver/4800/www/mailer/templates/muslim/inactive2.tpl
+END
+inactive3.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/communitymatrimony/!svn/ver/4800/www/mailer/templates/muslim/inactive3.tpl
+END
+matchwatchbasic.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/communitymatrimony/!svn/ver/4330/www/mailer/templates/muslim/matchwatchbasic.tpl
+END
+paymentConfirmation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/communitymatrimony/!svn/ver/4584/www/mailer/templates/muslim/paymentConfirmation.tpl
+END
+profileModification.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/communitymatrimony/!svn/ver/4209/www/mailer/templates/muslim/profileModification.tpl
+END
+tme_assuredcontact.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/communitymatrimony/!svn/ver/4209/www/mailer/templates/muslim/tme_assuredcontact.tpl
+END
+profileDeleted.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/communitymatrimony/!svn/ver/4209/www/mailer/templates/muslim/profileDeleted.tpl
+END
+request.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/communitymatrimony/!svn/ver/8079/www/mailer/templates/muslim/request.tpl
+END
+registrationConfirm.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/communitymatrimony/!svn/ver/8079/www/mailer/templates/muslim/registrationConfirm.tpl
+END
+partnerpref.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/communitymatrimony/!svn/ver/4209/www/mailer/templates/muslim/partnerpref.tpl
+END
+modify_reject_request.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/communitymatrimony/!svn/ver/8442/www/mailer/templates/muslim/modify_reject_request.tpl
+END
+troublewithUrProfile.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/communitymatrimony/!svn/ver/8442/www/mailer/templates/muslim/troublewithUrProfile.tpl
+END
+phone_support.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/communitymatrimony/!svn/ver/5522/www/mailer/templates/muslim/phone_support.tpl
+END
+dailymatchwatch.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/communitymatrimony/!svn/ver/6994/www/mailer/templates/muslim/dailymatchwatch.tpl
+END
+messagemails.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/communitymatrimony/!svn/ver/8079/www/mailer/templates/muslim/messagemails.tpl
+END
+requestadded.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/communitymatrimony/!svn/ver/4209/www/mailer/templates/muslim/requestadded.tpl
+END
+profileValidation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/communitymatrimony/!svn/ver/4304/www/mailer/templates/muslim/profileValidation.tpl
+END
+rsscommunity.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/communitymatrimony/!svn/ver/4209/www/mailer/templates/muslim/rsscommunity.tpl
+END
